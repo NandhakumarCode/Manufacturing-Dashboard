@@ -1,0 +1,1113 @@
+﻿Date,Year,Producion Month,Producion_Month,Plant,Machine,Product,Shift,Target_Qty,Actual_Qty,Operator_ID,
+13-06-2025,2025,6,Jun,Plant A,Furnace 1,Disc,Shift A,94,96,O1,45821Disc96
+20-05-2025,2025,5,May,Plant A,Shot Blast,Cover,Shift A,81,84,O2,45797Cover84
+24-01-2025,2025,1,Jan,Plant A,Furnace 2,Housing,Shift C,92,88,O3,45681Housing88
+18-04-2025,2025,4,Apr,Plant A,Mould Line 2,Disc,Shift A,90,74,O4,45765Disc74
+28-06-2025,2025,6,Jun,Plant B,Mould Line 1,Disc,Shift A,93,101,O5,45836Disc101
+24-01-2025,2025,1,Jan,Plant B,Furnace 1,Disc,Shift B,118,115,O6,45681Disc115
+09-03-2025,2025,3,Mar,Plant A,Mould Line 2,Housing,Shift B,85,67,O7,45725Housing67
+08-06-2025,2025,6,Jun,Plant B,Shot Blast,Bracket,Shift C,84,77,O8,45816Bracket77
+12-01-2025,2025,1,Jan,Plant A,Mould Line 1,Housing,Shift A,86,77,O2,45669Housing77
+04-04-2025,2025,4,Apr,Plant A,Mould Line 1,Disc,Shift A,97,104,O4,45751Disc104
+29-06-2025,2025,6,Jun,Plant A,Shot Blast,Bracket,Shift C,95,100,O5,45837Bracket100
+13-06-2025,2025,6,Jun,Plant A,Mould Line 1,Housing,Shift A,82,90,O3,45821Housing90
+22-03-2025,2025,3,Mar,Plant B,Mould Line 1,Housing,Shift A,116,122,O8,45738Housing122
+17-06-2025,2025,6,Jun,Plant B,Mould Line 2,Cover,Shift A,96,89,O7,45825Cover89
+05-02-2025,2025,2,Feb,Plant A,Shot Blast,Disc,Shift C,117,105,O1,45693Disc105
+03-04-2025,2025,4,Apr,Plant A,Furnace 2,Cover,Shift A,83,88,O2,45750Cover88
+29-01-2025,2025,1,Jan,Plant A,Furnace 2,Cover,Shift C,84,73,O3,45686Cover73
+30-04-2025,2025,4,Apr,Plant B,Shot Blast,Housing,Shift C,87,95,O4,45777Housing95
+24-06-2025,2025,6,Jun,Plant B,Mould Line 1,Housing,Shift B,107,107,O5,45832Housing107
+09-03-2025,2025,3,Mar,Plant A,Shot Blast,Housing,Shift C,99,99,O6,45725Housing99
+13-06-2025,2025,6,Jun,Plant A,Furnace 2,Disc,Shift A,114,135,O7,45821Disc135
+01-01-2025,2025,1,Jan,Plant B,Mould Line 2,Housing,Shift A,103,96,O8,45658Housing96
+20-03-2025,2025,3,Mar,Plant A,Furnace 1,Bracket,Shift C,85,94,O2,45736Bracket94
+18-01-2025,2025,1,Jan,Plant A,Furnace 2,Cover,Shift C,90,95,O4,45675Cover95
+09-03-2025,2025,3,Mar,Plant B,Furnace 2,Bracket,Shift C,99,86,O5,45725Bracket86
+06-04-2025,2025,4,Apr,Plant B,Shot Blast,Cover,Shift A,95,103,O3,45753Cover103
+27-02-2025,2025,2,Feb,Plant A,Mould Line 1,Housing,Shift C,115,115,O8,45715Housing115
+19-01-2025,2025,1,Jan,Plant A,Furnace 2,Housing,Shift A,101,107,O7,45676Housing107
+19-01-2025,2025,1,Jan,Plant A,Mould Line 1,Cover,Shift A,114,129,O1,45676Cover129
+27-05-2025,2025,5,May,Plant B,Furnace 2,Cover,Shift B,92,109,O2,45804Cover109
+25-01-2025,2025,1,Jan,Plant A,Mould Line 2,Disc,Shift B,106,90,O3,45682Disc90
+22-06-2025,2025,6,Jun,Plant A,Furnace 1,Cover,Shift C,101,104,O4,45830Cover104
+28-01-2025,2025,1,Jan,Plant A,Furnace 2,Bracket,Shift C,108,112,O5,45685Bracket112
+29-04-2025,2025,4,Apr,Plant A,Furnace 1,Cover,Shift C,86,90,O6,45776Cover90
+13-01-2025,2025,1,Jan,Plant A,Furnace 1,Bracket,Shift A,106,99,O7,45670Bracket99
+13-04-2025,2025,4,Apr,Plant A,Furnace 2,Cover,Shift A,104,104,O8,45760Cover104
+09-03-2025,2025,3,Mar,Plant B,Mould Line 1,Cover,Shift C,115,108,O2,45725Cover108
+18-02-2025,2025,2,Feb,Plant B,Furnace 2,Housing,Shift C,114,104,O4,45706Housing104
+16-01-2025,2025,1,Jan,Plant B,Furnace 1,Housing,Shift C,110,90,O5,45673Housing90
+10-02-2025,2025,2,Feb,Plant A,Shot Blast,Housing,Shift A,84,83,O3,45698Housing83
+02-06-2025,2025,6,Jun,Plant A,Furnace 2,Cover,Shift A,116,116,O8,45810Cover116
+08-06-2025,2025,6,Jun,Plant A,Mould Line 2,Disc,Shift B,93,106,O7,45816Disc106
+21-06-2025,2025,6,Jun,Plant B,Furnace 2,Disc,Shift B,88,84,O1,45829Disc84
+22-03-2025,2025,3,Mar,Plant A,Furnace 1,Cover,Shift C,116,108,O2,45738Cover108
+26-01-2025,2025,1,Jan,Plant A,Shot Blast,Bracket,Shift C,96,102,O3,45683Bracket102
+18-01-2025,2025,1,Jan,Plant A,Mould Line 1,Disc,Shift A,108,114,O4,45675Disc114
+20-05-2025,2025,5,May,Plant B,Shot Blast,Housing,Shift C,115,110,O5,45797Housing110
+04-02-2025,2025,2,Feb,Plant B,Furnace 1,Housing,Shift C,115,129,O6,45692Housing129
+09-02-2025,2025,2,Feb,Plant B,Mould Line 1,Bracket,Shift C,101,105,O7,45697Bracket105
+09-03-2025,2025,3,Mar,Plant B,Mould Line 1,Housing,Shift A,120,133,O8,45725Housing133
+19-04-2025,2025,4,Apr,Plant B,Furnace 1,Housing,Shift B,88,82,O2,45766Housing82
+24-04-2025,2025,4,Apr,Plant B,Shot Blast,Housing,Shift A,84,78,O4,45771Housing78
+26-06-2025,2025,6,Jun,Plant A,Shot Blast,Housing,Shift B,117,106,O5,45834Housing106
+11-01-2025,2025,1,Jan,Plant B,Mould Line 1,Housing,Shift B,93,89,O3,45668Housing89
+24-06-2025,2025,6,Jun,Plant A,Furnace 1,Disc,Shift C,106,122,O8,45832Disc122
+02-03-2025,2025,3,Mar,Plant A,Furnace 2,Cover,Shift A,91,88,O7,45718Cover88
+27-03-2025,2025,3,Mar,Plant B,Furnace 2,Disc,Shift A,86,83,O1,45743Disc83
+01-05-2025,2025,5,May,Plant A,Furnace 2,Cover,Shift B,99,100,O2,45778Cover100
+28-02-2025,2025,2,Feb,Plant A,Furnace 1,Bracket,Shift B,101,100,O3,45716Bracket100
+13-03-2025,2025,3,Mar,Plant B,Shot Blast,Cover,Shift C,114,117,O4,45729Cover117
+26-03-2025,2025,3,Mar,Plant A,Furnace 1,Disc,Shift A,117,124,O5,45742Disc124
+28-01-2025,2025,1,Jan,Plant B,Mould Line 1,Disc,Shift B,118,116,O6,45685Disc116
+11-05-2025,2025,5,May,Plant A,Mould Line 2,Bracket,Shift B,82,81,O7,45788Bracket81
+18-05-2025,2025,5,May,Plant A,Mould Line 1,Cover,Shift A,101,100,O8,45795Cover100
+09-06-2025,2025,6,Jun,Plant B,Furnace 1,Disc,Shift C,99,94,O2,45817Disc94
+28-06-2025,2025,6,Jun,Plant B,Shot Blast,Bracket,Shift A,106,98,O4,45836Bracket98
+20-06-2025,2025,6,Jun,Plant B,Furnace 2,Disc,Shift B,115,119,O5,45828Disc119
+23-02-2025,2025,2,Feb,Plant B,Shot Blast,Disc,Shift B,108,100,O3,45711Disc100
+24-04-2025,2025,4,Apr,Plant A,Shot Blast,Cover,Shift C,90,85,O8,45771Cover85
+19-06-2025,2025,6,Jun,Plant B,Furnace 1,Bracket,Shift C,99,92,O7,45827Bracket92
+27-02-2025,2025,2,Feb,Plant A,Furnace 2,Housing,Shift A,95,108,O1,45715Housing108
+19-01-2025,2025,1,Jan,Plant B,Mould Line 2,Bracket,Shift C,104,102,O2,45676Bracket102
+07-05-2025,2025,5,May,Plant B,Furnace 2,Bracket,Shift C,80,95,O3,45784Bracket95
+28-01-2025,2025,1,Jan,Plant B,Furnace 2,Bracket,Shift C,113,100,O4,45685Bracket100
+29-04-2025,2025,4,Apr,Plant A,Shot Blast,Bracket,Shift A,109,116,O5,45776Bracket116
+16-05-2025,2025,5,May,Plant B,Mould Line 2,Cover,Shift C,108,116,O6,45793Cover116
+10-02-2025,2025,2,Feb,Plant B,Mould Line 2,Disc,Shift A,120,117,O7,45698Disc117
+05-05-2025,2025,5,May,Plant A,Mould Line 1,Cover,Shift A,98,115,O8,45782Cover115
+02-03-2025,2025,3,Mar,Plant B,Mould Line 1,Disc,Shift C,85,89,O2,45718Disc89
+27-06-2025,2025,6,Jun,Plant A,Furnace 2,Housing,Shift B,106,111,O4,45835Housing111
+26-03-2025,2025,3,Mar,Plant B,Mould Line 2,Housing,Shift A,106,92,O5,45742Housing92
+28-06-2025,2025,6,Jun,Plant A,Shot Blast,Cover,Shift B,80,90,O3,45836Cover90
+01-04-2025,2025,4,Apr,Plant B,Mould Line 2,Cover,Shift C,114,120,O8,45748Cover120
+05-05-2025,2025,5,May,Plant A,Mould Line 1,Cover,Shift B,81,60,O7,45782Cover60
+10-04-2025,2025,4,Apr,Plant B,Mould Line 2,Bracket,Shift B,88,100,O1,45757Bracket100
+11-04-2025,2025,4,Apr,Plant A,Furnace 1,Cover,Shift A,109,107,O2,45758Cover107
+16-02-2025,2025,2,Feb,Plant A,Mould Line 1,Cover,Shift B,93,84,O3,45704Cover84
+08-04-2025,2025,4,Apr,Plant B,Mould Line 2,Disc,Shift A,110,112,O4,45755Disc112
+05-01-2025,2025,1,Jan,Plant A,Mould Line 1,Bracket,Shift C,84,86,O5,45662Bracket86
+08-01-2025,2025,1,Jan,Plant A,Furnace 2,Housing,Shift C,89,74,O6,45665Housing74
+03-03-2025,2025,3,Mar,Plant A,Mould Line 2,Housing,Shift C,93,85,O7,45719Housing85
+05-04-2025,2025,4,Apr,Plant A,Shot Blast,Housing,Shift A,99,100,O8,45752Housing100
+28-01-2025,2025,1,Jan,Plant A,Mould Line 1,Cover,Shift B,92,105,O2,45685Cover105
+10-06-2025,2025,6,Jun,Plant A,Furnace 1,Disc,Shift C,118,125,O4,45818Disc125
+31-01-2025,2025,1,Jan,Plant A,Mould Line 1,Cover,Shift C,103,116,O5,45688Cover116
+04-01-2025,2025,1,Jan,Plant B,Mould Line 2,Housing,Shift B,103,109,O3,45661Housing109
+12-06-2025,2025,6,Jun,Plant B,Furnace 2,Cover,Shift A,113,120,O8,45820Cover120
+18-05-2025,2025,5,May,Plant B,Mould Line 2,Cover,Shift C,117,115,O7,45795Cover115
+10-03-2025,2025,3,Mar,Plant B,Furnace 2,Housing,Shift B,108,108,O1,45726Housing108
+06-06-2025,2025,6,Jun,Plant B,Mould Line 1,Housing,Shift B,100,111,O2,45814Housing111
+16-02-2025,2025,2,Feb,Plant B,Furnace 2,Disc,Shift B,101,98,O3,45704Disc98
+12-03-2025,2025,3,Mar,Plant A,Shot Blast,Bracket,Shift A,95,108,O4,45728Bracket108
+15-04-2025,2025,4,Apr,Plant B,Shot Blast,Bracket,Shift C,110,102,O5,45762Bracket102
+05-01-2025,2025,1,Jan,Plant A,Mould Line 1,Bracket,Shift B,95,85,O6,45662Bracket85
+20-03-2025,2025,3,Mar,Plant B,Mould Line 2,Disc,Shift B,115,107,O7,45736Disc107
+11-03-2025,2025,3,Mar,Plant B,Mould Line 1,Bracket,Shift A,92,105,O8,45727Bracket105
+22-03-2025,2025,3,Mar,Plant A,Shot Blast,Bracket,Shift A,93,92,O2,45738Bracket92
+31-05-2025,2025,5,May,Plant B,Furnace 1,Bracket,Shift B,94,85,O4,45808Bracket85
+03-04-2025,2025,4,Apr,Plant A,Mould Line 1,Housing,Shift C,114,116,O5,45750Housing116
+14-01-2025,2025,1,Jan,Plant B,Furnace 2,Cover,Shift A,80,82,O3,45671Cover82
+27-05-2025,2025,5,May,Plant B,Mould Line 2,Cover,Shift B,101,102,O8,45804Cover102
+03-05-2025,2025,5,May,Plant A,Furnace 1,Cover,Shift B,84,86,O7,45780Cover86
+28-05-2025,2025,5,May,Plant A,Furnace 2,Bracket,Shift C,99,105,O1,45805Bracket105
+23-05-2025,2025,5,May,Plant B,Shot Blast,Bracket,Shift C,104,107,O2,45800Bracket107
+26-04-2025,2025,4,Apr,Plant B,Mould Line 1,Cover,Shift B,116,106,O3,45773Cover106
+26-01-2025,2025,1,Jan,Plant A,Furnace 2,Disc,Shift C,85,75,O4,45683Disc75
+10-02-2025,2025,2,Feb,Plant A,Furnace 2,Housing,Shift A,80,67,O5,45698Housing67
+01-05-2025,2025,5,May,Plant B,Furnace 1,Bracket,Shift B,98,106,O6,45778Bracket106
+29-06-2025,2025,6,Jun,Plant B,Furnace 1,Bracket,Shift B,120,104,O7,45837Bracket104
+20-02-2025,2025,2,Feb,Plant B,Furnace 1,Bracket,Shift C,89,79,O8,45708Bracket79
+10-03-2025,2025,3,Mar,Plant A,Furnace 1,Housing,Shift A,99,83,O2,45726Housing83
+15-03-2025,2025,3,Mar,Plant B,Furnace 1,Cover,Shift C,99,88,O4,45731Cover88
+29-06-2025,2025,6,Jun,Plant B,Mould Line 1,Cover,Shift B,85,67,O5,45837Cover67
+24-03-2025,2025,3,Mar,Plant B,Furnace 1,Housing,Shift A,116,103,O3,45740Housing103
+31-05-2025,2025,5,May,Plant A,Mould Line 1,Housing,Shift A,110,99,O8,45808Housing99
+13-03-2025,2025,3,Mar,Plant A,Shot Blast,Cover,Shift C,111,109,O7,45729Cover109
+24-01-2025,2025,1,Jan,Plant B,Mould Line 1,Cover,Shift B,100,90,O1,45681Cover90
+26-03-2025,2025,3,Mar,Plant B,Mould Line 2,Disc,Shift C,105,87,O2,45742Disc87
+21-05-2025,2025,5,May,Plant A,Mould Line 2,Housing,Shift B,96,84,O3,45798Housing84
+14-04-2025,2025,4,Apr,Plant A,Shot Blast,Cover,Shift B,83,106,O4,45761Cover106
+18-02-2025,2025,2,Feb,Plant B,Shot Blast,Cover,Shift C,108,108,O5,45706Cover108
+21-05-2025,2025,5,May,Plant A,Mould Line 1,Cover,Shift C,111,104,O6,45798Cover104
+01-02-2025,2025,2,Feb,Plant A,Shot Blast,Bracket,Shift C,90,89,O7,45689Bracket89
+15-04-2025,2025,4,Apr,Plant A,Furnace 2,Housing,Shift B,87,88,O8,45762Housing88
+15-06-2025,2025,6,Jun,Plant A,Mould Line 2,Disc,Shift C,97,87,O2,45823Disc87
+01-05-2025,2025,5,May,Plant A,Mould Line 2,Bracket,Shift B,92,97,O4,45778Bracket97
+03-06-2025,2025,6,Jun,Plant A,Furnace 1,Disc,Shift B,101,111,O5,45811Disc111
+01-01-2025,2025,1,Jan,Plant B,Mould Line 1,Cover,Shift A,108,103,O3,45658Cover103
+18-05-2025,2025,5,May,Plant B,Mould Line 1,Disc,Shift C,114,97,O8,45795Disc97
+18-02-2025,2025,2,Feb,Plant A,Shot Blast,Cover,Shift A,106,122,O7,45706Cover122
+12-01-2025,2025,1,Jan,Plant B,Mould Line 2,Cover,Shift B,89,86,O1,45669Cover86
+09-05-2025,2025,5,May,Plant B,Furnace 1,Cover,Shift A,113,113,O2,45786Cover113
+27-04-2025,2025,4,Apr,Plant A,Furnace 2,Cover,Shift C,89,104,O3,45774Cover104
+09-03-2025,2025,3,Mar,Plant B,Shot Blast,Cover,Shift C,85,92,O4,45725Cover92
+26-03-2025,2025,3,Mar,Plant B,Mould Line 1,Cover,Shift C,82,76,O5,45742Cover76
+25-06-2025,2025,6,Jun,Plant B,Furnace 2,Housing,Shift B,86,81,O6,45833Housing81
+12-06-2025,2025,6,Jun,Plant A,Mould Line 2,Bracket,Shift C,99,101,O7,45820Bracket101
+15-01-2025,2025,1,Jan,Plant B,Mould Line 1,Disc,Shift B,89,87,O8,45672Disc87
+04-03-2025,2025,3,Mar,Plant B,Shot Blast,Bracket,Shift A,91,108,O2,45720Bracket108
+08-06-2025,2025,6,Jun,Plant A,Mould Line 2,Bracket,Shift A,109,118,O4,45816Bracket118
+13-06-2025,2025,6,Jun,Plant B,Mould Line 2,Disc,Shift C,80,89,O5,45821Disc89
+15-03-2025,2025,3,Mar,Plant A,Furnace 1,Cover,Shift B,117,110,O3,45731Cover110
+18-03-2025,2025,3,Mar,Plant B,Mould Line 1,Cover,Shift B,92,111,O8,45734Cover111
+28-01-2025,2025,1,Jan,Plant A,Mould Line 2,Disc,Shift C,98,97,O7,45685Disc97
+29-06-2025,2025,6,Jun,Plant B,Furnace 1,Cover,Shift B,80,66,O1,45837Cover66
+13-01-2025,2025,1,Jan,Plant B,Mould Line 1,Bracket,Shift C,102,95,O2,45670Bracket95
+26-02-2025,2025,2,Feb,Plant A,Shot Blast,Disc,Shift C,88,73,O3,45714Disc73
+15-06-2025,2025,6,Jun,Plant A,Mould Line 1,Cover,Shift A,117,101,O4,45823Cover101
+04-04-2025,2025,4,Apr,Plant A,Furnace 1,Disc,Shift B,106,108,O5,45751Disc108
+19-05-2025,2025,5,May,Plant B,Shot Blast,Disc,Shift A,96,100,O6,45796Disc100
+04-05-2025,2025,5,May,Plant B,Mould Line 1,Housing,Shift B,84,100,O7,45781Housing100
+23-06-2025,2025,6,Jun,Plant B,Shot Blast,Disc,Shift A,105,125,O8,45831Disc125
+04-01-2025,2025,1,Jan,Plant B,Shot Blast,Housing,Shift B,103,96,O2,45661Housing96
+30-05-2025,2025,5,May,Plant B,Mould Line 1,Housing,Shift C,94,80,O4,45807Housing80
+01-05-2025,2025,5,May,Plant A,Shot Blast,Disc,Shift C,94,85,O5,45778Disc85
+29-04-2025,2025,4,Apr,Plant B,Mould Line 2,Housing,Shift A,82,70,O3,45776Housing70
+10-01-2025,2025,1,Jan,Plant B,Mould Line 2,Housing,Shift A,95,99,O8,45667Housing99
+27-04-2025,2025,4,Apr,Plant B,Shot Blast,Cover,Shift C,89,85,O7,45774Cover85
+17-04-2025,2025,4,Apr,Plant A,Mould Line 2,Cover,Shift B,82,79,O1,45764Cover79
+24-04-2025,2025,4,Apr,Plant A,Mould Line 1,Housing,Shift C,103,96,O2,45771Housing96
+20-05-2025,2025,5,May,Plant B,Furnace 1,Cover,Shift B,92,115,O3,45797Cover115
+27-04-2025,2025,4,Apr,Plant A,Furnace 2,Housing,Shift A,101,96,O4,45774Housing96
+04-03-2025,2025,3,Mar,Plant A,Shot Blast,Bracket,Shift A,115,116,O5,45720Bracket116
+01-03-2025,2025,3,Mar,Plant B,Furnace 2,Housing,Shift B,89,95,O6,45717Housing95
+03-02-2025,2025,2,Feb,Plant B,Furnace 2,Housing,Shift C,81,87,O7,45691Housing87
+02-03-2025,2025,3,Mar,Plant B,Furnace 1,Bracket,Shift B,83,89,O8,45718Bracket89
+02-02-2025,2025,2,Feb,Plant B,Shot Blast,Housing,Shift C,84,66,O2,45690Housing66
+12-05-2025,2025,5,May,Plant A,Mould Line 2,Bracket,Shift C,82,84,O4,45789Bracket84
+18-06-2025,2025,6,Jun,Plant B,Mould Line 2,Housing,Shift A,110,116,O5,45826Housing116
+28-01-2025,2025,1,Jan,Plant B,Mould Line 2,Housing,Shift A,100,91,O3,45685Housing91
+05-06-2025,2025,6,Jun,Plant A,Furnace 1,Bracket,Shift B,119,110,O8,45813Bracket110
+25-03-2025,2025,3,Mar,Plant B,Shot Blast,Disc,Shift B,112,102,O7,45741Disc102
+04-06-2025,2025,6,Jun,Plant B,Furnace 1,Housing,Shift C,115,113,O1,45812Housing113
+26-04-2025,2025,4,Apr,Plant A,Mould Line 2,Disc,Shift B,105,98,O2,45773Disc98
+17-04-2025,2025,4,Apr,Plant A,Mould Line 1,Cover,Shift B,96,91,O3,45764Cover91
+02-05-2025,2025,5,May,Plant A,Furnace 1,Housing,Shift A,107,111,O4,45779Housing111
+25-01-2025,2025,1,Jan,Plant B,Furnace 2,Housing,Shift C,115,101,O5,45682Housing101
+16-04-2025,2025,4,Apr,Plant B,Mould Line 2,Housing,Shift B,118,112,O6,45763Housing112
+21-03-2025,2025,3,Mar,Plant B,Furnace 1,Bracket,Shift A,110,110,O7,45737Bracket110
+23-05-2025,2025,5,May,Plant B,Furnace 1,Disc,Shift C,94,98,O8,45800Disc98
+20-04-2025,2025,4,Apr,Plant A,Shot Blast,Disc,Shift A,91,88,O2,45767Disc88
+28-03-2025,2025,3,Mar,Plant B,Furnace 1,Bracket,Shift A,116,132,O4,45744Bracket132
+18-06-2025,2025,6,Jun,Plant B,Furnace 1,Bracket,Shift C,120,124,O5,45826Bracket124
+16-05-2025,2025,5,May,Plant A,Mould Line 2,Cover,Shift B,101,100,O3,45793Cover100
+10-02-2025,2025,2,Feb,Plant B,Mould Line 1,Disc,Shift C,118,120,O8,45698Disc120
+10-02-2025,2025,2,Feb,Plant A,Furnace 1,Disc,Shift B,107,108,O7,45698Disc108
+05-05-2025,2025,5,May,Plant B,Mould Line 2,Disc,Shift A,112,120,O1,45782Disc120
+14-03-2025,2025,3,Mar,Plant B,Shot Blast,Disc,Shift A,94,100,O2,45730Disc100
+12-04-2025,2025,4,Apr,Plant A,Furnace 1,Bracket,Shift B,93,94,O3,45759Bracket94
+16-03-2025,2025,3,Mar,Plant B,Furnace 1,Housing,Shift B,107,90,O4,45732Housing90
+14-02-2025,2025,2,Feb,Plant A,Mould Line 2,Bracket,Shift C,115,124,O5,45702Bracket124
+19-01-2025,2025,1,Jan,Plant B,Furnace 1,Cover,Shift A,109,93,O6,45676Cover93
+20-01-2025,2025,1,Jan,Plant B,Shot Blast,Cover,Shift C,105,102,O7,45677Cover102
+30-01-2025,2025,1,Jan,Plant B,Furnace 1,Disc,Shift A,119,108,O8,45687Disc108
+28-04-2025,2025,4,Apr,Plant B,Furnace 1,Cover,Shift A,95,85,O2,45775Cover85
+21-01-2025,2025,1,Jan,Plant B,Mould Line 1,Disc,Shift A,101,104,O4,45678Disc104
+13-02-2025,2025,2,Feb,Plant A,Shot Blast,Housing,Shift C,112,117,O5,45701Housing117
+31-03-2025,2025,3,Mar,Plant A,Furnace 2,Housing,Shift A,96,112,O3,45747Housing112
+20-02-2025,2025,2,Feb,Plant A,Shot Blast,Bracket,Shift C,84,91,O8,45708Bracket91
+07-05-2025,2025,5,May,Plant B,Shot Blast,Cover,Shift C,116,131,O7,45784Cover131
+14-06-2025,2025,6,Jun,Plant B,Mould Line 1,Bracket,Shift B,84,70,O1,45822Bracket70
+12-03-2025,2025,3,Mar,Plant A,Mould Line 1,Housing,Shift B,109,111,O2,45728Housing111
+26-04-2025,2025,4,Apr,Plant A,Furnace 1,Disc,Shift B,84,67,O3,45773Disc67
+24-01-2025,2025,1,Jan,Plant B,Mould Line 2,Housing,Shift B,116,94,O4,45681Housing94
+16-06-2025,2025,6,Jun,Plant A,Mould Line 1,Cover,Shift C,89,99,O5,45824Cover99
+29-03-2025,2025,3,Mar,Plant A,Shot Blast,Bracket,Shift A,95,92,O6,45745Bracket92
+23-04-2025,2025,4,Apr,Plant B,Shot Blast,Bracket,Shift B,103,111,O7,45770Bracket111
+28-03-2025,2025,3,Mar,Plant A,Mould Line 1,Housing,Shift B,86,81,O8,45744Housing81
+23-05-2025,2025,5,May,Plant B,Mould Line 1,Disc,Shift C,118,124,O2,45800Disc124
+30-05-2025,2025,5,May,Plant A,Mould Line 1,Disc,Shift C,105,98,O4,45807Disc98
+03-02-2025,2025,2,Feb,Plant A,Mould Line 1,Cover,Shift C,101,106,O5,45691Cover106
+25-06-2025,2025,6,Jun,Plant A,Mould Line 2,Disc,Shift A,103,89,O3,45833Disc89
+21-03-2025,2025,3,Mar,Plant A,Furnace 2,Disc,Shift B,92,92,O8,45737Disc92
+20-01-2025,2025,1,Jan,Plant B,Furnace 1,Housing,Shift C,101,106,O7,45677Housing106
+08-06-2025,2025,6,Jun,Plant A,Shot Blast,Cover,Shift A,90,96,O1,45816Cover96
+09-06-2025,2025,6,Jun,Plant A,Mould Line 2,Housing,Shift B,103,116,O2,45817Housing116
+23-06-2025,2025,6,Jun,Plant A,Mould Line 2,Disc,Shift C,108,108,O3,45831Disc108
+01-05-2025,2025,5,May,Plant A,Mould Line 1,Cover,Shift B,98,105,O4,45778Cover105
+08-04-2025,2025,4,Apr,Plant B,Furnace 2,Bracket,Shift C,88,90,O5,45755Bracket90
+04-05-2025,2025,5,May,Plant B,Shot Blast,Housing,Shift C,113,110,O6,45781Housing110
+01-02-2025,2025,2,Feb,Plant B,Furnace 1,Bracket,Shift B,108,112,O7,45689Bracket112
+22-04-2025,2025,4,Apr,Plant A,Furnace 2,Cover,Shift B,81,77,O8,45769Cover77
+17-04-2025,2025,4,Apr,Plant A,Mould Line 2,Disc,Shift A,104,113,O2,45764Disc113
+08-01-2025,2025,1,Jan,Plant B,Furnace 1,Disc,Shift A,88,87,O4,45665Disc87
+10-01-2025,2025,1,Jan,Plant B,Mould Line 2,Bracket,Shift C,110,109,O5,45667Bracket109
+21-01-2025,2025,1,Jan,Plant A,Mould Line 1,Bracket,Shift A,115,115,O3,45678Bracket115
+05-06-2025,2025,6,Jun,Plant B,Furnace 1,Disc,Shift A,99,104,O8,45813Disc104
+13-06-2025,2025,6,Jun,Plant B,Furnace 1,Housing,Shift B,118,123,O7,45821Housing123
+18-05-2025,2025,5,May,Plant A,Shot Blast,Bracket,Shift C,89,88,O1,45795Bracket88
+01-04-2025,2025,4,Apr,Plant A,Shot Blast,Cover,Shift A,85,85,O2,45748Cover85
+15-05-2025,2025,5,May,Plant B,Furnace 1,Housing,Shift B,110,119,O3,45792Housing119
+06-04-2025,2025,4,Apr,Plant B,Furnace 1,Disc,Shift A,102,104,O4,45753Disc104
+03-03-2025,2025,3,Mar,Plant A,Shot Blast,Disc,Shift A,82,76,O5,45719Disc76
+14-06-2025,2025,6,Jun,Plant A,Mould Line 2,Cover,Shift C,91,98,O6,45822Cover98
+04-02-2025,2025,2,Feb,Plant A,Mould Line 2,Housing,Shift B,92,98,O7,45692Housing98
+11-01-2025,2025,1,Jan,Plant B,Mould Line 1,Cover,Shift C,110,111,O8,45668Cover111
+06-03-2025,2025,3,Mar,Plant A,Furnace 2,Disc,Shift B,83,88,O2,45722Disc88
+01-02-2025,2025,2,Feb,Plant B,Mould Line 2,Cover,Shift C,108,101,O4,45689Cover101
+09-04-2025,2025,4,Apr,Plant B,Furnace 2,Cover,Shift C,111,98,O5,45756Cover98
+10-03-2025,2025,3,Mar,Plant A,Mould Line 2,Housing,Shift B,118,131,O3,45726Housing131
+16-02-2025,2025,2,Feb,Plant B,Mould Line 1,Housing,Shift A,100,95,O8,45704Housing95
+04-06-2025,2025,6,Jun,Plant B,Furnace 2,Cover,Shift B,108,100,O7,45812Cover100
+11-01-2025,2025,1,Jan,Plant B,Shot Blast,Cover,Shift B,120,144,O1,45668Cover144
+20-01-2025,2025,1,Jan,Plant B,Mould Line 1,Bracket,Shift A,89,85,O2,45677Bracket85
+05-06-2025,2025,6,Jun,Plant B,Furnace 1,Bracket,Shift A,95,96,O3,45813Bracket96
+09-04-2025,2025,4,Apr,Plant A,Shot Blast,Bracket,Shift C,108,98,O4,45756Bracket98
+05-04-2025,2025,4,Apr,Plant B,Mould Line 2,Housing,Shift C,88,78,O5,45752Housing78
+16-06-2025,2025,6,Jun,Plant B,Furnace 2,Housing,Shift A,91,89,O6,45824Housing89
+08-05-2025,2025,5,May,Plant B,Shot Blast,Housing,Shift B,96,94,O7,45785Housing94
+06-06-2025,2025,6,Jun,Plant B,Mould Line 2,Bracket,Shift A,88,81,O8,45814Bracket81
+19-01-2025,2025,1,Jan,Plant B,Furnace 2,Cover,Shift A,100,92,O2,45676Cover92
+21-05-2025,2025,5,May,Plant B,Mould Line 1,Bracket,Shift C,120,106,O4,45798Bracket106
+14-02-2025,2025,2,Feb,Plant B,Shot Blast,Bracket,Shift A,92,93,O5,45702Bracket93
+07-05-2025,2025,5,May,Plant A,Mould Line 1,Disc,Shift B,115,107,O3,45784Disc107
+03-02-2025,2025,2,Feb,Plant A,Furnace 1,Disc,Shift B,110,93,O8,45691Disc93
+28-05-2025,2025,5,May,Plant A,Furnace 2,Disc,Shift C,84,81,O7,45805Disc81
+26-04-2025,2025,4,Apr,Plant B,Shot Blast,Disc,Shift A,115,110,O1,45773Disc110
+03-02-2025,2025,2,Feb,Plant B,Shot Blast,Housing,Shift A,113,108,O2,45691Housing108
+09-02-2025,2025,2,Feb,Plant B,Furnace 2,Bracket,Shift B,94,80,O3,45697Bracket80
+14-03-2025,2025,3,Mar,Plant A,Mould Line 1,Bracket,Shift C,115,134,O4,45730Bracket134
+12-03-2025,2025,3,Mar,Plant A,Mould Line 1,Housing,Shift C,90,78,O5,45728Housing78
+13-02-2025,2025,2,Feb,Plant B,Shot Blast,Housing,Shift A,85,77,O6,45701Housing77
+12-01-2025,2025,1,Jan,Plant B,Furnace 2,Cover,Shift C,120,140,O7,45669Cover140
+20-05-2025,2025,5,May,Plant B,Mould Line 1,Cover,Shift A,105,108,O8,45797Cover108
+18-03-2025,2025,3,Mar,Plant B,Furnace 1,Housing,Shift A,108,98,O2,45734Housing98
+29-03-2025,2025,3,Mar,Plant A,Mould Line 1,Disc,Shift C,102,107,O4,45745Disc107
+13-04-2025,2025,4,Apr,Plant A,Mould Line 1,Housing,Shift B,95,87,O5,45760Housing87
+05-03-2025,2025,3,Mar,Plant A,Furnace 1,Housing,Shift B,104,105,O3,45721Housing105
+07-06-2025,2025,6,Jun,Plant B,Furnace 2,Bracket,Shift B,116,114,O8,45815Bracket114
+10-02-2025,2025,2,Feb,Plant B,Shot Blast,Cover,Shift B,99,92,O7,45698Cover92
+08-05-2025,2025,5,May,Plant A,Furnace 1,Cover,Shift C,109,115,O1,45785Cover115
+01-04-2025,2025,4,Apr,Plant A,Furnace 1,Disc,Shift B,118,116,O2,45748Disc116
+17-06-2025,2025,6,Jun,Plant B,Mould Line 1,Housing,Shift A,107,112,O3,45825Housing112
+04-04-2025,2025,4,Apr,Plant B,Mould Line 1,Housing,Shift B,83,88,O4,45751Housing88
+26-05-2025,2025,5,May,Plant A,Mould Line 1,Disc,Shift A,104,87,O5,45803Disc87
+13-03-2025,2025,3,Mar,Plant A,Furnace 2,Housing,Shift B,103,102,O6,45729Housing102
+28-03-2025,2025,3,Mar,Plant B,Furnace 2,Bracket,Shift C,112,109,O7,45744Bracket109
+10-01-2025,2025,1,Jan,Plant A,Mould Line 1,Cover,Shift C,109,110,O8,45667Cover110
+08-02-2025,2025,2,Feb,Plant A,Mould Line 1,Disc,Shift A,105,121,O2,45696Disc121
+18-03-2025,2025,3,Mar,Plant B,Shot Blast,Cover,Shift C,116,115,O4,45734Cover115
+18-03-2025,2025,3,Mar,Plant B,Furnace 1,Disc,Shift B,87,100,O5,45734Disc100
+26-06-2025,2025,6,Jun,Plant A,Shot Blast,Cover,Shift B,117,115,O3,45834Cover115
+28-05-2025,2025,5,May,Plant A,Furnace 1,Cover,Shift A,113,103,O8,45805Cover103
+08-04-2025,2025,4,Apr,Plant A,Furnace 2,Housing,Shift C,87,76,O7,45755Housing76
+18-02-2025,2025,2,Feb,Plant A,Mould Line 2,Disc,Shift B,89,83,O1,45706Disc83
+09-05-2025,2025,5,May,Plant B,Furnace 1,Bracket,Shift C,93,96,O2,45786Bracket96
+24-05-2025,2025,5,May,Plant B,Mould Line 2,Cover,Shift B,91,79,O3,45801Cover79
+20-05-2025,2025,5,May,Plant B,Mould Line 1,Cover,Shift A,95,98,O4,45797Cover98
+13-03-2025,2025,3,Mar,Plant B,Furnace 2,Disc,Shift B,93,88,O5,45729Disc88
+03-05-2025,2025,5,May,Plant B,Shot Blast,Disc,Shift B,87,76,O6,45780Disc76
+27-05-2025,2025,5,May,Plant B,Mould Line 2,Disc,Shift A,98,122,O7,45804Disc122
+21-01-2025,2025,1,Jan,Plant B,Mould Line 2,Disc,Shift C,110,116,O8,45678Disc116
+24-02-2025,2025,2,Feb,Plant A,Shot Blast,Disc,Shift C,97,105,O2,45712Disc105
+31-05-2025,2025,5,May,Plant A,Furnace 2,Housing,Shift C,113,123,O4,45808Housing123
+27-02-2025,2025,2,Feb,Plant A,Furnace 1,Housing,Shift B,101,100,O5,45715Housing100
+05-02-2025,2025,2,Feb,Plant A,Shot Blast,Bracket,Shift B,110,105,O3,45693Bracket105
+03-05-2025,2025,5,May,Plant A,Mould Line 1,Disc,Shift B,83,86,O8,45780Disc86
+27-05-2025,2025,5,May,Plant A,Shot Blast,Housing,Shift A,106,103,O7,45804Housing103
+15-02-2025,2025,2,Feb,Plant A,Mould Line 2,Cover,Shift A,98,98,O1,45703Cover98
+26-05-2025,2025,5,May,Plant A,Mould Line 1,Disc,Shift B,114,113,O2,45803Disc113
+15-05-2025,2025,5,May,Plant B,Furnace 2,Cover,Shift B,92,95,O3,45792Cover95
+28-04-2025,2025,4,Apr,Plant B,Furnace 2,Housing,Shift C,101,92,O4,45775Housing92
+17-03-2025,2025,3,Mar,Plant A,Furnace 2,Cover,Shift B,112,107,O5,45733Cover107
+25-01-2025,2025,1,Jan,Plant A,Furnace 2,Cover,Shift B,95,103,O6,45682Cover103
+02-01-2025,2025,1,Jan,Plant B,Mould Line 2,Bracket,Shift B,97,105,O7,45659Bracket105
+27-05-2025,2025,5,May,Plant A,Mould Line 1,Disc,Shift C,95,92,O8,45804Disc92
+16-01-2025,2025,1,Jan,Plant A,Mould Line 2,Disc,Shift A,105,96,O2,45673Disc96
+21-03-2025,2025,3,Mar,Plant A,Mould Line 1,Disc,Shift C,94,73,O4,45737Disc73
+26-02-2025,2025,2,Feb,Plant A,Mould Line 2,Bracket,Shift B,118,107,O5,45714Bracket107
+01-05-2025,2025,5,May,Plant A,Furnace 2,Housing,Shift C,108,119,O3,45778Housing119
+16-05-2025,2025,5,May,Plant B,Furnace 1,Housing,Shift A,115,120,O8,45793Housing120
+18-05-2025,2025,5,May,Plant A,Furnace 2,Disc,Shift C,108,104,O7,45795Disc104
+30-01-2025,2025,1,Jan,Plant A,Shot Blast,Cover,Shift A,112,108,O1,45687Cover108
+03-02-2025,2025,2,Feb,Plant B,Mould Line 2,Housing,Shift C,109,110,O2,45691Housing110
+22-06-2025,2025,6,Jun,Plant B,Furnace 1,Cover,Shift B,80,79,O3,45830Cover79
+12-01-2025,2025,1,Jan,Plant B,Mould Line 1,Housing,Shift C,83,69,O4,45669Housing69
+18-01-2025,2025,1,Jan,Plant B,Furnace 1,Disc,Shift B,91,93,O5,45675Disc93
+15-06-2025,2025,6,Jun,Plant B,Mould Line 1,Cover,Shift B,104,87,O6,45823Cover87
+07-04-2025,2025,4,Apr,Plant A,Shot Blast,Bracket,Shift C,102,125,O7,45754Bracket125
+11-04-2025,2025,4,Apr,Plant A,Furnace 2,Housing,Shift A,99,120,O8,45758Housing120
+29-04-2025,2025,4,Apr,Plant B,Shot Blast,Cover,Shift A,95,89,O2,45776Cover89
+18-02-2025,2025,2,Feb,Plant A,Furnace 1,Cover,Shift C,81,82,O4,45706Cover82
+03-03-2025,2025,3,Mar,Plant A,Furnace 1,Housing,Shift C,82,67,O5,45719Housing67
+13-01-2025,2025,1,Jan,Plant A,Furnace 1,Cover,Shift B,94,98,O3,45670Cover98
+19-05-2025,2025,5,May,Plant A,Furnace 1,Bracket,Shift C,98,100,O8,45796Bracket100
+28-05-2025,2025,5,May,Plant B,Shot Blast,Disc,Shift A,99,121,O7,45805Disc121
+06-02-2025,2025,2,Feb,Plant A,Mould Line 2,Disc,Shift B,83,70,O1,45694Disc70
+14-02-2025,2025,2,Feb,Plant B,Shot Blast,Cover,Shift A,102,97,O2,45702Cover97
+14-06-2025,2025,6,Jun,Plant B,Shot Blast,Disc,Shift C,106,98,O3,45822Disc98
+17-02-2025,2025,2,Feb,Plant B,Furnace 2,Bracket,Shift B,89,93,O4,45705Bracket93
+29-04-2025,2025,4,Apr,Plant A,Shot Blast,Cover,Shift B,115,105,O5,45776Cover105
+07-03-2025,2025,3,Mar,Plant A,Mould Line 1,Housing,Shift B,103,101,O6,45723Housing101
+24-01-2025,2025,1,Jan,Plant A,Furnace 1,Disc,Shift B,118,101,O7,45681Disc101
+18-02-2025,2025,2,Feb,Plant A,Mould Line 2,Bracket,Shift B,99,86,O8,45706Bracket86
+04-01-2025,2025,1,Jan,Plant A,Furnace 2,Housing,Shift C,110,123,O2,45661Housing123
+22-02-2025,2025,2,Feb,Plant B,Furnace 2,Disc,Shift B,104,96,O4,45710Disc96
+30-04-2025,2025,4,Apr,Plant B,Mould Line 1,Disc,Shift B,112,120,O5,45777Disc120
+01-05-2025,2025,5,May,Plant B,Furnace 2,Disc,Shift B,106,98,O3,45778Disc98
+12-01-2025,2025,1,Jan,Plant A,Furnace 2,Housing,Shift B,115,127,O8,45669Housing127
+17-04-2025,2025,4,Apr,Plant B,Furnace 2,Bracket,Shift B,94,88,O7,45764Bracket88
+08-04-2025,2025,4,Apr,Plant A,Mould Line 2,Disc,Shift B,111,125,O1,45755Disc125
+06-05-2025,2025,5,May,Plant B,Furnace 2,Disc,Shift A,88,85,O2,45783Disc85
+20-05-2025,2025,5,May,Plant B,Furnace 2,Housing,Shift C,82,84,O3,45797Housing84
+21-06-2025,2025,6,Jun,Plant A,Furnace 1,Cover,Shift A,120,116,O4,45829Cover116
+01-03-2025,2025,3,Mar,Plant A,Furnace 2,Housing,Shift A,112,108,O5,45717Housing108
+13-06-2025,2025,6,Jun,Plant B,Mould Line 2,Housing,Shift A,114,114,O6,45821Housing114
+22-05-2025,2025,5,May,Plant B,Furnace 1,Housing,Shift C,97,88,O7,45799Housing88
+09-05-2025,2025,5,May,Plant B,Furnace 2,Housing,Shift A,113,111,O8,45786Housing111
+08-02-2025,2025,2,Feb,Plant A,Furnace 2,Disc,Shift B,97,98,O2,45696Disc98
+14-04-2025,2025,4,Apr,Plant B,Shot Blast,Bracket,Shift C,94,90,O4,45761Bracket90
+18-03-2025,2025,3,Mar,Plant A,Furnace 1,Housing,Shift B,104,95,O5,45734Housing95
+13-06-2025,2025,6,Jun,Plant A,Furnace 2,Housing,Shift B,107,114,O3,45821Housing114
+15-06-2025,2025,6,Jun,Plant B,Shot Blast,Housing,Shift C,82,84,O8,45823Housing84
+27-06-2025,2025,6,Jun,Plant B,Mould Line 1,Housing,Shift A,97,118,O7,45835Housing118
+20-05-2025,2025,5,May,Plant A,Furnace 2,Disc,Shift A,93,78,O1,45797Disc78
+12-04-2025,2025,4,Apr,Plant A,Mould Line 1,Bracket,Shift C,95,86,O2,45759Bracket86
+26-05-2025,2025,5,May,Plant B,Shot Blast,Disc,Shift B,88,91,O3,45803Disc91
+21-01-2025,2025,1,Jan,Plant B,Furnace 1,Housing,Shift B,94,79,O4,45678Housing79
+20-01-2025,2025,1,Jan,Plant B,Shot Blast,Cover,Shift B,81,69,O5,45677Cover69
+26-04-2025,2025,4,Apr,Plant B,Furnace 2,Disc,Shift C,104,90,O6,45773Disc90
+21-04-2025,2025,4,Apr,Plant A,Shot Blast,Cover,Shift A,119,116,O7,45768Cover116
+19-01-2025,2025,1,Jan,Plant A,Mould Line 1,Bracket,Shift B,120,127,O8,45676Bracket127
+09-02-2025,2025,2,Feb,Plant B,Mould Line 1,Disc,Shift A,85,93,O2,45697Disc93
+03-04-2025,2025,4,Apr,Plant B,Furnace 1,Bracket,Shift A,91,91,O4,45750Bracket91
+21-04-2025,2025,4,Apr,Plant B,Shot Blast,Cover,Shift A,81,91,O5,45768Cover91
+02-06-2025,2025,6,Jun,Plant B,Mould Line 2,Housing,Shift B,106,112,O3,45810Housing112
+10-04-2025,2025,4,Apr,Plant A,Shot Blast,Bracket,Shift C,113,117,O8,45757Bracket117
+05-02-2025,2025,2,Feb,Plant B,Mould Line 1,Disc,Shift B,89,97,O7,45693Disc97
+17-01-2025,2025,1,Jan,Plant A,Mould Line 2,Disc,Shift B,99,95,O1,45674Disc95
+06-03-2025,2025,3,Mar,Plant A,Mould Line 2,Bracket,Shift B,86,86,O2,45722Bracket86
+04-02-2025,2025,2,Feb,Plant B,Furnace 1,Cover,Shift B,119,104,O3,45692Cover104
+23-04-2025,2025,4,Apr,Plant B,Mould Line 2,Bracket,Shift B,100,113,O4,45770Bracket113
+04-06-2025,2025,6,Jun,Plant A,Mould Line 2,Disc,Shift A,105,113,O5,45812Disc113
+27-06-2025,2025,6,Jun,Plant B,Shot Blast,Bracket,Shift B,104,102,O6,45835Bracket102
+13-03-2025,2025,3,Mar,Plant B,Mould Line 1,Housing,Shift C,92,81,O7,45729Housing81
+24-06-2025,2025,6,Jun,Plant A,Mould Line 2,Bracket,Shift B,98,91,O8,45832Bracket91
+27-06-2025,2025,6,Jun,Plant A,Mould Line 2,Cover,Shift A,120,117,O2,45835Cover117
+09-02-2025,2025,2,Feb,Plant B,Mould Line 2,Housing,Shift B,118,125,O4,45697Housing125
+03-05-2025,2025,5,May,Plant B,Shot Blast,Cover,Shift C,82,84,O5,45780Cover84
+18-05-2025,2025,5,May,Plant A,Furnace 1,Bracket,Shift C,102,92,O3,45795Bracket92
+12-02-2025,2025,2,Feb,Plant A,Shot Blast,Cover,Shift B,107,110,O8,45700Cover110
+26-02-2025,2025,2,Feb,Plant A,Mould Line 2,Disc,Shift B,109,111,O7,45714Disc111
+23-06-2025,2025,6,Jun,Plant A,Mould Line 1,Housing,Shift B,86,79,O1,45831Housing79
+22-01-2025,2025,1,Jan,Plant A,Furnace 2,Disc,Shift B,101,122,O2,45679Disc122
+27-04-2025,2025,4,Apr,Plant A,Shot Blast,Cover,Shift B,110,123,O3,45774Cover123
+26-04-2025,2025,4,Apr,Plant B,Furnace 1,Disc,Shift A,87,96,O4,45773Disc96
+06-01-2025,2025,1,Jan,Plant B,Furnace 1,Bracket,Shift C,95,82,O5,45663Bracket82
+26-03-2025,2025,3,Mar,Plant B,Mould Line 2,Bracket,Shift B,120,118,O6,45742Bracket118
+17-02-2025,2025,2,Feb,Plant A,Mould Line 2,Cover,Shift A,119,127,O7,45705Cover127
+20-04-2025,2025,4,Apr,Plant B,Furnace 1,Bracket,Shift A,97,89,O8,45767Bracket89
+17-01-2025,2025,1,Jan,Plant A,Shot Blast,Bracket,Shift B,100,101,O2,45674Bracket101
+21-06-2025,2025,6,Jun,Plant B,Shot Blast,Disc,Shift C,104,108,O4,45829Disc108
+06-06-2025,2025,6,Jun,Plant B,Shot Blast,Housing,Shift B,102,109,O5,45814Housing109
+22-06-2025,2025,6,Jun,Plant B,Shot Blast,Housing,Shift C,88,76,O3,45830Housing76
+22-03-2025,2025,3,Mar,Plant A,Furnace 2,Disc,Shift A,91,87,O8,45738Disc87
+10-04-2025,2025,4,Apr,Plant B,Shot Blast,Bracket,Shift C,104,107,O7,45757Bracket107
+19-04-2025,2025,4,Apr,Plant A,Mould Line 2,Bracket,Shift C,90,84,O1,45766Bracket84
+22-03-2025,2025,3,Mar,Plant B,Shot Blast,Housing,Shift B,80,80,O2,45738Housing80
+05-05-2025,2025,5,May,Plant A,Furnace 2,Cover,Shift C,112,106,O3,45782Cover106
+06-05-2025,2025,5,May,Plant B,Mould Line 2,Cover,Shift A,85,76,O4,45783Cover76
+25-05-2025,2025,5,May,Plant A,Furnace 2,Disc,Shift A,97,98,O5,45802Disc98
+28-04-2025,2025,4,Apr,Plant B,Shot Blast,Housing,Shift C,87,95,O6,45775Housing95
+10-03-2025,2025,3,Mar,Plant B,Shot Blast,Housing,Shift C,108,78,O7,45726Housing78
+27-01-2025,2025,1,Jan,Plant A,Mould Line 1,Housing,Shift B,96,87,O8,45684Housing87
+31-03-2025,2025,3,Mar,Plant A,Mould Line 2,Housing,Shift A,93,97,O2,45747Housing97
+31-03-2025,2025,3,Mar,Plant B,Furnace 2,Bracket,Shift A,93,80,O4,45747Bracket80
+16-01-2025,2025,1,Jan,Plant B,Shot Blast,Disc,Shift C,114,127,O5,45673Disc127
+16-03-2025,2025,3,Mar,Plant B,Shot Blast,Disc,Shift C,86,110,O3,45732Disc110
+04-02-2025,2025,2,Feb,Plant B,Furnace 1,Disc,Shift C,88,86,O8,45692Disc86
+07-02-2025,2025,2,Feb,Plant B,Furnace 2,Cover,Shift B,89,83,O7,45695Cover83
+28-05-2025,2025,5,May,Plant B,Mould Line 2,Cover,Shift B,84,70,O1,45805Cover70
+24-01-2025,2025,1,Jan,Plant B,Shot Blast,Disc,Shift C,103,87,O2,45681Disc87
+27-04-2025,2025,4,Apr,Plant B,Mould Line 1,Housing,Shift C,85,83,O3,45774Housing83
+20-06-2025,2025,6,Jun,Plant B,Furnace 1,Cover,Shift A,107,96,O4,45828Cover96
+24-02-2025,2025,2,Feb,Plant B,Mould Line 1,Disc,Shift B,101,95,O5,45712Disc95
+05-05-2025,2025,5,May,Plant B,Furnace 1,Housing,Shift A,120,118,O6,45782Housing118
+28-04-2025,2025,4,Apr,Plant A,Furnace 1,Bracket,Shift B,109,134,O7,45775Bracket134
+21-02-2025,2025,2,Feb,Plant A,Mould Line 1,Bracket,Shift B,85,85,O8,45709Bracket85
+17-06-2025,2025,6,Jun,Plant B,Mould Line 1,Housing,Shift B,90,103,O2,45825Housing103
+29-06-2025,2025,6,Jun,Plant A,Mould Line 2,Housing,Shift C,86,90,O4,45837Housing90
+01-01-2025,2025,1,Jan,Plant A,Mould Line 2,Housing,Shift A,117,119,O5,45658Housing119
+03-01-2025,2025,1,Jan,Plant A,Mould Line 1,Housing,Shift B,88,102,O3,45660Housing102
+03-05-2025,2025,5,May,Plant A,Furnace 2,Cover,Shift A,86,93,O8,45780Cover93
+18-03-2025,2025,3,Mar,Plant A,Mould Line 2,Bracket,Shift C,89,94,O7,45734Bracket94
+18-01-2025,2025,1,Jan,Plant A,Shot Blast,Bracket,Shift B,102,99,O1,45675Bracket99
+08-02-2025,2025,2,Feb,Plant B,Shot Blast,Cover,Shift A,85,71,O2,45696Cover71
+26-01-2025,2025,1,Jan,Plant A,Furnace 1,Cover,Shift B,107,104,O3,45683Cover104
+12-03-2025,2025,3,Mar,Plant A,Furnace 2,Disc,Shift C,81,86,O4,45728Disc86
+18-06-2025,2025,6,Jun,Plant B,Furnace 2,Bracket,Shift C,105,104,O5,45826Bracket104
+03-03-2025,2025,3,Mar,Plant B,Mould Line 2,Housing,Shift A,111,114,O6,45719Housing114
+13-06-2025,2025,6,Jun,Plant A,Shot Blast,Housing,Shift B,100,113,O7,45821Housing113
+26-05-2025,2025,5,May,Plant B,Mould Line 1,Bracket,Shift B,84,98,O8,45803Bracket98
+05-01-2025,2025,1,Jan,Plant A,Furnace 1,Disc,Shift A,82,103,O2,45662Disc103
+12-04-2025,2025,4,Apr,Plant B,Shot Blast,Cover,Shift B,105,93,O4,45759Cover93
+22-01-2025,2025,1,Jan,Plant A,Mould Line 1,Housing,Shift B,85,78,O5,45679Housing78
+09-02-2025,2025,2,Feb,Plant B,Mould Line 2,Housing,Shift B,107,106,O3,45697Housing106
+03-03-2025,2025,3,Mar,Plant A,Furnace 2,Housing,Shift B,87,73,O8,45719Housing73
+21-03-2025,2025,3,Mar,Plant A,Furnace 1,Housing,Shift C,88,91,O7,45737Housing91
+29-06-2025,2025,6,Jun,Plant A,Furnace 2,Cover,Shift B,113,94,O1,45837Cover94
+08-03-2025,2025,3,Mar,Plant A,Mould Line 1,Bracket,Shift C,97,94,O2,45724Bracket94
+31-01-2025,2025,1,Jan,Plant A,Mould Line 1,Cover,Shift B,113,127,O3,45688Cover127
+28-05-2025,2025,5,May,Plant A,Mould Line 2,Cover,Shift C,103,109,O4,45805Cover109
+15-01-2025,2025,1,Jan,Plant B,Shot Blast,Bracket,Shift B,90,89,O5,45672Bracket89
+27-05-2025,2025,5,May,Plant A,Furnace 2,Housing,Shift A,80,84,O6,45804Housing84
+04-03-2025,2025,3,Mar,Plant A,Mould Line 2,Disc,Shift B,89,99,O7,45720Disc99
+10-01-2025,2025,1,Jan,Plant B,Furnace 2,Disc,Shift A,106,128,O8,45667Disc128
+23-03-2025,2025,3,Mar,Plant B,Furnace 1,Disc,Shift A,112,110,O2,45739Disc110
+27-02-2025,2025,2,Feb,Plant A,Mould Line 2,Housing,Shift B,98,95,O4,45715Housing95
+21-03-2025,2025,3,Mar,Plant B,Furnace 1,Cover,Shift A,103,106,O5,45737Cover106
+19-03-2025,2025,3,Mar,Plant A,Mould Line 2,Disc,Shift C,111,123,O3,45735Disc123
+20-02-2025,2025,2,Feb,Plant A,Furnace 2,Housing,Shift B,81,81,O8,45708Housing81
+27-06-2025,2025,6,Jun,Plant A,Mould Line 1,Housing,Shift C,104,113,O7,45835Housing113
+20-03-2025,2025,3,Mar,Plant A,Furnace 2,Bracket,Shift B,111,137,O1,45736Bracket137
+06-02-2025,2025,2,Feb,Plant B,Furnace 1,Housing,Shift A,113,106,O2,45694Housing106
+16-04-2025,2025,4,Apr,Plant B,Mould Line 2,Housing,Shift C,86,71,O3,45763Housing71
+11-04-2025,2025,4,Apr,Plant A,Shot Blast,Housing,Shift B,88,87,O4,45758Housing87
+02-03-2025,2025,3,Mar,Plant B,Mould Line 1,Disc,Shift B,100,96,O5,45718Disc96
+20-01-2025,2025,1,Jan,Plant A,Furnace 2,Housing,Shift A,86,93,O6,45677Housing93
+12-02-2025,2025,2,Feb,Plant B,Mould Line 2,Disc,Shift B,87,61,O7,45700Disc61
+23-02-2025,2025,2,Feb,Plant B,Mould Line 1,Cover,Shift B,87,81,O8,45711Cover81
+24-01-2025,2025,1,Jan,Plant A,Mould Line 1,Housing,Shift A,100,109,O2,45681Housing109
+02-04-2025,2025,4,Apr,Plant B,Shot Blast,Housing,Shift C,99,111,O4,45749Housing111
+08-03-2025,2025,3,Mar,Plant A,Furnace 1,Cover,Shift B,115,114,O5,45724Cover114
+29-04-2025,2025,4,Apr,Plant A,Furnace 2,Housing,Shift A,83,75,O3,45776Housing75
+26-02-2025,2025,2,Feb,Plant A,Furnace 2,Cover,Shift B,120,123,O8,45714Cover123
+31-05-2025,2025,5,May,Plant B,Furnace 1,Housing,Shift A,92,90,O7,45808Housing90
+15-06-2025,2025,6,Jun,Plant B,Furnace 2,Housing,Shift B,87,97,O1,45823Housing97
+13-02-2025,2025,2,Feb,Plant B,Mould Line 2,Cover,Shift A,104,106,O2,45701Cover106
+24-06-2025,2025,6,Jun,Plant B,Furnace 2,Disc,Shift A,91,89,O3,45832Disc89
+08-02-2025,2025,2,Feb,Plant A,Shot Blast,Bracket,Shift C,98,108,O4,45696Bracket108
+08-05-2025,2025,5,May,Plant B,Shot Blast,Cover,Shift A,85,83,O5,45785Cover83
+21-02-2025,2025,2,Feb,Plant A,Shot Blast,Housing,Shift B,102,107,O6,45709Housing107
+03-05-2025,2025,5,May,Plant B,Mould Line 1,Disc,Shift B,97,100,O7,45780Disc100
+26-02-2025,2025,2,Feb,Plant A,Mould Line 1,Housing,Shift B,113,120,O8,45714Housing120
+02-04-2025,2025,4,Apr,Plant A,Furnace 2,Housing,Shift A,95,93,O2,45749Housing93
+15-01-2025,2025,1,Jan,Plant A,Shot Blast,Cover,Shift B,91,109,O4,45672Cover109
+15-02-2025,2025,2,Feb,Plant A,Shot Blast,Disc,Shift C,102,104,O5,45703Disc104
+29-06-2025,2025,6,Jun,Plant B,Shot Blast,Bracket,Shift C,92,90,O3,45837Bracket90
+07-05-2025,2025,5,May,Plant B,Furnace 2,Cover,Shift A,85,97,O8,45784Cover97
+06-01-2025,2025,1,Jan,Plant B,Furnace 1,Disc,Shift C,92,96,O7,45663Disc96
+03-02-2025,2025,2,Feb,Plant B,Furnace 2,Disc,Shift A,81,90,O1,45691Disc90
+06-02-2025,2025,2,Feb,Plant A,Shot Blast,Disc,Shift A,103,115,O2,45694Disc115
+19-06-2025,2025,6,Jun,Plant B,Shot Blast,Housing,Shift B,99,86,O3,45827Housing86
+22-04-2025,2025,4,Apr,Plant B,Mould Line 1,Bracket,Shift C,115,139,O4,45769Bracket139
+27-06-2025,2025,6,Jun,Plant B,Furnace 2,Bracket,Shift B,99,98,O5,45835Bracket98
+15-02-2025,2025,2,Feb,Plant A,Shot Blast,Cover,Shift C,82,73,O6,45703Cover73
+16-02-2025,2025,2,Feb,Plant B,Shot Blast,Bracket,Shift C,116,125,O7,45704Bracket125
+26-03-2025,2025,3,Mar,Plant A,Furnace 2,Disc,Shift B,90,97,O8,45742Disc97
+12-06-2025,2025,6,Jun,Plant A,Mould Line 1,Cover,Shift A,96,99,O2,45820Cover99
+31-03-2025,2025,3,Mar,Plant B,Furnace 1,Housing,Shift A,104,118,O4,45747Housing118
+23-04-2025,2025,4,Apr,Plant B,Furnace 2,Cover,Shift B,104,98,O5,45770Cover98
+03-05-2025,2025,5,May,Plant A,Furnace 2,Cover,Shift A,82,89,O3,45780Cover89
+17-03-2025,2025,3,Mar,Plant A,Mould Line 1,Disc,Shift A,84,72,O8,45733Disc72
+11-02-2025,2025,2,Feb,Plant A,Shot Blast,Housing,Shift B,118,135,O7,45699Housing135
+07-06-2025,2025,6,Jun,Plant B,Furnace 1,Cover,Shift C,90,81,O1,45815Cover81
+14-01-2025,2025,1,Jan,Plant A,Mould Line 1,Bracket,Shift A,106,99,O2,45671Bracket99
+28-06-2025,2025,6,Jun,Plant B,Mould Line 1,Disc,Shift A,86,98,O3,45836Disc98
+06-05-2025,2025,5,May,Plant A,Furnace 1,Disc,Shift A,107,110,O4,45783Disc110
+23-01-2025,2025,1,Jan,Plant B,Shot Blast,Cover,Shift A,86,92,O5,45680Cover92
+16-03-2025,2025,3,Mar,Plant A,Mould Line 2,Housing,Shift B,105,105,O6,45732Housing105
+01-05-2025,2025,5,May,Plant B,Mould Line 1,Housing,Shift C,114,106,O7,45778Housing106
+08-04-2025,2025,4,Apr,Plant B,Furnace 2,Cover,Shift A,96,102,O8,45755Cover102
+23-04-2025,2025,4,Apr,Plant B,Mould Line 1,Bracket,Shift B,116,131,O2,45770Bracket131
+20-06-2025,2025,6,Jun,Plant A,Furnace 1,Disc,Shift C,106,112,O4,45828Disc112
+31-05-2025,2025,5,May,Plant A,Shot Blast,Housing,Shift B,113,102,O5,45808Housing102
+02-05-2025,2025,5,May,Plant A,Mould Line 2,Disc,Shift A,105,111,O3,45779Disc111
+09-01-2025,2025,1,Jan,Plant A,Furnace 1,Cover,Shift A,90,107,O8,45666Cover107
+02-02-2025,2025,2,Feb,Plant A,Mould Line 2,Housing,Shift C,107,103,O7,45690Housing103
+21-02-2025,2025,2,Feb,Plant A,Shot Blast,Disc,Shift B,84,94,O1,45709Disc94
+22-05-2025,2025,5,May,Plant B,Mould Line 1,Cover,Shift A,119,125,O2,45799Cover125
+31-05-2025,2025,5,May,Plant B,Furnace 1,Cover,Shift A,89,76,O3,45808Cover76
+26-01-2025,2025,1,Jan,Plant A,Shot Blast,Housing,Shift B,114,108,O4,45683Housing108
+30-03-2025,2025,3,Mar,Plant B,Mould Line 1,Cover,Shift C,111,100,O5,45746Cover100
+14-02-2025,2025,2,Feb,Plant B,Mould Line 2,Bracket,Shift C,118,113,O6,45702Bracket113
+24-06-2025,2025,6,Jun,Plant B,Furnace 1,Cover,Shift B,95,105,O7,45832Cover105
+10-03-2025,2025,3,Mar,Plant B,Furnace 1,Disc,Shift B,99,102,O8,45726Disc102
+13-03-2025,2025,3,Mar,Plant B,Furnace 1,Bracket,Shift A,99,109,O2,45729Bracket109
+24-03-2025,2025,3,Mar,Plant B,Mould Line 2,Housing,Shift A,108,106,O4,45740Housing106
+24-02-2025,2025,2,Feb,Plant B,Mould Line 2,Disc,Shift A,112,112,O5,45712Disc112
+10-05-2025,2025,5,May,Plant B,Furnace 2,Housing,Shift A,92,88,O3,45787Housing88
+21-02-2025,2025,2,Feb,Plant A,Furnace 2,Housing,Shift B,83,96,O8,45709Housing96
+12-03-2025,2025,3,Mar,Plant B,Mould Line 2,Cover,Shift C,87,79,O7,45728Cover79
+24-06-2025,2025,6,Jun,Plant A,Furnace 2,Disc,Shift B,118,94,O1,45832Disc94
+02-05-2025,2025,5,May,Plant B,Mould Line 1,Bracket,Shift B,85,93,O2,45779Bracket93
+14-03-2025,2025,3,Mar,Plant A,Mould Line 2,Housing,Shift A,116,117,O3,45730Housing117
+26-02-2025,2025,2,Feb,Plant A,Furnace 2,Disc,Shift C,106,99,O4,45714Disc99
+12-05-2025,2025,5,May,Plant A,Furnace 1,Cover,Shift A,91,89,O5,45789Cover89
+06-03-2025,2025,3,Mar,Plant B,Mould Line 1,Cover,Shift B,102,101,O6,45722Cover101
+28-04-2025,2025,4,Apr,Plant B,Furnace 2,Cover,Shift B,113,117,O7,45775Cover117
+27-01-2025,2025,1,Jan,Plant A,Shot Blast,Disc,Shift C,118,109,O8,45684Disc109
+05-06-2025,2025,6,Jun,Plant B,Mould Line 1,Housing,Shift B,84,79,O2,45813Housing79
+25-03-2025,2025,3,Mar,Plant B,Mould Line 1,Disc,Shift A,89,95,O4,45741Disc95
+13-05-2025,2025,5,May,Plant A,Furnace 1,Cover,Shift C,100,93,O5,45790Cover93
+17-06-2025,2025,6,Jun,Plant B,Mould Line 1,Disc,Shift B,105,90,O3,45825Disc90
+10-04-2025,2025,4,Apr,Plant A,Shot Blast,Bracket,Shift B,94,88,O8,45757Bracket88
+02-05-2025,2025,5,May,Plant B,Shot Blast,Disc,Shift A,115,101,O7,45779Disc101
+16-02-2025,2025,2,Feb,Plant B,Furnace 1,Cover,Shift A,96,94,O1,45704Cover94
+16-02-2025,2025,2,Feb,Plant B,Furnace 1,Bracket,Shift B,94,81,O2,45704Bracket81
+20-03-2025,2025,3,Mar,Plant B,Mould Line 1,Disc,Shift B,117,111,O3,45736Disc111
+01-05-2025,2025,5,May,Plant A,Shot Blast,Housing,Shift B,92,110,O4,45778Housing110
+09-05-2025,2025,5,May,Plant A,Mould Line 2,Disc,Shift B,83,86,O5,45786Disc86
+21-02-2025,2025,2,Feb,Plant B,Mould Line 2,Cover,Shift A,100,95,O6,45709Cover95
+16-02-2025,2025,2,Feb,Plant A,Mould Line 2,Disc,Shift C,91,89,O7,45704Disc89
+26-04-2025,2025,4,Apr,Plant B,Furnace 2,Bracket,Shift C,90,93,O8,45773Bracket93
+06-05-2025,2025,5,May,Plant A,Furnace 2,Cover,Shift C,107,85,O2,45783Cover85
+09-04-2025,2025,4,Apr,Plant A,Furnace 1,Bracket,Shift C,103,117,O4,45756Bracket117
+04-01-2025,2025,1,Jan,Plant B,Shot Blast,Bracket,Shift A,80,74,O5,45661Bracket74
+27-06-2025,2025,6,Jun,Plant B,Mould Line 1,Bracket,Shift A,104,98,O3,45835Bracket98
+09-05-2025,2025,5,May,Plant B,Furnace 2,Housing,Shift A,99,109,O8,45786Housing109
+14-05-2025,2025,5,May,Plant B,Mould Line 2,Bracket,Shift B,111,107,O7,45791Bracket107
+02-04-2025,2025,4,Apr,Plant A,Furnace 2,Cover,Shift A,94,98,O1,45749Cover98
+24-02-2025,2025,2,Feb,Plant A,Shot Blast,Bracket,Shift A,103,131,O2,45712Bracket131
+16-06-2025,2025,6,Jun,Plant A,Mould Line 2,Disc,Shift C,119,149,O3,45824Disc149
+19-06-2025,2025,6,Jun,Plant A,Furnace 1,Housing,Shift C,87,96,O4,45827Housing96
+17-04-2025,2025,4,Apr,Plant B,Mould Line 2,Housing,Shift C,96,90,O5,45764Housing90
+27-06-2025,2025,6,Jun,Plant A,Mould Line 1,Cover,Shift C,86,86,O6,45835Cover86
+19-06-2025,2025,6,Jun,Plant B,Shot Blast,Bracket,Shift B,86,72,O7,45827Bracket72
+14-03-2025,2025,3,Mar,Plant A,Furnace 1,Cover,Shift A,118,116,O8,45730Cover116
+21-02-2025,2025,2,Feb,Plant B,Shot Blast,Bracket,Shift B,106,105,O2,45709Bracket105
+08-05-2025,2025,5,May,Plant A,Mould Line 2,Disc,Shift A,80,82,O4,45785Disc82
+04-01-2025,2025,1,Jan,Plant A,Furnace 1,Cover,Shift A,85,85,O5,45661Cover85
+26-01-2025,2025,1,Jan,Plant B,Furnace 2,Cover,Shift B,96,92,O3,45683Cover92
+29-04-2025,2025,4,Apr,Plant A,Furnace 1,Bracket,Shift A,98,88,O8,45776Bracket88
+20-04-2025,2025,4,Apr,Plant A,Furnace 1,Housing,Shift A,88,99,O7,45767Housing99
+19-06-2025,2025,6,Jun,Plant A,Mould Line 1,Disc,Shift B,119,117,O1,45827Disc117
+06-04-2025,2025,4,Apr,Plant B,Furnace 2,Housing,Shift B,105,121,O2,45753Housing121
+27-04-2025,2025,4,Apr,Plant B,Mould Line 2,Cover,Shift B,90,101,O3,45774Cover101
+16-01-2025,2025,1,Jan,Plant A,Furnace 1,Cover,Shift C,110,120,O4,45673Cover120
+26-05-2025,2025,5,May,Plant B,Furnace 2,Cover,Shift B,119,133,O5,45803Cover133
+03-02-2025,2025,2,Feb,Plant B,Mould Line 2,Housing,Shift B,108,110,O6,45691Housing110
+12-01-2025,2025,1,Jan,Plant A,Mould Line 1,Disc,Shift A,113,114,O7,45669Disc114
+25-05-2025,2025,5,May,Plant A,Mould Line 1,Housing,Shift B,95,81,O8,45802Housing81
+04-05-2025,2025,5,May,Plant B,Mould Line 2,Bracket,Shift C,119,132,O2,45781Bracket132
+10-02-2025,2025,2,Feb,Plant B,Mould Line 2,Bracket,Shift A,111,115,O4,45698Bracket115
+24-03-2025,2025,3,Mar,Plant A,Mould Line 1,Disc,Shift A,112,114,O5,45740Disc114
+14-04-2025,2025,4,Apr,Plant A,Furnace 1,Cover,Shift B,116,130,O3,45761Cover130
+25-04-2025,2025,4,Apr,Plant A,Mould Line 2,Cover,Shift B,87,103,O8,45772Cover103
+05-01-2025,2025,1,Jan,Plant A,Mould Line 2,Cover,Shift A,115,112,O7,45662Cover112
+21-05-2025,2025,5,May,Plant A,Furnace 1,Disc,Shift C,115,118,O1,45798Disc118
+29-03-2025,2025,3,Mar,Plant B,Furnace 1,Bracket,Shift B,101,115,O2,45745Bracket115
+24-05-2025,2025,5,May,Plant B,Mould Line 1,Cover,Shift A,86,86,O3,45801Cover86
+29-03-2025,2025,3,Mar,Plant B,Mould Line 1,Disc,Shift C,86,78,O4,45745Disc78
+12-01-2025,2025,1,Jan,Plant A,Mould Line 2,Bracket,Shift C,106,116,O5,45669Bracket116
+18-02-2025,2025,2,Feb,Plant A,Mould Line 2,Bracket,Shift B,92,100,O6,45706Bracket100
+28-03-2025,2025,3,Mar,Plant A,Mould Line 2,Housing,Shift C,117,132,O7,45744Housing132
+28-04-2025,2025,4,Apr,Plant A,Mould Line 2,Housing,Shift C,83,97,O8,45775Housing97
+22-05-2025,2025,5,May,Plant B,Shot Blast,Cover,Shift C,91,88,O2,45799Cover88
+02-02-2025,2025,2,Feb,Plant A,Mould Line 2,Disc,Shift C,104,98,O4,45690Disc98
+18-04-2025,2025,4,Apr,Plant A,Mould Line 1,Cover,Shift B,98,92,O5,45765Cover92
+16-04-2025,2025,4,Apr,Plant B,Shot Blast,Disc,Shift C,115,116,O3,45763Disc116
+11-06-2025,2025,6,Jun,Plant A,Furnace 2,Bracket,Shift C,98,89,O8,45819Bracket89
+03-02-2025,2025,2,Feb,Plant A,Shot Blast,Disc,Shift C,87,66,O7,45691Disc66
+01-04-2025,2025,4,Apr,Plant B,Shot Blast,Cover,Shift C,114,109,O1,45748Cover109
+04-01-2025,2025,1,Jan,Plant A,Furnace 1,Cover,Shift A,83,101,O2,45661Cover101
+21-06-2025,2025,6,Jun,Plant A,Furnace 2,Disc,Shift A,98,95,O3,45829Disc95
+16-01-2025,2025,1,Jan,Plant B,Furnace 2,Housing,Shift B,108,102,O4,45673Housing102
+27-01-2025,2025,1,Jan,Plant A,Shot Blast,Cover,Shift A,112,115,O5,45684Cover115
+15-03-2025,2025,3,Mar,Plant A,Mould Line 2,Cover,Shift B,100,82,O6,45731Cover82
+22-05-2025,2025,5,May,Plant A,Furnace 1,Disc,Shift A,119,132,O7,45799Disc132
+24-04-2025,2025,4,Apr,Plant A,Mould Line 1,Bracket,Shift C,92,77,O8,45771Bracket77
+17-03-2025,2025,3,Mar,Plant B,Furnace 2,Housing,Shift A,91,90,O2,45733Housing90
+11-01-2025,2025,1,Jan,Plant B,Mould Line 1,Disc,Shift A,90,84,O4,45668Disc84
+30-05-2025,2025,5,May,Plant B,Furnace 1,Disc,Shift B,89,111,O5,45807Disc111
+02-06-2025,2025,6,Jun,Plant A,Shot Blast,Disc,Shift B,116,121,O3,45810Disc121
+21-05-2025,2025,5,May,Plant B,Furnace 1,Disc,Shift C,94,105,O8,45798Disc105
+10-05-2025,2025,5,May,Plant A,Mould Line 2,Cover,Shift A,102,98,O7,45787Cover98
+26-02-2025,2025,2,Feb,Plant A,Mould Line 1,Disc,Shift B,98,101,O1,45714Disc101
+16-05-2025,2025,5,May,Plant B,Shot Blast,Housing,Shift A,102,118,O2,45793Housing118
+25-04-2025,2025,4,Apr,Plant A,Shot Blast,Bracket,Shift A,100,86,O3,45772Bracket86
+30-01-2025,2025,1,Jan,Plant B,Mould Line 1,Disc,Shift A,113,125,O4,45687Disc125
+06-04-2025,2025,4,Apr,Plant B,Mould Line 2,Housing,Shift B,92,90,O5,45753Housing90
+25-01-2025,2025,1,Jan,Plant A,Shot Blast,Housing,Shift C,84,87,O6,45682Housing87
+23-02-2025,2025,2,Feb,Plant A,Mould Line 2,Housing,Shift A,114,123,O7,45711Housing123
+22-04-2025,2025,4,Apr,Plant A,Furnace 2,Housing,Shift B,101,82,O8,45769Housing82
+10-01-2025,2025,1,Jan,Plant A,Furnace 1,Housing,Shift A,96,83,O2,45667Housing83
+28-02-2025,2025,2,Feb,Plant B,Mould Line 2,Cover,Shift B,120,115,O4,45716Cover115
+14-04-2025,2025,4,Apr,Plant B,Mould Line 1,Housing,Shift B,87,73,O5,45761Housing73
+08-06-2025,2025,6,Jun,Plant A,Shot Blast,Housing,Shift C,84,80,O3,45816Housing80
+02-04-2025,2025,4,Apr,Plant A,Mould Line 1,Disc,Shift C,85,80,O8,45749Disc80
+08-04-2025,2025,4,Apr,Plant B,Furnace 1,Cover,Shift A,114,136,O7,45755Cover136
+26-02-2025,2025,2,Feb,Plant A,Mould Line 2,Disc,Shift C,89,82,O1,45714Disc82
+15-06-2025,2025,6,Jun,Plant B,Furnace 1,Bracket,Shift A,82,101,O2,45823Bracket101
+02-01-2025,2025,1,Jan,Plant B,Shot Blast,Housing,Shift B,93,92,O3,45659Housing92
+30-03-2025,2025,3,Mar,Plant A,Mould Line 2,Bracket,Shift A,91,69,O4,45746Bracket69
+26-02-2025,2025,2,Feb,Plant B,Furnace 2,Housing,Shift A,116,127,O5,45714Housing127
+21-05-2025,2025,5,May,Plant B,Shot Blast,Housing,Shift B,84,68,O6,45798Housing68
+06-03-2025,2025,3,Mar,Plant A,Furnace 2,Cover,Shift B,102,112,O7,45722Cover112
+26-01-2025,2025,1,Jan,Plant B,Shot Blast,Housing,Shift A,100,110,O8,45683Housing110
+05-05-2025,2025,5,May,Plant B,Mould Line 1,Disc,Shift C,117,124,O2,45782Disc124
+22-03-2025,2025,3,Mar,Plant B,Furnace 2,Housing,Shift B,95,105,O4,45738Housing105
+26-02-2025,2025,2,Feb,Plant B,Mould Line 1,Disc,Shift A,101,109,O5,45714Disc109
+02-04-2025,2025,4,Apr,Plant B,Mould Line 2,Housing,Shift A,118,110,O3,45749Housing110
+21-01-2025,2025,1,Jan,Plant B,Furnace 2,Bracket,Shift B,120,123,O8,45678Bracket123
+05-01-2025,2025,1,Jan,Plant A,Shot Blast,Cover,Shift C,93,94,O7,45662Cover94
+10-01-2025,2025,1,Jan,Plant B,Shot Blast,Cover,Shift C,89,84,O1,45667Cover84
+31-05-2025,2025,5,May,Plant B,Furnace 2,Cover,Shift C,112,117,O2,45808Cover117
+24-01-2025,2025,1,Jan,Plant B,Mould Line 1,Housing,Shift C,95,105,O3,45681Housing105
+07-06-2025,2025,6,Jun,Plant A,Shot Blast,Bracket,Shift B,90,75,O4,45815Bracket75
+15-02-2025,2025,2,Feb,Plant A,Mould Line 2,Disc,Shift A,94,94,O5,45703Disc94
+09-03-2025,2025,3,Mar,Plant B,Furnace 2,Housing,Shift C,93,85,O6,45725Housing85
+13-05-2025,2025,5,May,Plant B,Mould Line 2,Cover,Shift B,82,96,O7,45790Cover96
+27-01-2025,2025,1,Jan,Plant B,Mould Line 1,Bracket,Shift B,104,107,O8,45684Bracket107
+04-04-2025,2025,4,Apr,Plant A,Shot Blast,Disc,Shift B,94,84,O2,45751Disc84
+30-03-2025,2025,3,Mar,Plant B,Mould Line 2,Housing,Shift C,88,87,O4,45746Housing87
+23-04-2025,2025,4,Apr,Plant A,Furnace 2,Housing,Shift C,97,98,O5,45770Housing98
+03-04-2025,2025,4,Apr,Plant A,Furnace 2,Cover,Shift B,87,93,O3,45750Cover93
+04-05-2025,2025,5,May,Plant B,Mould Line 2,Bracket,Shift C,90,83,O8,45781Bracket83
+04-03-2025,2025,3,Mar,Plant A,Furnace 2,Bracket,Shift A,120,111,O7,45720Bracket111
+12-05-2025,2025,5,May,Plant A,Shot Blast,Bracket,Shift A,90,89,O1,45789Bracket89
+14-04-2025,2025,4,Apr,Plant A,Mould Line 1,Housing,Shift A,108,114,O2,45761Housing114
+05-06-2025,2025,6,Jun,Plant B,Mould Line 2,Bracket,Shift A,106,91,O3,45813Bracket91
+16-02-2025,2025,2,Feb,Plant B,Furnace 2,Disc,Shift B,118,107,O4,45704Disc107
+01-06-2025,2025,6,Jun,Plant A,Furnace 2,Cover,Shift B,88,93,O5,45809Cover93
+10-05-2025,2025,5,May,Plant B,Furnace 2,Housing,Shift A,110,114,O6,45787Housing114
+07-06-2025,2025,6,Jun,Plant A,Shot Blast,Housing,Shift A,110,98,O7,45815Housing98
+19-05-2025,2025,5,May,Plant A,Mould Line 2,Cover,Shift B,82,63,O8,45796Cover63
+28-06-2025,2025,6,Jun,Plant B,Furnace 2,Cover,Shift B,102,88,O2,45836Cover88
+28-06-2025,2025,6,Jun,Plant A,Mould Line 2,Bracket,Shift B,110,101,O4,45836Bracket101
+01-03-2025,2025,3,Mar,Plant A,Mould Line 1,Cover,Shift B,92,108,O5,45717Cover108
+02-01-2025,2025,1,Jan,Plant A,Shot Blast,Housing,Shift B,93,93,O3,45659Housing93
+26-06-2025,2025,6,Jun,Plant B,Mould Line 2,Disc,Shift A,89,77,O8,45834Disc77
+08-03-2025,2025,3,Mar,Plant B,Shot Blast,Disc,Shift C,97,102,O7,45724Disc102
+24-06-2025,2025,6,Jun,Plant B,Furnace 2,Cover,Shift C,115,105,O1,45832Cover105
+23-05-2025,2025,5,May,Plant B,Mould Line 1,Disc,Shift C,102,103,O2,45800Disc103
+12-04-2025,2025,4,Apr,Plant A,Furnace 1,Bracket,Shift B,90,99,O3,45759Bracket99
+28-03-2025,2025,3,Mar,Plant A,Furnace 2,Cover,Shift C,80,87,O4,45744Cover87
+24-01-2025,2025,1,Jan,Plant A,Mould Line 2,Cover,Shift A,84,83,O5,45681Cover83
+05-06-2025,2025,6,Jun,Plant A,Mould Line 2,Cover,Shift C,113,122,O6,45813Cover122
+15-03-2025,2025,3,Mar,Plant A,Furnace 2,Cover,Shift B,80,84,O7,45731Cover84
+13-05-2025,2025,5,May,Plant B,Furnace 2,Housing,Shift C,112,125,O8,45790Housing125
+13-05-2025,2025,5,May,Plant A,Shot Blast,Bracket,Shift C,82,72,O2,45790Bracket72
+10-02-2025,2025,2,Feb,Plant A,Mould Line 1,Cover,Shift B,105,116,O4,45698Cover116
+14-04-2025,2025,4,Apr,Plant A,Shot Blast,Housing,Shift C,84,95,O5,45761Housing95
+24-05-2025,2025,5,May,Plant B,Mould Line 1,Disc,Shift A,118,111,O3,45801Disc111
+19-02-2025,2025,2,Feb,Plant B,Mould Line 2,Housing,Shift B,91,87,O8,45707Housing87
+19-01-2025,2025,1,Jan,Plant B,Mould Line 1,Housing,Shift C,96,98,O7,45676Housing98
+18-05-2025,2025,5,May,Plant B,Mould Line 2,Cover,Shift C,110,112,O1,45795Cover112
+28-04-2025,2025,4,Apr,Plant B,Shot Blast,Housing,Shift B,87,70,O2,45775Housing70
+08-03-2025,2025,3,Mar,Plant A,Mould Line 2,Bracket,Shift C,94,97,O3,45724Bracket97
+01-04-2025,2025,4,Apr,Plant A,Mould Line 1,Bracket,Shift B,85,75,O4,45748Bracket75
+13-04-2025,2025,4,Apr,Plant B,Furnace 1,Bracket,Shift B,100,87,O5,45760Bracket87
+10-03-2025,2025,3,Mar,Plant A,Furnace 2,Cover,Shift C,92,108,O6,45726Cover108
+02-03-2025,2025,3,Mar,Plant A,Mould Line 1,Bracket,Shift A,92,101,O7,45718Bracket101
+02-04-2025,2025,4,Apr,Plant A,Furnace 1,Housing,Shift A,111,94,O8,45749Housing94
+07-06-2025,2025,6,Jun,Plant A,Shot Blast,Housing,Shift B,103,94,O2,45815Housing94
+28-05-2025,2025,5,May,Plant B,Mould Line 2,Bracket,Shift C,97,88,O4,45805Bracket88
+12-04-2025,2025,4,Apr,Plant A,Shot Blast,Bracket,Shift A,113,116,O5,45759Bracket116
+19-05-2025,2025,5,May,Plant A,Shot Blast,Disc,Shift B,91,80,O3,45796Disc80
+28-04-2025,2025,4,Apr,Plant A,Shot Blast,Cover,Shift B,80,86,O8,45775Cover86
+29-05-2025,2025,5,May,Plant A,Mould Line 1,Disc,Shift C,96,96,O7,45806Disc96
+17-02-2025,2025,2,Feb,Plant B,Furnace 2,Disc,Shift B,119,115,O1,45705Disc115
+19-04-2025,2025,4,Apr,Plant A,Mould Line 2,Disc,Shift B,105,110,O2,45766Disc110
+13-03-2025,2025,3,Mar,Plant B,Furnace 2,Bracket,Shift C,94,100,O3,45729Bracket100
+02-03-2025,2025,3,Mar,Plant B,Mould Line 2,Bracket,Shift A,89,74,O4,45718Bracket74
+02-05-2025,2025,5,May,Plant A,Furnace 2,Cover,Shift B,88,107,O5,45779Cover107
+13-05-2025,2025,5,May,Plant B,Mould Line 2,Disc,Shift B,115,114,O6,45790Disc114
+26-05-2025,2025,5,May,Plant A,Mould Line 2,Housing,Shift C,90,107,O7,45803Housing107
+02-05-2025,2025,5,May,Plant A,Mould Line 2,Disc,Shift B,103,109,O8,45779Disc109
+03-04-2025,2025,4,Apr,Plant B,Mould Line 1,Housing,Shift B,87,78,O2,45750Housing78
+05-06-2025,2025,6,Jun,Plant A,Shot Blast,Bracket,Shift B,102,114,O4,45813Bracket114
+25-03-2025,2025,3,Mar,Plant B,Mould Line 2,Housing,Shift B,119,115,O5,45741Housing115
+07-02-2025,2025,2,Feb,Plant A,Mould Line 1,Cover,Shift C,119,132,O3,45695Cover132
+27-05-2025,2025,5,May,Plant B,Furnace 1,Housing,Shift A,101,102,O8,45804Housing102
+16-03-2025,2025,3,Mar,Plant B,Shot Blast,Cover,Shift B,108,116,O7,45732Cover116
+03-04-2025,2025,4,Apr,Plant B,Mould Line 2,Bracket,Shift A,81,86,O1,45750Bracket86
+06-03-2025,2025,3,Mar,Plant A,Furnace 2,Bracket,Shift B,86,91,O2,45722Bracket91
+25-01-2025,2025,1,Jan,Plant A,Mould Line 2,Housing,Shift A,105,72,O3,45682Housing72
+27-01-2025,2025,1,Jan,Plant B,Shot Blast,Bracket,Shift A,104,99,O4,45684Bracket99
+21-03-2025,2025,3,Mar,Plant A,Furnace 2,Disc,Shift B,120,128,O5,45737Disc128
+13-02-2025,2025,2,Feb,Plant A,Furnace 1,Disc,Shift B,110,118,O6,45701Disc118
+30-04-2025,2025,4,Apr,Plant B,Shot Blast,Cover,Shift A,114,119,O7,45777Cover119
+11-06-2025,2025,6,Jun,Plant B,Shot Blast,Disc,Shift B,110,122,O8,45819Disc122
+19-05-2025,2025,5,May,Plant A,Furnace 1,Cover,Shift B,103,98,O2,45796Cover98
+03-01-2025,2025,1,Jan,Plant A,Shot Blast,Bracket,Shift B,98,101,O4,45660Bracket101
+01-05-2025,2025,5,May,Plant A,Mould Line 2,Cover,Shift B,80,81,O5,45778Cover81
+02-06-2025,2025,6,Jun,Plant A,Furnace 1,Disc,Shift A,106,88,O3,45810Disc88
+24-05-2025,2025,5,May,Plant B,Mould Line 2,Bracket,Shift A,104,107,O8,45801Bracket107
+21-01-2025,2025,1,Jan,Plant B,Furnace 2,Disc,Shift B,114,107,O7,45678Disc107
+10-03-2025,2025,3,Mar,Plant B,Furnace 2,Housing,Shift A,88,84,O1,45726Housing84
+08-06-2025,2025,6,Jun,Plant B,Mould Line 1,Cover,Shift A,100,113,O2,45816Cover113
+05-01-2025,2025,1,Jan,Plant A,Furnace 1,Housing,Shift A,86,84,O3,45662Housing84
+23-04-2025,2025,4,Apr,Plant A,Furnace 2,Housing,Shift A,80,85,O4,45770Housing85
+07-05-2025,2025,5,May,Plant A,Mould Line 1,Cover,Shift B,111,122,O5,45784Cover122
+09-01-2025,2025,1,Jan,Plant B,Furnace 1,Bracket,Shift A,97,96,O6,45666Bracket96
+11-04-2025,2025,4,Apr,Plant A,Shot Blast,Cover,Shift A,92,98,O7,45758Cover98
+08-04-2025,2025,4,Apr,Plant A,Furnace 1,Bracket,Shift B,108,103,O8,45755Bracket103
+05-03-2025,2025,3,Mar,Plant A,Furnace 2,Cover,Shift C,86,57,O2,45721Cover57
+02-05-2025,2025,5,May,Plant B,Mould Line 1,Disc,Shift A,120,116,O4,45779Disc116
+11-01-2025,2025,1,Jan,Plant A,Mould Line 1,Cover,Shift C,99,105,O5,45668Cover105
+20-06-2025,2025,6,Jun,Plant A,Furnace 1,Bracket,Shift C,107,126,O3,45828Bracket126
+25-03-2025,2025,3,Mar,Plant A,Furnace 2,Disc,Shift C,87,81,O8,45741Disc81
+11-01-2025,2025,1,Jan,Plant B,Shot Blast,Bracket,Shift B,85,89,O7,45668Bracket89
+05-03-2025,2025,3,Mar,Plant A,Mould Line 2,Housing,Shift C,119,105,O1,45721Housing105
+10-06-2025,2025,6,Jun,Plant A,Furnace 1,Disc,Shift C,89,111,O2,45818Disc111
+29-06-2025,2025,6,Jun,Plant A,Furnace 2,Cover,Shift A,100,117,O3,45837Cover117
+30-03-2025,2025,3,Mar,Plant B,Furnace 2,Housing,Shift C,104,101,O4,45746Housing101
+02-04-2025,2025,4,Apr,Plant A,Mould Line 1,Housing,Shift B,108,96,O5,45749Housing96
+06-05-2025,2025,5,May,Plant A,Shot Blast,Bracket,Shift C,102,97,O6,45783Bracket97
+24-03-2025,2025,3,Mar,Plant B,Mould Line 1,Bracket,Shift A,113,117,O7,45740Bracket117
+09-03-2025,2025,3,Mar,Plant B,Mould Line 2,Housing,Shift C,112,118,O8,45725Housing118
+08-04-2025,2025,4,Apr,Plant A,Furnace 1,Disc,Shift C,95,93,O2,45755Disc93
+18-05-2025,2025,5,May,Plant B,Furnace 2,Cover,Shift C,89,92,O4,45795Cover92
+06-06-2025,2025,6,Jun,Plant B,Mould Line 1,Cover,Shift C,100,109,O5,45814Cover109
+18-01-2025,2025,1,Jan,Plant A,Furnace 2,Bracket,Shift A,92,99,O3,45675Bracket99
+28-01-2025,2025,1,Jan,Plant B,Furnace 2,Housing,Shift A,116,109,O8,45685Housing109
+06-05-2025,2025,5,May,Plant B,Furnace 1,Disc,Shift A,118,110,O7,45783Disc110
+19-01-2025,2025,1,Jan,Plant A,Furnace 2,Cover,Shift A,109,110,O1,45676Cover110
+23-05-2025,2025,5,May,Plant B,Mould Line 1,Housing,Shift C,97,93,O2,45800Housing93
+16-05-2025,2025,5,May,Plant A,Furnace 1,Disc,Shift A,93,97,O3,45793Disc97
+01-03-2025,2025,3,Mar,Plant B,Furnace 2,Bracket,Shift C,95,93,O4,45717Bracket93
+26-05-2025,2025,5,May,Plant A,Shot Blast,Cover,Shift C,86,87,O5,45803Cover87
+22-06-2025,2025,6,Jun,Plant B,Mould Line 2,Housing,Shift A,91,77,O6,45830Housing77
+21-05-2025,2025,5,May,Plant B,Shot Blast,Disc,Shift C,90,76,O7,45798Disc76
+01-04-2025,2025,4,Apr,Plant B,Shot Blast,Disc,Shift B,106,103,O8,45748Disc103
+12-06-2025,2025,6,Jun,Plant B,Mould Line 1,Bracket,Shift C,114,117,O2,45820Bracket117
+07-03-2025,2025,3,Mar,Plant B,Mould Line 2,Cover,Shift B,80,96,O4,45723Cover96
+09-01-2025,2025,1,Jan,Plant B,Shot Blast,Housing,Shift C,88,96,O5,45666Housing96
+18-03-2025,2025,3,Mar,Plant A,Furnace 2,Disc,Shift A,97,96,O3,45734Disc96
+22-05-2025,2025,5,May,Plant A,Furnace 1,Housing,Shift B,102,106,O8,45799Housing106
+30-05-2025,2025,5,May,Plant A,Furnace 2,Disc,Shift B,85,91,O7,45807Disc91
+27-05-2025,2025,5,May,Plant B,Shot Blast,Bracket,Shift C,84,81,O1,45804Bracket81
+14-02-2025,2025,2,Feb,Plant B,Shot Blast,Housing,Shift C,99,81,O2,45702Housing81
+10-01-2025,2025,1,Jan,Plant B,Furnace 1,Housing,Shift B,102,109,O3,45667Housing109
+31-01-2025,2025,1,Jan,Plant A,Shot Blast,Housing,Shift C,120,112,O4,45688Housing112
+08-04-2025,2025,4,Apr,Plant A,Mould Line 1,Housing,Shift B,114,105,O5,45755Housing105
+28-06-2025,2025,6,Jun,Plant A,Furnace 2,Housing,Shift C,105,101,O6,45836Housing101
+25-04-2025,2025,4,Apr,Plant A,Furnace 2,Cover,Shift B,105,110,O7,45772Cover110
+02-05-2025,2025,5,May,Plant A,Shot Blast,Cover,Shift B,85,92,O8,45779Cover92
+13-04-2025,2025,4,Apr,Plant B,Furnace 2,Bracket,Shift B,115,118,O2,45760Bracket118
+27-05-2025,2025,5,May,Plant A,Shot Blast,Bracket,Shift A,84,93,O4,45804Bracket93
+10-03-2025,2025,3,Mar,Plant B,Mould Line 1,Housing,Shift A,106,97,O5,45726Housing97
+24-03-2025,2025,3,Mar,Plant B,Shot Blast,Housing,Shift B,90,94,O3,45740Housing94
+31-03-2025,2025,3,Mar,Plant B,Shot Blast,Bracket,Shift B,82,88,O8,45747Bracket88
+25-06-2025,2025,6,Jun,Plant B,Furnace 2,Housing,Shift A,83,79,O7,45833Housing79
+04-03-2025,2025,3,Mar,Plant A,Mould Line 1,Housing,Shift B,87,83,O1,45720Housing83
+26-03-2025,2025,3,Mar,Plant A,Shot Blast,Bracket,Shift A,114,124,O2,45742Bracket124
+14-05-2025,2025,5,May,Plant B,Shot Blast,Cover,Shift C,89,83,O3,45791Cover83
+07-04-2025,2025,4,Apr,Plant A,Mould Line 1,Bracket,Shift A,98,84,O4,45754Bracket84
+21-02-2025,2025,2,Feb,Plant B,Furnace 1,Cover,Shift C,80,93,O5,45709Cover93
+19-06-2025,2025,6,Jun,Plant B,Furnace 1,Housing,Shift B,104,109,O6,45827Housing109
+01-03-2025,2025,3,Mar,Plant B,Shot Blast,Housing,Shift B,111,119,O7,45717Housing119
+17-02-2025,2025,2,Feb,Plant A,Shot Blast,Cover,Shift C,81,71,O8,45705Cover71
+11-01-2025,2025,1,Jan,Plant A,Shot Blast,Disc,Shift B,111,106,O2,45668Disc106
+30-03-2025,2025,3,Mar,Plant B,Mould Line 1,Disc,Shift A,112,115,O4,45746Disc115
+12-03-2025,2025,3,Mar,Plant A,Mould Line 1,Cover,Shift A,115,121,O5,45728Cover121
+29-03-2025,2025,3,Mar,Plant B,Furnace 2,Housing,Shift C,104,101,O3,45745Housing101
+14-05-2025,2025,5,May,Plant A,Mould Line 2,Bracket,Shift C,89,81,O8,45791Bracket81
+04-06-2025,2025,6,Jun,Plant B,Mould Line 2,Bracket,Shift A,88,91,O7,45812Bracket91
+29-05-2025,2025,5,May,Plant A,Furnace 2,Disc,Shift C,113,121,O1,45806Disc121
+07-02-2025,2025,2,Feb,Plant A,Mould Line 1,Housing,Shift C,114,108,O2,45695Housing108
+31-01-2025,2025,1,Jan,Plant A,Mould Line 1,Bracket,Shift C,81,82,O3,45688Bracket82
+16-04-2025,2025,4,Apr,Plant B,Mould Line 1,Cover,Shift C,120,99,O4,45763Cover99
+12-03-2025,2025,3,Mar,Plant A,Furnace 2,Housing,Shift A,91,119,O5,45728Housing119
+07-06-2025,2025,6,Jun,Plant B,Shot Blast,Bracket,Shift C,94,98,O6,45815Bracket98
+01-03-2025,2025,3,Mar,Plant A,Mould Line 1,Housing,Shift C,110,122,O7,45717Housing122
+01-05-2025,2025,5,May,Plant B,Furnace 2,Cover,Shift B,110,124,O8,45778Cover124
+05-02-2025,2025,2,Feb,Plant A,Furnace 2,Bracket,Shift A,106,106,O2,45693Bracket106
+11-03-2025,2025,3,Mar,Plant B,Furnace 2,Bracket,Shift A,84,82,O4,45727Bracket82
+15-02-2025,2025,2,Feb,Plant B,Shot Blast,Cover,Shift C,100,114,O5,45703Cover114
+20-04-2025,2025,4,Apr,Plant B,Furnace 1,Cover,Shift C,100,84,O3,45767Cover84
+11-04-2025,2025,4,Apr,Plant A,Shot Blast,Housing,Shift B,109,110,O8,45758Housing110
+04-03-2025,2025,3,Mar,Plant B,Furnace 1,Cover,Shift C,120,117,O7,45720Cover117
+13-01-2025,2025,1,Jan,Plant A,Mould Line 1,Cover,Shift B,99,100,O1,45670Cover100
+12-02-2025,2025,2,Feb,Plant B,Mould Line 1,Housing,Shift C,113,104,O2,45700Housing104
+06-02-2025,2025,2,Feb,Plant B,Mould Line 2,Housing,Shift C,112,125,O3,45694Housing125
+28-06-2025,2025,6,Jun,Plant A,Mould Line 2,Cover,Shift B,108,119,O4,45836Cover119
+07-01-2025,2025,1,Jan,Plant A,Mould Line 2,Bracket,Shift B,85,84,O5,45664Bracket84
+11-02-2025,2025,2,Feb,Plant A,Furnace 1,Housing,Shift C,108,123,O6,45699Housing123
+12-06-2025,2025,6,Jun,Plant B,Furnace 1,Cover,Shift C,112,107,O7,45820Cover107
+21-05-2025,2025,5,May,Plant B,Furnace 1,Bracket,Shift B,116,112,O8,45798Bracket112
+18-06-2025,2025,6,Jun,Plant A,Furnace 2,Bracket,Shift A,83,75,O2,45826Bracket75
+25-04-2025,2025,4,Apr,Plant B,Furnace 2,Housing,Shift A,92,96,O4,45772Housing96
+01-01-2025,2025,1,Jan,Plant B,Furnace 1,Cover,Shift B,111,109,O5,45658Cover109
+07-05-2025,2025,5,May,Plant A,Furnace 2,Cover,Shift B,106,105,O3,45784Cover105
+24-04-2025,2025,4,Apr,Plant A,Shot Blast,Housing,Shift A,115,112,O8,45771Housing112
+23-02-2025,2025,2,Feb,Plant A,Furnace 2,Bracket,Shift A,102,115,O7,45711Bracket115
+10-01-2025,2025,1,Jan,Plant A,Furnace 1,Disc,Shift B,85,94,O1,45667Disc94
+15-02-2025,2025,2,Feb,Plant A,Mould Line 1,Bracket,Shift B,117,120,O2,45703Bracket120
+03-04-2025,2025,4,Apr,Plant A,Furnace 1,Disc,Shift B,103,117,O3,45750Disc117
+20-04-2025,2025,4,Apr,Plant A,Mould Line 1,Cover,Shift A,87,75,O4,45767Cover75
+27-06-2025,2025,6,Jun,Plant B,Mould Line 1,Cover,Shift C,93,88,O5,45835Cover88
+28-01-2025,2025,1,Jan,Plant A,Mould Line 2,Disc,Shift B,118,105,O6,45685Disc105
+23-03-2025,2025,3,Mar,Plant B,Shot Blast,Disc,Shift A,119,107,O7,45739Disc107
+11-06-2025,2025,6,Jun,Plant B,Mould Line 2,Bracket,Shift C,94,89,O8,45819Bracket89
+16-03-2025,2025,3,Mar,Plant A,Furnace 1,Housing,Shift A,109,105,O2,45732Housing105
+23-02-2025,2025,2,Feb,Plant B,Mould Line 2,Housing,Shift B,102,98,O4,45711Housing98
+24-05-2025,2025,5,May,Plant A,Furnace 1,Bracket,Shift C,98,97,O5,45801Bracket97
+18-03-2025,2025,3,Mar,Plant B,Furnace 1,Housing,Shift C,101,104,O3,45734Housing104
+29-03-2025,2025,3,Mar,Plant B,Shot Blast,Housing,Shift A,92,87,O8,45745Housing87
+22-06-2025,2025,6,Jun,Plant B,Mould Line 2,Housing,Shift C,88,95,O7,45830Housing95
+04-05-2025,2025,5,May,Plant A,Mould Line 2,Disc,Shift B,106,109,O1,45781Disc109
+14-05-2025,2025,5,May,Plant B,Shot Blast,Disc,Shift C,114,112,O2,45791Disc112
+05-01-2025,2025,1,Jan,Plant A,Shot Blast,Disc,Shift B,84,91,O3,45662Disc91
+08-01-2025,2025,1,Jan,Plant B,Mould Line 2,Bracket,Shift C,118,116,O4,45665Bracket116
+10-04-2025,2025,4,Apr,Plant A,Shot Blast,Housing,Shift B,100,98,O5,45757Housing98
+23-01-2025,2025,1,Jan,Plant B,Furnace 2,Disc,Shift B,99,91,O6,45680Disc91
+25-02-2025,2025,2,Feb,Plant B,Furnace 2,Housing,Shift B,82,85,O7,45713Housing85
+24-04-2025,2025,4,Apr,Plant A,Mould Line 2,Bracket,Shift A,101,79,O8,45771Bracket79
+04-05-2025,2025,5,May,Plant B,Mould Line 1,Bracket,Shift A,113,110,O2,45781Bracket110
+10-01-2025,2025,1,Jan,Plant B,Mould Line 2,Housing,Shift A,99,94,O4,45667Housing94
+12-01-2025,2025,1,Jan,Plant A,Mould Line 1,Cover,Shift A,86,71,O5,45669Cover71
+21-03-2025,2025,3,Mar,Plant A,Shot Blast,Disc,Shift C,93,91,O3,45737Disc91
+24-03-2025,2025,3,Mar,Plant A,Furnace 2,Disc,Shift B,114,109,O8,45740Disc109
+31-01-2025,2025,1,Jan,Plant B,Furnace 2,Bracket,Shift B,87,96,O7,45688Bracket96
+04-01-2025,2025,1,Jan,Plant A,Furnace 2,Disc,Shift C,100,96,O1,45661Disc96
+14-03-2025,2025,3,Mar,Plant A,Furnace 2,Housing,Shift B,119,142,O2,45730Housing142
+28-03-2025,2025,3,Mar,Plant B,Furnace 1,Bracket,Shift A,110,112,O3,45744Bracket112
+09-04-2025,2025,4,Apr,Plant A,Furnace 1,Cover,Shift B,91,89,O4,45756Cover89
+02-06-2025,2025,6,Jun,Plant B,Shot Blast,Disc,Shift B,101,107,O5,45810Disc107
+21-06-2025,2025,6,Jun,Plant A,Mould Line 2,Bracket,Shift A,109,94,O6,45829Bracket94
+25-01-2025,2025,1,Jan,Plant B,Mould Line 1,Cover,Shift B,94,99,O7,45682Cover99
+07-06-2025,2025,6,Jun,Plant B,Mould Line 1,Cover,Shift A,101,99,O8,45815Cover99
+25-03-2025,2025,3,Mar,Plant B,Mould Line 2,Housing,Shift A,110,118,O2,45741Housing118
+13-02-2025,2025,2,Feb,Plant B,Mould Line 1,Bracket,Shift C,86,93,O4,45701Bracket93
+14-04-2025,2025,4,Apr,Plant A,Mould Line 1,Housing,Shift B,114,101,O5,45761Housing101
+03-03-2025,2025,3,Mar,Plant A,Shot Blast,Bracket,Shift B,104,107,O3,45719Bracket107
+17-01-2025,2025,1,Jan,Plant B,Furnace 2,Cover,Shift B,116,118,O8,45674Cover118
+02-03-2025,2025,3,Mar,Plant A,Furnace 1,Cover,Shift A,117,104,O7,45718Cover104
+02-06-2025,2025,6,Jun,Plant B,Mould Line 1,Housing,Shift B,91,87,O1,45810Housing87
+03-06-2025,2025,6,Jun,Plant A,Shot Blast,Cover,Shift B,111,120,O2,45811Cover120
+15-06-2025,2025,6,Jun,Plant A,Furnace 1,Bracket,Shift A,117,128,O3,45823Bracket128
+01-01-2025,2025,1,Jan,Plant A,Furnace 2,Cover,Shift C,98,89,O4,45658Cover89
+10-04-2025,2025,4,Apr,Plant B,Furnace 2,Bracket,Shift C,100,94,O5,45757Bracket94
+23-06-2025,2025,6,Jun,Plant B,Mould Line 2,Disc,Shift A,117,133,O6,45831Disc133
+03-01-2025,2025,1,Jan,Plant B,Furnace 2,Disc,Shift A,103,124,O7,45660Disc124
+01-01-2025,2025,1,Jan,Plant B,Furnace 1,Disc,Shift A,95,79,O8,45658Disc79
+21-04-2025,2025,4,Apr,Plant B,Mould Line 1,Cover,Shift B,104,97,O2,45768Cover97
+14-02-2025,2025,2,Feb,Plant B,Furnace 2,Bracket,Shift C,104,106,O4,45702Bracket106
+03-04-2025,2025,4,Apr,Plant B,Furnace 2,Disc,Shift C,88,90,O5,45750Disc90
+05-01-2025,2025,1,Jan,Plant A,Mould Line 2,Cover,Shift A,85,87,O3,45662Cover87
+05-02-2025,2025,2,Feb,Plant B,Mould Line 2,Cover,Shift C,91,80,O8,45693Cover80
+26-04-2025,2025,4,Apr,Plant B,Mould Line 1,Bracket,Shift A,107,109,O7,45773Bracket109
+04-06-2025,2025,6,Jun,Plant A,Shot Blast,Cover,Shift C,95,93,O1,45812Cover93
+20-05-2025,2025,5,May,Plant B,Furnace 1,Housing,Shift C,110,102,O2,45797Housing102
+05-04-2025,2025,4,Apr,Plant A,Shot Blast,Cover,Shift C,85,95,O3,45752Cover95
+13-03-2025,2025,3,Mar,Plant B,Shot Blast,Housing,Shift C,119,131,O4,45729Housing131
+23-01-2025,2025,1,Jan,Plant A,Mould Line 2,Housing,Shift C,120,107,O5,45680Housing107
+06-06-2025,2025,6,Jun,Plant A,Mould Line 1,Housing,Shift B,109,105,O6,45814Housing105
+12-05-2025,2025,5,May,Plant B,Shot Blast,Disc,Shift B,102,119,O7,45789Disc119
+16-03-2025,2025,3,Mar,Plant A,Furnace 1,Disc,Shift C,116,111,O8,45732Disc111
+08-03-2025,2025,3,Mar,Plant A,Mould Line 2,Bracket,Shift C,83,78,O2,45724Bracket78
+09-06-2025,2025,6,Jun,Plant A,Mould Line 1,Cover,Shift A,88,81,O4,45817Cover81
+10-05-2025,2025,5,May,Plant A,Mould Line 1,Disc,Shift A,119,115,O5,45787Disc115
+04-01-2025,2025,1,Jan,Plant A,Shot Blast,Bracket,Shift C,89,108,O3,45661Bracket108
+18-06-2025,2025,6,Jun,Plant B,Mould Line 1,Bracket,Shift B,95,77,O8,45826Bracket77
+09-01-2025,2025,1,Jan,Plant B,Furnace 1,Bracket,Shift C,89,90,O7,45666Bracket90
+07-05-2025,2025,5,May,Plant B,Mould Line 2,Bracket,Shift C,108,107,O1,45784Bracket107
+28-05-2025,2025,5,May,Plant B,Furnace 1,Disc,Shift A,83,77,O2,45805Disc77
+12-02-2025,2025,2,Feb,Plant B,Mould Line 2,Cover,Shift B,110,109,O3,45700Cover109
+17-05-2025,2025,5,May,Plant A,Mould Line 2,Cover,Shift B,96,79,O4,45794Cover79
+07-02-2025,2025,2,Feb,Plant B,Furnace 1,Disc,Shift B,104,92,O5,45695Disc92
+24-06-2025,2025,6,Jun,Plant A,Furnace 1,Disc,Shift B,119,95,O6,45832Disc95
+16-06-2025,2025,6,Jun,Plant B,Mould Line 1,Disc,Shift B,86,85,O7,45824Disc85
+29-04-2025,2025,4,Apr,Plant A,Shot Blast,Bracket,Shift C,101,114,O8,45776Bracket114
+23-06-2025,2025,6,Jun,Plant A,Mould Line 1,Housing,Shift C,80,80,O2,45831Housing80
+26-01-2025,2025,1,Jan,Plant A,Mould Line 2,Disc,Shift A,98,96,O4,45683Disc96
+06-03-2025,2025,3,Mar,Plant A,Furnace 1,Housing,Shift C,85,97,O5,45722Housing97
+25-02-2025,2025,2,Feb,Plant A,Furnace 1,Housing,Shift C,88,92,O3,45713Housing92
+07-04-2025,2025,4,Apr,Plant A,Furnace 1,Bracket,Shift B,98,75,O8,45754Bracket75
+13-06-2025,2025,6,Jun,Plant B,Mould Line 1,Cover,Shift C,100,104,O7,45821Cover104
+07-03-2025,2025,3,Mar,Plant A,Furnace 1,Disc,Shift A,104,78,O1,45723Disc78
+08-03-2025,2025,3,Mar,Plant B,Furnace 2,Cover,Shift A,111,132,O2,45724Cover132
+21-02-2025,2025,2,Feb,Plant B,Furnace 2,Cover,Shift A,89,78,O3,45709Cover78
+07-06-2025,2025,6,Jun,Plant A,Mould Line 2,Disc,Shift A,82,79,O4,45815Disc79
+19-01-2025,2025,1,Jan,Plant A,Shot Blast,Disc,Shift B,81,85,O5,45676Disc85
+13-06-2025,2025,6,Jun,Plant A,Furnace 1,Cover,Shift B,89,85,O6,45821Cover85
+29-06-2025,2025,6,Jun,Plant B,Mould Line 2,Housing,Shift C,111,100,O7,45837Housing100
+18-01-2025,2025,1,Jan,Plant A,Furnace 1,Cover,Shift C,110,111,O8,45675Cover111
+01-02-2025,2025,2,Feb,Plant B,Mould Line 1,Disc,Shift B,83,65,O2,45689Disc65
+24-01-2025,2025,1,Jan,Plant B,Shot Blast,Disc,Shift A,109,90,O4,45681Disc90
+16-03-2025,2025,3,Mar,Plant A,Furnace 2,Housing,Shift B,92,88,O5,45732Housing88
+28-01-2025,2025,1,Jan,Plant B,Mould Line 2,Housing,Shift C,108,117,O3,45685Housing117
+18-02-2025,2025,2,Feb,Plant A,Furnace 1,Bracket,Shift A,117,117,O8,45706Bracket117
+19-05-2025,2025,5,May,Plant B,Mould Line 2,Cover,Shift A,82,91,O7,45796Cover91
+28-03-2025,2025,3,Mar,Plant A,Mould Line 1,Housing,Shift B,87,90,O1,45744Housing90
+14-05-2025,2025,5,May,Plant B,Shot Blast,Bracket,Shift C,117,131,O2,45791Bracket131
+01-03-2025,2025,3,Mar,Plant A,Furnace 1,Bracket,Shift B,81,58,O3,45717Bracket58
+12-01-2025,2025,1,Jan,Plant A,Furnace 2,Housing,Shift A,120,124,O4,45669Housing124
+13-01-2025,2025,1,Jan,Plant B,Furnace 1,Cover,Shift C,90,91,O5,45670Cover91
+28-01-2025,2025,1,Jan,Plant A,Mould Line 2,Bracket,Shift A,92,88,O6,45685Bracket88
+20-04-2025,2025,4,Apr,Plant B,Mould Line 2,Disc,Shift A,116,107,O7,45767Disc107
+24-02-2025,2025,2,Feb,Plant A,Shot Blast,Bracket,Shift B,84,81,O8,45712Bracket81
+31-01-2025,2025,1,Jan,Plant B,Furnace 2,Cover,Shift A,103,92,O2,45688Cover92
+29-05-2025,2025,5,May,Plant A,Furnace 2,Housing,Shift C,119,115,O4,45806Housing115
+07-04-2025,2025,4,Apr,Plant A,Furnace 1,Cover,Shift A,80,102,O5,45754Cover102
+16-06-2025,2025,6,Jun,Plant B,Mould Line 2,Cover,Shift C,88,89,O3,45824Cover89
+22-02-2025,2025,2,Feb,Plant A,Mould Line 1,Cover,Shift B,95,107,O8,45710Cover107
+10-01-2025,2025,1,Jan,Plant A,Mould Line 2,Housing,Shift C,99,93,O7,45667Housing93
+31-03-2025,2025,3,Mar,Plant B,Furnace 1,Bracket,Shift A,87,114,O1,45747Bracket114
+08-06-2025,2025,6,Jun,Plant B,Shot Blast,Bracket,Shift B,120,117,O2,45816Bracket117
+18-06-2025,2025,6,Jun,Plant A,Mould Line 1,Housing,Shift A,87,91,O3,45826Housing91
+02-05-2025,2025,5,May,Plant B,Furnace 2,Bracket,Shift C,82,67,O4,45779Bracket67
+14-01-2025,2025,1,Jan,Plant B,Mould Line 1,Bracket,Shift B,96,86,O5,45671Bracket86
+27-04-2025,2025,4,Apr,Plant A,Furnace 1,Housing,Shift C,91,106,O6,45774Housing106
+10-02-2025,2025,2,Feb,Plant A,Mould Line 2,Housing,Shift A,95,92,O7,45698Housing92
+25-03-2025,2025,3,Mar,Plant B,Furnace 2,Disc,Shift A,87,73,O8,45741Disc73
+25-03-2025,2025,3,Mar,Plant A,Furnace 1,Bracket,Shift C,106,112,O2,45741Bracket112
+26-02-2025,2025,2,Feb,Plant A,Mould Line 2,Cover,Shift A,107,99,O4,45714Cover99
+07-02-2025,2025,2,Feb,Plant A,Shot Blast,Cover,Shift A,104,96,O5,45695Cover96
+19-02-2025,2025,2,Feb,Plant B,Mould Line 1,Bracket,Shift B,88,95,O3,45707Bracket95
+09-01-2025,2025,1,Jan,Plant A,Mould Line 1,Bracket,Shift A,109,103,O8,45666Bracket103
+29-03-2025,2025,3,Mar,Plant A,Mould Line 1,Bracket,Shift C,119,120,O7,45745Bracket120
+13-02-2025,2025,2,Feb,Plant A,Furnace 1,Cover,Shift C,111,115,O1,45701Cover115
+02-05-2025,2025,5,May,Plant B,Mould Line 1,Housing,Shift C,107,101,O2,45779Housing101
+05-03-2025,2025,3,Mar,Plant A,Mould Line 1,Cover,Shift C,94,104,O3,45721Cover104
+08-02-2025,2025,2,Feb,Plant A,Mould Line 2,Housing,Shift A,110,101,O4,45696Housing101
+10-05-2025,2025,5,May,Plant A,Mould Line 2,Cover,Shift B,86,78,O5,45787Cover78
+23-05-2025,2025,5,May,Plant A,Mould Line 2,Bracket,Shift A,102,104,O6,45800Bracket104
+17-03-2025,2025,3,Mar,Plant A,Furnace 1,Housing,Shift B,99,104,O7,45733Housing104
+27-05-2025,2025,5,May,Plant A,Mould Line 2,Cover,Shift A,105,114,O8,45804Cover114
+17-02-2025,2025,2,Feb,Plant B,Mould Line 2,Housing,Shift C,84,72,O2,45705Housing72
+16-05-2025,2025,5,May,Plant A,Mould Line 1,Cover,Shift B,119,129,O4,45793Cover129
+19-05-2025,2025,5,May,Plant A,Furnace 1,Disc,Shift C,83,61,O5,45796Disc61
+04-04-2025,2025,4,Apr,Plant A,Furnace 1,Cover,Shift B,109,106,O3,45751Cover106
+08-06-2025,2025,6,Jun,Plant A,Mould Line 1,Disc,Shift A,115,111,O8,45816Disc111
+22-02-2025,2025,2,Feb,Plant A,Mould Line 1,Bracket,Shift C,87,74,O7,45710Bracket74
+16-06-2025,2025,6,Jun,Plant B,Shot Blast,Bracket,Shift C,94,84,O1,45824Bracket84
+09-05-2025,2025,5,May,Plant B,Mould Line 1,Housing,Shift A,103,122,O2,45786Housing122
+30-03-2025,2025,3,Mar,Plant B,Mould Line 2,Housing,Shift B,114,108,O3,45746Housing108
+16-03-2025,2025,3,Mar,Plant B,Shot Blast,Disc,Shift C,84,72,O4,45732Disc72
+18-02-2025,2025,2,Feb,Plant B,Furnace 1,Housing,Shift B,91,85,O5,45706Housing85
+28-01-2025,2025,1,Jan,Plant A,Mould Line 1,Housing,Shift C,89,113,O6,45685Housing113
+08-05-2025,2025,5,May,Plant A,Furnace 2,Housing,Shift B,106,118,O7,45785Housing118
+03-02-2025,2025,2,Feb,Plant B,Mould Line 1,Cover,Shift B,81,78,O8,45691Cover78
+16-03-2025,2025,3,Mar,Plant A,Furnace 1,Housing,Shift A,113,106,O2,45732Housing106
+29-03-2025,2025,3,Mar,Plant B,Mould Line 2,Cover,Shift B,99,90,O4,45745Cover90
+26-05-2025,2025,5,May,Plant A,Mould Line 1,Bracket,Shift B,94,67,O5,45803Bracket67
+13-01-2025,2025,1,Jan,Plant A,Mould Line 1,Disc,Shift B,90,92,O3,45670Disc92
+08-06-2025,2025,6,Jun,Plant A,Shot Blast,Disc,Shift A,91,99,O8,45816Disc99
+20-06-2025,2025,6,Jun,Plant A,Furnace 2,Bracket,Shift A,82,68,O7,45828Bracket68
+23-03-2025,2025,3,Mar,Plant A,Mould Line 2,Disc,Shift B,91,95,O1,45739Disc95
+20-06-2025,2025,6,Jun,Plant B,Mould Line 1,Bracket,Shift B,108,123,O2,45828Bracket123
+19-05-2025,2025,5,May,Plant A,Shot Blast,Disc,Shift A,81,71,O3,45796Disc71
+07-02-2025,2025,2,Feb,Plant B,Mould Line 1,Bracket,Shift A,114,120,O4,45695Bracket120
+10-05-2025,2025,5,May,Plant B,Mould Line 1,Cover,Shift B,116,107,O5,45787Cover107
+24-04-2025,2025,4,Apr,Plant B,Furnace 1,Cover,Shift A,88,72,O6,45771Cover72
+23-06-2025,2025,6,Jun,Plant A,Mould Line 1,Housing,Shift B,119,124,O7,45831Housing124
+24-01-2025,2025,1,Jan,Plant B,Furnace 1,Bracket,Shift C,113,103,O8,45681Bracket103
+26-02-2025,2025,2,Feb,Plant B,Furnace 2,Housing,Shift A,114,122,O2,45714Housing122
+23-01-2025,2025,1,Jan,Plant B,Furnace 2,Cover,Shift B,118,105,O4,45680Cover105
+04-06-2025,2025,6,Jun,Plant A,Mould Line 1,Cover,Shift A,107,100,O5,45812Cover100
+14-03-2025,2025,3,Mar,Plant B,Mould Line 1,Disc,Shift B,115,122,O3,45730Disc122
+23-01-2025,2025,1,Jan,Plant A,Mould Line 2,Cover,Shift B,98,106,O8,45680Cover106
+19-04-2025,2025,4,Apr,Plant B,Furnace 2,Housing,Shift A,93,106,O7,45766Housing106
+19-03-2025,2025,3,Mar,Plant B,Shot Blast,Disc,Shift A,117,117,O1,45735Disc117
+15-04-2025,2025,4,Apr,Plant B,Mould Line 2,Bracket,Shift C,109,104,O2,45762Bracket104
+26-05-2025,2025,5,May,Plant A,Furnace 2,Bracket,Shift B,98,95,O3,45803Bracket95
+19-03-2025,2025,3,Mar,Plant B,Mould Line 2,Cover,Shift A,81,80,O4,45735Cover80
+01-01-2025,2025,1,Jan,Plant A,Mould Line 1,Disc,Shift C,120,105,O5,45658Disc105
+15-03-2025,2025,3,Mar,Plant B,Furnace 2,Cover,Shift C,95,97,O6,45731Cover97
+24-01-2025,2025,1,Jan,Plant B,Furnace 2,Plate,Shift B,99,100,O7,45681Plate99.8
+26-02-2025,2025,2,Feb,Plant A,Induction Furnace 1,Ring,Shift A,99,99,O8,45714Ring99.2985294117647
+23-01-2025,2025,1,Jan,Plant B,Induction Furnace 2,Flange,Shift B,98,99,O2,45680Flange98.7970588235294
+04-06-2025,2025,6,Jun,Plant A,Holding Furnace,Shaft,Shift C,97,98,O4,45812Shaft98.2955882352941
+14-03-2025,2025,3,Mar,Plant B,Ladle Preheater,Coupling,Shift A,96,98,O5,45730Coupling97.7941176470588
+23-01-2025,2025,1,Jan,Plant B,Furnace 3,Pulley,Shift B,95,97,O3,45680Pulley97.2926470588235
+19-04-2025,2025,4,Apr,Plant A,Furnace 2,Gear Blank,Shift A,95,97,O8,45766Gear Blank96.7911764705882
+19-03-2025,2025,3,Mar,Plant B,Induction Furnace 1,Wheel Hub,Shift B,94,96,O7,45735Wheel Hub96.2897058823529
+15-04-2025,2025,4,Apr,Plant A,Induction Furnace 2,Plate,Shift B,93,96,O1,45762Plate95.7882352941176
+26-05-2025,2025,5,May,Plant B,Holding Furnace,Ring,Shift A,92,95,O2,45803Ring95.2867647058823
+19-03-2025,2025,3,Mar,Plant B,Ladle Preheater,Flange,Shift A,91,95,O3,45735Flange94.7852941176471
+01-01-2025,2025,1,Jan,Plant A,Furnace 3,Shaft,Shift C,91,94,O4,45658Shaft94.2838235294118
+15-03-2025,2025,3,Mar,Plant B,Furnace 2,Coupling,Shift B,90,94,O5,45731Coupling93.7823529411765
+24-01-2025,2025,1,Jan,Plant A,Induction Furnace 1,Pulley,Shift A,89,93,O6,45681Pulley93.2808823529412
+26-02-2025,2025,2,Feb,Plant B,Induction Furnace 2,Gear Blank,Shift C,88,93,O7,45714Gear Blank92.7794117647059
+23-01-2025,2025,1,Jan,Plant B,Holding Furnace,Wheel Hub,Shift C,87,92,O8,45680Wheel Hub92.2779411764706
+04-06-2025,2025,6,Jun,Plant A,Ladle Preheater,Plate,Shift B,86,92,O2,45812Plate91.7764705882353
+14-03-2025,2025,3,Mar,Plant B,Furnace 3,Ring,Shift A,86,91,O4,45730Ring91.275
+23-01-2025,2025,1,Jan,Plant A,Furnace 2,Flange,Shift B,85,91,O5,45680Flange90.7735294117647
+19-04-2025,2025,4,Apr,Plant B,Induction Furnace 1,Shaft,Shift C,84,90,O3,45766Shaft90.2720588235294
+19-03-2025,2025,3,Mar,Plant B,Induction Furnace 2,Coupling,Shift A,83,90,O8,45735Coupling89.7705882352941
+15-04-2025,2025,4,Apr,Plant A,Holding Furnace,Pulley,Shift B,82,89,O7,45762Pulley89.2691176470588
+26-05-2025,2025,5,May,Plant B,Ladle Preheater,Gear Blank,Shift A,82,89,O1,45803Gear Blank88.7676470588235
+19-03-2025,2025,3,Mar,Plant A,Furnace 3,Wheel Hub,Shift B,81,88,O2,45735Wheel Hub88.2661764705882
+01-01-2025,2025,1,Jan,Plant B,Furnace 2,Plate,Shift B,80,88,O3,45658Plate87.7647058823529
+15-03-2025,2025,3,Mar,Plant B,Induction Furnace 1,Ring,Shift A,79,87,O4,45731Ring87.2632352941176
+24-01-2025,2025,1,Jan,Plant A,Induction Furnace 2,Flange,Shift A,78,87,O5,45681Flange86.7617647058823
+26-02-2025,2025,2,Feb,Plant B,Holding Furnace,Shaft,Shift C,78,86,O6,45714Shaft86.2602941176471
+23-01-2025,2025,1,Jan,Plant A,Ladle Preheater,Coupling,Shift B,77,86,O7,45680Coupling85.7588235294118
+04-06-2025,2025,6,Jun,Plant B,Furnace 3,Pulley,Shift A,76,85,O8,45812Pulley85.2573529411765
+14-03-2025,2025,3,Mar,Plant B,Furnace 2,Gear Blank,Shift C,75,85,O2,45730Gear Blank84.7558823529412
+23-01-2025,2025,1,Jan,Plant A,Induction Furnace 1,Wheel Hub,Shift C,74,84,O4,45680Wheel Hub84.2544117647059
+19-04-2025,2025,4,Apr,Plant B,Induction Furnace 2,Plate,Shift B,73,84,O5,45766Plate83.7529411764706
+19-03-2025,2025,3,Mar,Plant A,Holding Furnace,Ring,Shift A,73,83,O3,45735Ring83.2514705882353
+15-04-2025,2025,4,Apr,Plant B,Ladle Preheater,Flange,Shift B,72,83,O8,45762Flange82.75
+26-05-2025,2025,5,May,Plant B,Furnace 3,Shaft,Shift C,71,82,O7,45803Shaft82.2485294117647
+19-03-2025,2025,3,Mar,Plant A,Furnace 2,Coupling,Shift A,70,82,O1,45735Coupling81.7470588235294
+01-01-2025,2025,1,Jan,Plant B,Induction Furnace 1,Pulley,Shift B,69,81,O2,45658Pulley81.2455882352941
+15-03-2025,2025,3,Mar,Plant A,Induction Furnace 2,Gear Blank,Shift A,69,81,O3,45731Gear Blank80.7441176470588
+24-01-2025,2025,1,Jan,Plant B,Holding Furnace,Wheel Hub,Shift B,68,80,O4,45681Wheel Hub80.2426470588235
+26-02-2025,2025,2,Feb,Plant B,Ladle Preheater,Plate,Shift B,67,80,O5,45714Plate79.7411764705882
+23-01-2025,2025,1,Jan,Plant A,Furnace 3,Ring,Shift A,66,79,O6,45680Ring79.2397058823529
+04-06-2025,2025,6,Jun,Plant B,Furnace 2,Flange,Shift A,65,79,O7,45812Flange78.7382352941176
+14-03-2025,2025,3,Mar,Plant A,Induction Furnace 1,Shaft,Shift C,65,78,O8,45730Shaft78.2367647058823
+23-01-2025,2025,1,Jan,Plant B,Induction Furnace 2,Coupling,Shift B,64,78,O2,45680Coupling77.7352941176471
+19-04-2025,2025,4,Apr,Plant B,Holding Furnace,Pulley,Shift A,63,77,O4,45766Pulley77.2338235294118
+19-03-2025,2025,3,Mar,Plant A,Ladle Preheater,Gear Blank,Shift C,62,77,O5,45735Gear Blank76.7323529411765
+15-04-2025,2025,4,Apr,Plant B,Furnace 3,Wheel Hub,Shift C,61,76,O3,45762Wheel Hub76.2308823529412
+26-05-2025,2025,5,May,Plant A,Furnace 2,Plate,Shift B,61,76,O8,45803Plate75.7294117647059
+19-03-2025,2025,3,Mar,Plant B,Induction Furnace 1,Ring,Shift A,60,75,O7,45735Ring75.2279411764706
+01-01-2025,2025,1,Jan,Plant B,Induction Furnace 2,Flange,Shift B,59,75,O1,45658Flange74.7264705882353
+15-03-2025,2025,3,Mar,Plant A,Holding Furnace,Shaft,Shift C,58,74,O2,45731Shaft74.225
+24-01-2025,2025,1,Jan,Plant B,Ladle Preheater,Coupling,Shift A,57,74,O3,45681Coupling73.7235294117647
+26-02-2025,2025,2,Feb,Plant A,Furnace 3,Pulley,Shift B,56,73,O4,45714Pulley73.2220588235294
+23-01-2025,2025,1,Jan,Plant B,Furnace 2,Gear Blank,Shift A,56,73,O5,45680Gear Blank72.7205882352941
+04-06-2025,2025,6,Jun,Plant B,Induction Furnace 1,Wheel Hub,Shift B,55,72,O6,45812Wheel Hub72.2191176470588
+14-03-2025,2025,3,Mar,Plant A,Induction Furnace 2,Plate,Shift B,54,72,O7,45730Plate71.7176470588235
+23-01-2025,2025,1,Jan,Plant B,Holding Furnace,Ring,Shift A,53,71,O8,45680Ring71.2161764705882
+19-04-2025,2025,4,Apr,Plant A,Ladle Preheater,Flange,Shift A,52,71,O2,45766Flange70.7147058823529
+19-03-2025,2025,3,Mar,Plant B,Furnace 3,Shaft,Shift C,52,70,O4,45735Shaft70.2132352941176
+15-04-2025,2025,4,Apr,Plant B,Furnace 2,Coupling,Shift B,51,70,O5,45762Coupling69.7117647058823
+26-05-2025,2025,5,May,Plant A,Induction Furnace 1,Pulley,Shift A,50,69,O3,45803Pulley69.2102941176471
+19-03-2025,2025,3,Mar,Plant B,Induction Furnace 2,Gear Blank,Shift C,49,69,O8,45735Gear Blank68.7088235294118
+01-01-2025,2025,1,Jan,Plant A,Holding Furnace,Wheel Hub,Shift C,48,68,O7,45658Wheel Hub68.2073529411765
+15-03-2025,2025,3,Mar,Plant B,Ladle Preheater,Plate,Shift B,48,68,O1,45731Plate67.7058823529412
+24-01-2025,2025,1,Jan,Plant B,Furnace 3,Ring,Shift A,47,67,O2,45681Ring67.2044117647059
+26-02-2025,2025,2,Feb,Plant A,Furnace 2,Flange,Shift B,46,67,O3,45714Flange66.7029411764706
+23-01-2025,2025,1,Jan,Plant B,Induction Furnace 1,Shaft,Shift C,45,66,O4,45680Shaft66.2014705882353
+04-06-2025,2025,6,Jun,Plant A,Induction Furnace 2,Coupling,Shift A,44,66,O5,45812Coupling65.7
+14-03-2025,2025,3,Mar,Plant B,Holding Furnace,Pulley,Shift B,44,65,O6,45730Pulley65.1985294117647
+23-01-2025,2025,1,Jan,Plant B,Ladle Preheater,Gear Blank,Shift A,43,65,O7,45680Gear Blank64.6970588235294
+19-04-2025,2025,4,Apr,Plant A,Furnace 3,Wheel Hub,Shift B,42,64,O8,45766Wheel Hub64.1955882352941
+19-03-2025,2025,3,Mar,Plant B,Furnace 2,Plate,Shift B,41,64,O2,45735Plate63.6941176470588
+15-04-2025,2025,4,Apr,Plant A,Induction Furnace 1,Ring,Shift A,40,63,O4,45762Ring63.1926470588235
+26-05-2025,2025,5,May,Plant B,Induction Furnace 2,Flange,Shift A,39,63,O5,45803Flange62.6911764705882
+19-03-2025,2025,3,Mar,Plant B,Holding Furnace,Shaft,Shift C,39,62,O3,45735Shaft62.1897058823529
+01-01-2025,2025,1,Jan,Plant A,Ladle Preheater,Coupling,Shift B,38,62,O8,45658Coupling61.6882352941176
+15-03-2025,2025,3,Mar,Plant B,Furnace 3,Pulley,Shift A,37,61,O7,45731Pulley61.1867647058824
+24-01-2025,2025,1,Jan,Plant A,Furnace 2,Gear Blank,Shift C,36,61,O1,45681Gear Blank60.6852941176471
+26-02-2025,2025,2,Feb,Plant B,Induction Furnace 1,Wheel Hub,Shift C,35,60,O2,45714Wheel Hub60.1838235294118
+23-01-2025,2025,1,Jan,Plant B,Induction Furnace 2,Plate,Shift B,35,60,O3,45680Plate59.6823529411765
+04-06-2025,2025,6,Jun,Plant A,Holding Furnace,Ring,Shift A,34,59,O4,45812Ring59.1808823529412
+14-03-2025,2025,3,Mar,Plant B,Ladle Preheater,Flange,Shift B,33,59,O5,45730Flange58.6794117647059
+23-01-2025,2025,1,Jan,Plant A,Furnace 3,Shaft,Shift C,32,58,O6,45680Shaft58.1779411764706
+19-04-2025,2025,4,Apr,Plant B,Furnace 2,Coupling,Shift A,31,58,O7,45766Coupling57.6764705882353
+19-03-2025,2025,3,Mar,Plant B,Induction Furnace 1,Pulley,Shift B,31,57,O8,45735Pulley57.175
+15-04-2025,2025,4,Apr,Plant A,Induction Furnace 2,Gear Blank,Shift A,30,57,O2,45762Gear Blank56.6735294117647
+26-05-2025,2025,5,May,Plant B,Holding Furnace,Wheel Hub,Shift B,29,56,O4,45803Wheel Hub56.1720588235294
+19-03-2025,2025,3,Mar,Plant A,Ladle Preheater,Plate,Shift B,28,56,O5,45735Plate55.6705882352941
+01-01-2025,2025,1,Jan,Plant B,Furnace 3,Ring,Shift A,27,55,O3,45658Ring55.1691176470588
+15-03-2025,2025,3,Mar,Plant B,Furnace 2,Flange,Shift A,26,55,O8,45731Flange54.6676470588235
+24-01-2025,2025,1,Jan,Plant A,Induction Furnace 1,Shaft,Shift C,26,54,O7,45681Shaft54.1661764705882
+26-02-2025,2025,2,Feb,Plant B,Induction Furnace 2,Coupling,Shift B,25,54,O1,45714Coupling53.6647058823529
+23-01-2025,2025,1,Jan,Plant A,Holding Furnace,Pulley,Shift A,24,53,O2,45680Pulley53.1632352941176
+04-06-2025,2025,6,Jun,Plant B,Ladle Preheater,Gear Blank,Shift C,23,53,O3,45812Gear Blank52.6617647058823
+14-03-2025,2025,3,Mar,Plant B,Furnace 3,Wheel Hub,Shift C,22,52,O4,45730Wheel Hub52.1602941176471
+23-01-2025,2025,1,Jan,Plant A,Furnace 2,Plate,Shift B,22,52,O5,45680Plate51.6588235294118
+19-04-2025,2025,4,Apr,Plant B,Induction Furnace 1,Ring,Shift A,21,51,O6,45766Ring51.1573529411765
+19-03-2025,2025,3,Mar,Plant A,Induction Furnace 2,Flange,Shift B,20,51,O7,45735Flange50.6558823529412
+15-04-2025,2025,4,Apr,Plant B,Holding Furnace,Shaft,Shift C,19,50,O8,45762Shaft50.1544117647059
+26-05-2025,2025,5,May,Plant B,Ladle Preheater,Coupling,Shift A,18,50,O2,45803Coupling49.6529411764706
+19-03-2025,2025,3,Mar,Plant A,Furnace 3,Pulley,Shift B,18,49,O4,45735Pulley49.1514705882353
+01-01-2025,2025,1,Jan,Plant B,Furnace 2,Gear Blank,Shift A,17,49,O5,45658Gear Blank48.65
+15-03-2025,2025,3,Mar,Plant A,Induction Furnace 1,Wheel Hub,Shift B,16,48,O3,45731Wheel Hub48.1485294117647
+24-01-2025,2025,1,Jan,Plant B,Induction Furnace 2,Plate,Shift B,15,48,O8,45681Plate47.6470588235294
+26-02-2025,2025,2,Feb,Plant B,Holding Furnace,Ring,Shift A,14,47,O7,45714Ring47.1455882352941
+23-01-2025,2025,1,Jan,Plant A,Ladle Preheater,Flange,Shift A,14,47,O1,45680Flange46.6441176470588
+04-06-2025,2025,6,Jun,Plant B,Furnace 3,Shaft,Shift C,13,46,O2,45812Shaft46.1426470588235
+14-03-2025,2025,3,Mar,Plant A,Furnace 2,Coupling,Shift B,12,46,O3,45730Coupling45.6411764705882
+23-01-2025,2025,1,Jan,Plant B,Induction Furnace 1,Pulley,Shift A,11,45,O4,45680Pulley45.1397058823529
+19-04-2025,2025,4,Apr,Plant B,Induction Furnace 2,Gear Blank,Shift C,10,45,O5,45766Gear Blank44.6382352941176
+19-03-2025,2025,3,Mar,Plant A,Holding Furnace,Wheel Hub,Shift C,9,44,O6,45735Wheel Hub44.1367647058823

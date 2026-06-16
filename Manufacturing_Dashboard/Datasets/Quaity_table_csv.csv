@@ -1,0 +1,1113 @@
+﻿Date,Product,Produced_Qty,Defective_Qty,Operator,Machine
+13-06-2025,Disc,96,0,O1,Furnace 1
+20-05-2025,Cover,84,1,O2,Shot Blast
+24-01-2025,Housing,88,5,O3,Furnace 2
+18-04-2025,Disc,74,13,O4,Mould Line 2
+28-06-2025,Disc,101,3,O5,Mould Line 1
+24-01-2025,Disc,115,8,O6,Furnace 1
+09-03-2025,Housing,67,1,O7,Mould Line 2
+08-06-2025,Bracket,77,7,O8,Shot Blast
+12-01-2025,Housing,77,7,O2,Mould Line 1
+04-04-2025,Disc,104,3,O4,Mould Line 1
+29-06-2025,Bracket,100,9,O5,Shot Blast
+13-06-2025,Housing,90,8,O3,Mould Line 1
+22-03-2025,Housing,122,6,O8,Mould Line 1
+17-06-2025,Cover,89,10,O7,Mould Line 2
+05-02-2025,Disc,105,2,O1,Shot Blast
+03-04-2025,Cover,88,3,O2,Furnace 2
+29-01-2025,Cover,73,8,O3,Furnace 2
+30-04-2025,Housing,95,7,O4,Shot Blast
+24-06-2025,Housing,107,2,O5,Mould Line 1
+09-03-2025,Housing,99,7,O6,Shot Blast
+13-06-2025,Disc,135,10,O7,Furnace 2
+01-01-2025,Housing,96,10,O8,Mould Line 2
+20-03-2025,Bracket,94,2,O2,Furnace 1
+18-01-2025,Cover,95,1,O4,Furnace 2
+09-03-2025,Bracket,86,2,O5,Furnace 2
+06-04-2025,Cover,103,6,O3,Shot Blast
+27-02-2025,Housing,115,10,O8,Mould Line 1
+19-01-2025,Housing,107,11,O7,Furnace 2
+19-01-2025,Cover,129,5,O1,Mould Line 1
+27-05-2025,Cover,109,9,O2,Furnace 2
+25-01-2025,Disc,90,11,O3,Mould Line 2
+22-06-2025,Cover,104,7,O4,Furnace 1
+28-01-2025,Bracket,112,2,O5,Furnace 2
+29-04-2025,Cover,90,6,O6,Furnace 1
+13-01-2025,Bracket,99,10,O7,Furnace 1
+13-04-2025,Cover,104,0,O8,Furnace 2
+09-03-2025,Cover,108,1,O2,Mould Line 1
+18-02-2025,Housing,104,9,O4,Furnace 2
+16-01-2025,Housing,90,0,O5,Furnace 1
+10-02-2025,Housing,83,3,O3,Shot Blast
+02-06-2025,Cover,116,0,O8,Furnace 2
+08-06-2025,Disc,106,1,O7,Mould Line 2
+21-06-2025,Disc,84,11,O1,Furnace 2
+22-03-2025,Cover,108,5,O2,Furnace 1
+26-01-2025,Bracket,102,9,O3,Shot Blast
+18-01-2025,Disc,114,6,O4,Mould Line 1
+20-05-2025,Housing,110,8,O5,Shot Blast
+04-02-2025,Housing,129,3,O6,Furnace 1
+09-02-2025,Bracket,105,2,O7,Mould Line 1
+09-03-2025,Housing,133,3,O8,Mould Line 1
+19-04-2025,Housing,82,0,O2,Furnace 1
+24-04-2025,Housing,78,8,O4,Shot Blast
+26-06-2025,Housing,106,6,O5,Shot Blast
+11-01-2025,Housing,89,5,O3,Mould Line 1
+24-06-2025,Disc,122,1,O8,Furnace 1
+02-03-2025,Cover,88,5,O7,Furnace 2
+27-03-2025,Disc,83,11,O1,Furnace 2
+01-05-2025,Cover,100,6,O2,Furnace 2
+28-02-2025,Bracket,100,0,O3,Furnace 1
+13-03-2025,Cover,117,1,O4,Shot Blast
+26-03-2025,Disc,124,3,O5,Furnace 1
+28-01-2025,Disc,116,3,O6,Mould Line 1
+11-05-2025,Bracket,81,4,O7,Mould Line 2
+18-05-2025,Cover,100,7,O8,Mould Line 1
+09-06-2025,Disc,94,10,O2,Furnace 1
+28-06-2025,Bracket,98,1,O4,Shot Blast
+20-06-2025,Disc,119,0,O5,Furnace 2
+23-02-2025,Disc,100,1,O3,Shot Blast
+24-04-2025,Cover,85,1,O8,Shot Blast
+19-06-2025,Bracket,92,1,O7,Furnace 1
+27-02-2025,Housing,108,0,O1,Furnace 2
+19-01-2025,Bracket,102,11,O2,Mould Line 2
+07-05-2025,Bracket,95,7,O3,Furnace 2
+28-01-2025,Bracket,100,10,O4,Furnace 2
+29-04-2025,Bracket,116,0,O5,Shot Blast
+16-05-2025,Cover,116,6,O6,Mould Line 2
+10-02-2025,Disc,117,6,O7,Mould Line 2
+05-05-2025,Cover,115,6,O8,Mould Line 1
+02-03-2025,Disc,89,9,O2,Mould Line 1
+27-06-2025,Housing,111,0,O4,Furnace 2
+26-03-2025,Housing,92,3,O5,Mould Line 2
+28-06-2025,Cover,90,1,O3,Shot Blast
+01-04-2025,Cover,120,9,O8,Mould Line 2
+05-05-2025,Cover,60,6,O7,Mould Line 1
+10-04-2025,Bracket,100,3,O1,Mould Line 2
+11-04-2025,Cover,107,2,O2,Furnace 1
+16-02-2025,Cover,84,10,O3,Mould Line 1
+08-04-2025,Disc,112,8,O4,Mould Line 2
+05-01-2025,Bracket,86,4,O5,Mould Line 1
+08-01-2025,Housing,74,5,O6,Furnace 2
+03-03-2025,Housing,85,3,O7,Mould Line 2
+05-04-2025,Housing,100,5,O8,Shot Blast
+28-01-2025,Cover,105,3,O2,Mould Line 1
+10-06-2025,Disc,125,7,O4,Furnace 1
+31-01-2025,Cover,116,5,O5,Mould Line 1
+04-01-2025,Housing,109,4,O3,Mould Line 2
+12-06-2025,Cover,120,1,O8,Furnace 2
+18-05-2025,Cover,115,3,O7,Mould Line 2
+10-03-2025,Housing,108,3,O1,Furnace 2
+06-06-2025,Housing,111,7,O2,Mould Line 1
+16-02-2025,Disc,98,6,O3,Furnace 2
+12-03-2025,Bracket,108,0,O4,Shot Blast
+15-04-2025,Bracket,102,1,O5,Shot Blast
+05-01-2025,Bracket,85,3,O6,Mould Line 1
+20-03-2025,Disc,107,0,O7,Mould Line 2
+11-03-2025,Bracket,105,2,O8,Mould Line 1
+22-03-2025,Bracket,92,2,O2,Shot Blast
+31-05-2025,Bracket,85,3,O4,Furnace 1
+03-04-2025,Housing,116,4,O5,Mould Line 1
+14-01-2025,Cover,82,10,O3,Furnace 2
+27-05-2025,Cover,102,1,O8,Mould Line 2
+03-05-2025,Cover,86,7,O7,Furnace 1
+28-05-2025,Bracket,105,5,O1,Furnace 2
+23-05-2025,Bracket,107,8,O2,Shot Blast
+26-04-2025,Cover,106,11,O3,Mould Line 1
+26-01-2025,Disc,75,2,O4,Furnace 2
+10-02-2025,Housing,67,6,O5,Furnace 2
+01-05-2025,Bracket,106,9,O6,Furnace 1
+29-06-2025,Bracket,104,0,O7,Furnace 1
+20-02-2025,Bracket,79,8,O8,Furnace 1
+10-03-2025,Housing,83,3,O2,Furnace 1
+15-03-2025,Cover,88,2,O4,Furnace 1
+29-06-2025,Cover,67,1,O5,Mould Line 1
+24-03-2025,Housing,103,8,O3,Furnace 1
+31-05-2025,Housing,99,8,O8,Mould Line 1
+13-03-2025,Cover,109,5,O7,Shot Blast
+24-01-2025,Cover,90,7,O1,Mould Line 1
+26-03-2025,Disc,87,6,O2,Mould Line 2
+21-05-2025,Housing,84,3,O3,Mould Line 2
+14-04-2025,Cover,106,3,O4,Shot Blast
+18-02-2025,Cover,108,6,O5,Shot Blast
+21-05-2025,Cover,104,5,O6,Mould Line 1
+01-02-2025,Bracket,89,1,O7,Shot Blast
+15-04-2025,Housing,88,5,O8,Furnace 2
+15-06-2025,Disc,87,8,O2,Mould Line 2
+01-05-2025,Bracket,97,7,O4,Mould Line 2
+03-06-2025,Disc,111,5,O5,Furnace 1
+01-01-2025,Cover,103,6,O3,Mould Line 1
+18-05-2025,Disc,97,3,O8,Mould Line 1
+18-02-2025,Cover,122,1,O7,Shot Blast
+12-01-2025,Cover,86,4,O1,Mould Line 2
+09-05-2025,Cover,113,1,O2,Furnace 1
+27-04-2025,Cover,104,3,O3,Furnace 2
+09-03-2025,Cover,92,5,O4,Shot Blast
+26-03-2025,Cover,76,10,O5,Mould Line 1
+25-06-2025,Housing,81,9,O6,Furnace 2
+12-06-2025,Bracket,101,4,O7,Mould Line 2
+15-01-2025,Disc,87,6,O8,Mould Line 1
+04-03-2025,Bracket,108,10,O2,Shot Blast
+08-06-2025,Bracket,118,6,O4,Mould Line 2
+13-06-2025,Disc,89,11,O5,Mould Line 2
+15-03-2025,Cover,110,8,O3,Furnace 1
+18-03-2025,Cover,111,7,O8,Mould Line 1
+28-01-2025,Disc,97,3,O7,Mould Line 2
+29-06-2025,Cover,66,7,O1,Furnace 1
+13-01-2025,Bracket,95,2,O2,Mould Line 1
+26-02-2025,Disc,73,0,O3,Shot Blast
+15-06-2025,Cover,101,3,O4,Mould Line 1
+04-04-2025,Disc,108,6,O5,Furnace 1
+19-05-2025,Disc,100,9,O6,Shot Blast
+04-05-2025,Housing,100,2,O7,Mould Line 1
+23-06-2025,Disc,125,10,O8,Shot Blast
+04-01-2025,Housing,96,3,O2,Shot Blast
+30-05-2025,Housing,80,6,O4,Mould Line 1
+01-05-2025,Disc,85,5,O5,Shot Blast
+29-04-2025,Housing,70,4,O3,Mould Line 2
+10-01-2025,Housing,99,2,O8,Mould Line 2
+27-04-2025,Cover,85,2,O7,Shot Blast
+17-04-2025,Cover,79,6,O1,Mould Line 2
+24-04-2025,Housing,96,4,O2,Mould Line 1
+20-05-2025,Cover,115,0,O3,Furnace 1
+27-04-2025,Housing,96,5,O4,Furnace 2
+04-03-2025,Bracket,116,1,O5,Shot Blast
+01-03-2025,Housing,95,1,O6,Furnace 2
+03-02-2025,Housing,87,3,O7,Furnace 2
+02-03-2025,Bracket,89,11,O8,Furnace 1
+02-02-2025,Housing,66,4,O2,Shot Blast
+12-05-2025,Bracket,84,10,O4,Mould Line 2
+18-06-2025,Housing,116,0,O5,Mould Line 2
+28-01-2025,Housing,91,6,O3,Mould Line 2
+05-06-2025,Bracket,110,5,O8,Furnace 1
+25-03-2025,Disc,102,7,O7,Shot Blast
+04-06-2025,Housing,113,1,O1,Furnace 1
+26-04-2025,Disc,98,4,O2,Mould Line 2
+17-04-2025,Cover,91,3,O3,Mould Line 1
+02-05-2025,Housing,111,6,O4,Furnace 1
+25-01-2025,Housing,101,9,O5,Furnace 2
+16-04-2025,Housing,112,0,O6,Mould Line 2
+21-03-2025,Bracket,110,8,O7,Furnace 1
+23-05-2025,Disc,98,11,O8,Furnace 1
+20-04-2025,Disc,88,8,O2,Shot Blast
+28-03-2025,Bracket,132,1,O4,Furnace 1
+18-06-2025,Bracket,124,7,O5,Furnace 1
+16-05-2025,Cover,100,8,O3,Mould Line 2
+10-02-2025,Disc,120,1,O8,Mould Line 1
+10-02-2025,Disc,108,5,O7,Furnace 1
+05-05-2025,Disc,120,0,O1,Mould Line 2
+14-03-2025,Disc,100,2,O2,Shot Blast
+12-04-2025,Bracket,94,7,O3,Furnace 1
+16-03-2025,Housing,90,10,O4,Furnace 1
+14-02-2025,Bracket,124,7,O5,Mould Line 2
+19-01-2025,Cover,93,0,O6,Furnace 1
+20-01-2025,Cover,102,4,O7,Shot Blast
+30-01-2025,Disc,108,1,O8,Furnace 1
+28-04-2025,Cover,85,4,O2,Furnace 1
+21-01-2025,Disc,104,2,O4,Mould Line 1
+13-02-2025,Housing,117,10,O5,Shot Blast
+31-03-2025,Housing,112,0,O3,Furnace 2
+20-02-2025,Bracket,91,4,O8,Shot Blast
+07-05-2025,Cover,131,0,O7,Shot Blast
+14-06-2025,Bracket,70,3,O1,Mould Line 1
+12-03-2025,Housing,111,3,O2,Mould Line 1
+26-04-2025,Disc,67,6,O3,Furnace 1
+24-01-2025,Housing,94,3,O4,Mould Line 2
+16-06-2025,Cover,99,1,O5,Mould Line 1
+29-03-2025,Bracket,92,2,O6,Shot Blast
+23-04-2025,Bracket,111,1,O7,Shot Blast
+28-03-2025,Housing,81,10,O8,Mould Line 1
+23-05-2025,Disc,124,8,O2,Mould Line 1
+30-05-2025,Disc,98,3,O4,Mould Line 1
+03-02-2025,Cover,106,5,O5,Mould Line 1
+25-06-2025,Disc,89,5,O3,Mould Line 2
+21-03-2025,Disc,92,7,O8,Furnace 2
+20-01-2025,Housing,106,4,O7,Furnace 1
+08-06-2025,Cover,96,1,O1,Shot Blast
+09-06-2025,Housing,116,7,O2,Mould Line 2
+23-06-2025,Disc,108,1,O3,Mould Line 2
+01-05-2025,Cover,105,11,O4,Mould Line 1
+08-04-2025,Bracket,90,2,O5,Furnace 2
+04-05-2025,Housing,110,10,O6,Shot Blast
+01-02-2025,Bracket,112,0,O7,Furnace 1
+22-04-2025,Cover,77,8,O8,Furnace 2
+17-04-2025,Disc,113,9,O2,Mould Line 2
+08-01-2025,Disc,87,1,O4,Furnace 1
+10-01-2025,Bracket,109,6,O5,Mould Line 2
+21-01-2025,Bracket,115,2,O3,Mould Line 1
+05-06-2025,Disc,104,3,O8,Furnace 1
+13-06-2025,Housing,123,0,O7,Furnace 1
+18-05-2025,Bracket,88,5,O1,Shot Blast
+01-04-2025,Cover,85,0,O2,Shot Blast
+15-05-2025,Housing,119,4,O3,Furnace 1
+06-04-2025,Disc,104,11,O4,Furnace 1
+03-03-2025,Disc,76,3,O5,Shot Blast
+14-06-2025,Cover,98,10,O6,Mould Line 2
+04-02-2025,Housing,98,6,O7,Mould Line 2
+11-01-2025,Cover,111,7,O8,Mould Line 1
+06-03-2025,Disc,88,7,O2,Furnace 2
+01-02-2025,Cover,101,2,O4,Mould Line 2
+09-04-2025,Cover,98,2,O5,Furnace 2
+10-03-2025,Housing,131,8,O3,Mould Line 2
+16-02-2025,Housing,95,7,O8,Mould Line 1
+04-06-2025,Cover,100,3,O7,Furnace 2
+11-01-2025,Cover,144,3,O1,Shot Blast
+20-01-2025,Bracket,85,7,O2,Mould Line 1
+05-06-2025,Bracket,96,7,O3,Furnace 1
+09-04-2025,Bracket,98,6,O4,Shot Blast
+05-04-2025,Housing,78,6,O5,Mould Line 2
+16-06-2025,Housing,89,2,O6,Furnace 2
+08-05-2025,Housing,94,6,O7,Shot Blast
+06-06-2025,Bracket,81,4,O8,Mould Line 2
+19-01-2025,Cover,92,2,O2,Furnace 2
+21-05-2025,Bracket,106,4,O4,Mould Line 1
+14-02-2025,Bracket,93,8,O5,Shot Blast
+07-05-2025,Disc,107,5,O3,Mould Line 1
+03-02-2025,Disc,93,2,O8,Furnace 1
+28-05-2025,Disc,81,5,O7,Furnace 2
+26-04-2025,Disc,110,6,O1,Shot Blast
+03-02-2025,Housing,108,7,O2,Shot Blast
+09-02-2025,Bracket,80,0,O3,Furnace 2
+14-03-2025,Bracket,134,9,O4,Mould Line 1
+12-03-2025,Housing,78,6,O5,Mould Line 1
+13-02-2025,Housing,77,7,O6,Shot Blast
+12-01-2025,Cover,140,0,O7,Furnace 2
+20-05-2025,Cover,108,6,O8,Mould Line 1
+18-03-2025,Housing,98,0,O2,Furnace 1
+29-03-2025,Disc,107,10,O4,Mould Line 1
+13-04-2025,Housing,87,7,O5,Mould Line 1
+05-03-2025,Housing,105,3,O3,Furnace 1
+07-06-2025,Bracket,114,1,O8,Furnace 2
+10-02-2025,Cover,92,9,O7,Shot Blast
+08-05-2025,Cover,115,6,O1,Furnace 1
+01-04-2025,Disc,116,4,O2,Furnace 1
+17-06-2025,Housing,112,4,O3,Mould Line 1
+04-04-2025,Housing,88,5,O4,Mould Line 1
+26-05-2025,Disc,87,3,O5,Mould Line 1
+13-03-2025,Housing,102,2,O6,Furnace 2
+28-03-2025,Bracket,109,1,O7,Furnace 2
+10-01-2025,Cover,110,6,O8,Mould Line 1
+08-02-2025,Disc,121,6,O2,Mould Line 1
+18-03-2025,Cover,115,2,O4,Shot Blast
+18-03-2025,Disc,100,2,O5,Furnace 1
+26-06-2025,Cover,115,9,O3,Shot Blast
+28-05-2025,Cover,103,0,O8,Furnace 1
+08-04-2025,Housing,76,6,O7,Furnace 2
+18-02-2025,Disc,83,10,O1,Mould Line 2
+09-05-2025,Bracket,96,1,O2,Furnace 1
+24-05-2025,Cover,79,1,O3,Mould Line 2
+20-05-2025,Cover,98,3,O4,Mould Line 1
+13-03-2025,Disc,88,1,O5,Furnace 2
+03-05-2025,Disc,76,0,O6,Shot Blast
+27-05-2025,Disc,122,3,O7,Mould Line 2
+21-01-2025,Disc,116,9,O8,Mould Line 2
+24-02-2025,Disc,105,7,O2,Shot Blast
+31-05-2025,Housing,123,6,O4,Furnace 2
+27-02-2025,Housing,100,5,O5,Furnace 1
+05-02-2025,Bracket,105,5,O3,Shot Blast
+03-05-2025,Disc,86,9,O8,Mould Line 1
+27-05-2025,Housing,103,5,O7,Shot Blast
+15-02-2025,Cover,98,6,O1,Mould Line 2
+26-05-2025,Disc,113,1,O2,Mould Line 1
+15-05-2025,Cover,95,11,O3,Furnace 2
+28-04-2025,Housing,92,9,O4,Furnace 2
+17-03-2025,Cover,107,6,O5,Furnace 2
+25-01-2025,Cover,103,5,O6,Furnace 2
+02-01-2025,Bracket,105,0,O7,Mould Line 2
+27-05-2025,Disc,92,7,O8,Mould Line 1
+16-01-2025,Disc,96,6,O2,Mould Line 2
+21-03-2025,Disc,73,6,O4,Mould Line 1
+26-02-2025,Bracket,107,2,O5,Mould Line 2
+01-05-2025,Housing,119,7,O3,Furnace 2
+16-05-2025,Housing,120,10,O8,Furnace 1
+18-05-2025,Disc,104,7,O7,Furnace 2
+30-01-2025,Cover,108,8,O1,Shot Blast
+03-02-2025,Housing,110,2,O2,Mould Line 2
+22-06-2025,Cover,79,6,O3,Furnace 1
+12-01-2025,Housing,69,5,O4,Mould Line 1
+18-01-2025,Disc,93,4,O5,Furnace 1
+15-06-2025,Cover,87,10,O6,Mould Line 1
+07-04-2025,Bracket,125,8,O7,Shot Blast
+11-04-2025,Housing,120,5,O8,Furnace 2
+29-04-2025,Cover,89,5,O2,Shot Blast
+18-02-2025,Cover,82,10,O4,Furnace 1
+03-03-2025,Housing,67,3,O5,Furnace 1
+13-01-2025,Cover,98,4,O3,Furnace 1
+19-05-2025,Bracket,100,5,O8,Furnace 1
+28-05-2025,Disc,121,1,O7,Shot Blast
+06-02-2025,Disc,70,5,O1,Mould Line 2
+14-02-2025,Cover,97,0,O2,Shot Blast
+14-06-2025,Disc,98,6,O3,Shot Blast
+17-02-2025,Bracket,93,5,O4,Furnace 2
+29-04-2025,Cover,105,10,O5,Shot Blast
+07-03-2025,Housing,101,6,O6,Mould Line 1
+24-01-2025,Disc,101,2,O7,Furnace 1
+18-02-2025,Bracket,86,10,O8,Mould Line 2
+04-01-2025,Housing,123,4,O2,Furnace 2
+22-02-2025,Disc,96,5,O4,Furnace 2
+30-04-2025,Disc,120,7,O5,Mould Line 1
+01-05-2025,Disc,98,4,O3,Furnace 2
+12-01-2025,Housing,127,5,O8,Furnace 2
+17-04-2025,Bracket,88,11,O7,Furnace 2
+08-04-2025,Disc,125,12,O1,Mould Line 2
+06-05-2025,Disc,85,6,O2,Furnace 2
+20-05-2025,Housing,84,6,O3,Furnace 2
+21-06-2025,Cover,116,7,O4,Furnace 1
+01-03-2025,Housing,108,1,O5,Furnace 2
+13-06-2025,Housing,114,3,O6,Mould Line 2
+22-05-2025,Housing,88,2,O7,Furnace 1
+09-05-2025,Housing,111,11,O8,Furnace 2
+08-02-2025,Disc,98,2,O2,Furnace 2
+14-04-2025,Bracket,90,7,O4,Shot Blast
+18-03-2025,Housing,95,3,O5,Furnace 1
+13-06-2025,Housing,114,9,O3,Furnace 2
+15-06-2025,Housing,84,6,O8,Shot Blast
+27-06-2025,Housing,118,0,O7,Mould Line 1
+20-05-2025,Disc,78,2,O1,Furnace 2
+12-04-2025,Bracket,86,10,O2,Mould Line 1
+26-05-2025,Disc,91,6,O3,Shot Blast
+21-01-2025,Housing,79,3,O4,Furnace 1
+20-01-2025,Cover,69,2,O5,Shot Blast
+26-04-2025,Disc,90,11,O6,Furnace 2
+21-04-2025,Cover,116,7,O7,Shot Blast
+19-01-2025,Bracket,127,7,O8,Mould Line 1
+09-02-2025,Disc,93,1,O2,Mould Line 1
+03-04-2025,Bracket,91,10,O4,Furnace 1
+21-04-2025,Cover,91,7,O5,Shot Blast
+02-06-2025,Housing,112,9,O3,Mould Line 2
+10-04-2025,Bracket,117,10,O8,Shot Blast
+05-02-2025,Disc,97,2,O7,Mould Line 1
+17-01-2025,Disc,95,2,O1,Mould Line 2
+06-03-2025,Bracket,86,8,O2,Mould Line 2
+04-02-2025,Cover,104,1,O3,Furnace 1
+23-04-2025,Bracket,113,2,O4,Mould Line 2
+04-06-2025,Disc,113,5,O5,Mould Line 2
+27-06-2025,Bracket,102,3,O6,Shot Blast
+13-03-2025,Housing,81,4,O7,Mould Line 1
+24-06-2025,Bracket,91,4,O8,Mould Line 2
+27-06-2025,Cover,117,0,O2,Mould Line 2
+09-02-2025,Housing,125,4,O4,Mould Line 2
+03-05-2025,Cover,84,7,O5,Shot Blast
+18-05-2025,Bracket,92,5,O3,Furnace 1
+12-02-2025,Cover,110,1,O8,Shot Blast
+26-02-2025,Disc,111,0,O7,Mould Line 2
+23-06-2025,Housing,79,3,O1,Mould Line 1
+22-01-2025,Disc,122,5,O2,Furnace 2
+27-04-2025,Cover,123,9,O3,Shot Blast
+26-04-2025,Disc,96,4,O4,Furnace 1
+06-01-2025,Bracket,82,2,O5,Furnace 1
+26-03-2025,Bracket,118,4,O6,Mould Line 2
+17-02-2025,Cover,127,11,O7,Mould Line 2
+20-04-2025,Bracket,89,4,O8,Furnace 1
+17-01-2025,Bracket,101,5,O2,Shot Blast
+21-06-2025,Disc,108,2,O4,Shot Blast
+06-06-2025,Housing,109,0,O5,Shot Blast
+22-06-2025,Housing,76,4,O3,Shot Blast
+22-03-2025,Disc,87,8,O8,Furnace 2
+10-04-2025,Bracket,107,1,O7,Shot Blast
+19-04-2025,Bracket,84,4,O1,Mould Line 2
+22-03-2025,Housing,80,0,O2,Shot Blast
+05-05-2025,Cover,106,6,O3,Furnace 2
+06-05-2025,Cover,76,8,O4,Mould Line 2
+25-05-2025,Disc,98,5,O5,Furnace 2
+28-04-2025,Housing,95,4,O6,Shot Blast
+10-03-2025,Housing,78,0,O7,Shot Blast
+27-01-2025,Housing,87,12,O8,Mould Line 1
+31-03-2025,Housing,97,8,O2,Mould Line 2
+31-03-2025,Bracket,80,9,O4,Furnace 2
+16-01-2025,Disc,127,2,O5,Shot Blast
+16-03-2025,Disc,110,6,O3,Shot Blast
+04-02-2025,Disc,86,5,O8,Furnace 1
+07-02-2025,Cover,83,7,O7,Furnace 2
+28-05-2025,Cover,70,7,O1,Mould Line 2
+24-01-2025,Disc,87,6,O2,Shot Blast
+27-04-2025,Housing,83,1,O3,Mould Line 1
+20-06-2025,Cover,96,5,O4,Furnace 1
+24-02-2025,Disc,95,3,O5,Mould Line 1
+05-05-2025,Housing,118,0,O6,Furnace 1
+28-04-2025,Bracket,134,7,O7,Furnace 1
+21-02-2025,Bracket,85,8,O8,Mould Line 1
+17-06-2025,Housing,103,8,O2,Mould Line 1
+29-06-2025,Housing,90,0,O4,Mould Line 2
+01-01-2025,Housing,119,11,O5,Mould Line 2
+03-01-2025,Housing,102,8,O3,Mould Line 1
+03-05-2025,Cover,93,10,O8,Furnace 2
+18-03-2025,Bracket,94,7,O7,Mould Line 2
+18-01-2025,Bracket,99,1,O1,Shot Blast
+08-02-2025,Cover,71,5,O2,Shot Blast
+26-01-2025,Cover,104,6,O3,Furnace 1
+12-03-2025,Disc,86,5,O4,Furnace 2
+18-06-2025,Bracket,104,8,O5,Furnace 2
+03-03-2025,Housing,114,7,O6,Mould Line 2
+13-06-2025,Housing,113,0,O7,Shot Blast
+26-05-2025,Bracket,98,4,O8,Mould Line 1
+05-01-2025,Disc,103,7,O2,Furnace 1
+12-04-2025,Cover,93,5,O4,Shot Blast
+22-01-2025,Housing,78,4,O5,Mould Line 1
+09-02-2025,Housing,106,5,O3,Mould Line 2
+03-03-2025,Housing,73,0,O8,Furnace 2
+21-03-2025,Housing,91,3,O7,Furnace 1
+29-06-2025,Cover,94,1,O1,Furnace 2
+08-03-2025,Bracket,94,4,O2,Mould Line 1
+31-01-2025,Cover,127,5,O3,Mould Line 1
+28-05-2025,Cover,109,2,O4,Mould Line 2
+15-01-2025,Bracket,89,7,O5,Shot Blast
+27-05-2025,Housing,84,2,O6,Furnace 2
+04-03-2025,Disc,99,5,O7,Mould Line 2
+10-01-2025,Disc,128,4,O8,Furnace 2
+23-03-2025,Disc,110,6,O2,Furnace 1
+27-02-2025,Housing,95,3,O4,Mould Line 2
+21-03-2025,Cover,106,6,O5,Furnace 1
+19-03-2025,Disc,123,10,O3,Mould Line 2
+20-02-2025,Housing,81,6,O8,Furnace 2
+27-06-2025,Housing,113,1,O7,Mould Line 1
+20-03-2025,Bracket,137,2,O1,Furnace 2
+06-02-2025,Housing,106,10,O2,Furnace 1
+16-04-2025,Housing,71,5,O3,Mould Line 2
+11-04-2025,Housing,87,7,O4,Shot Blast
+02-03-2025,Disc,96,1,O5,Mould Line 1
+20-01-2025,Housing,93,2,O6,Furnace 2
+12-02-2025,Disc,61,4,O7,Mould Line 2
+23-02-2025,Cover,81,3,O8,Mould Line 1
+24-01-2025,Housing,109,7,O2,Mould Line 1
+02-04-2025,Housing,111,2,O4,Shot Blast
+08-03-2025,Cover,114,6,O5,Furnace 1
+29-04-2025,Housing,75,2,O3,Furnace 2
+26-02-2025,Cover,123,3,O8,Furnace 2
+31-05-2025,Housing,90,6,O7,Furnace 1
+15-06-2025,Housing,97,10,O1,Furnace 2
+13-02-2025,Cover,106,6,O2,Mould Line 2
+24-06-2025,Disc,89,6,O3,Furnace 2
+08-02-2025,Bracket,108,1,O4,Shot Blast
+08-05-2025,Cover,83,5,O5,Shot Blast
+21-02-2025,Housing,107,0,O6,Shot Blast
+03-05-2025,Disc,100,0,O7,Mould Line 1
+26-02-2025,Housing,120,4,O8,Mould Line 1
+02-04-2025,Housing,93,9,O2,Furnace 2
+15-01-2025,Cover,109,4,O4,Shot Blast
+15-02-2025,Disc,104,4,O5,Shot Blast
+29-06-2025,Bracket,90,0,O3,Shot Blast
+07-05-2025,Cover,97,5,O8,Furnace 2
+06-01-2025,Disc,96,4,O7,Furnace 1
+03-02-2025,Disc,90,1,O1,Furnace 2
+06-02-2025,Disc,115,3,O2,Shot Blast
+19-06-2025,Housing,86,1,O3,Shot Blast
+22-04-2025,Bracket,139,7,O4,Mould Line 1
+27-06-2025,Bracket,98,2,O5,Furnace 2
+15-02-2025,Cover,73,4,O6,Shot Blast
+16-02-2025,Bracket,125,5,O7,Shot Blast
+26-03-2025,Disc,97,6,O8,Furnace 2
+12-06-2025,Cover,99,8,O2,Mould Line 1
+31-03-2025,Housing,118,4,O4,Furnace 1
+23-04-2025,Cover,98,0,O5,Furnace 2
+03-05-2025,Cover,89,11,O3,Furnace 2
+17-03-2025,Disc,72,10,O8,Mould Line 1
+11-02-2025,Housing,135,7,O7,Shot Blast
+07-06-2025,Cover,81,6,O1,Furnace 1
+14-01-2025,Bracket,99,2,O2,Mould Line 1
+28-06-2025,Disc,98,3,O3,Mould Line 1
+06-05-2025,Disc,110,12,O4,Furnace 1
+23-01-2025,Cover,92,8,O5,Shot Blast
+16-03-2025,Housing,105,3,O6,Mould Line 2
+01-05-2025,Housing,106,1,O7,Mould Line 1
+08-04-2025,Cover,102,3,O8,Furnace 2
+23-04-2025,Bracket,131,2,O2,Mould Line 1
+20-06-2025,Disc,112,0,O4,Furnace 1
+31-05-2025,Housing,102,3,O5,Shot Blast
+02-05-2025,Disc,111,5,O3,Mould Line 2
+09-01-2025,Cover,107,1,O8,Furnace 1
+02-02-2025,Housing,103,2,O7,Mould Line 2
+21-02-2025,Disc,94,0,O1,Shot Blast
+22-05-2025,Cover,125,5,O2,Mould Line 1
+31-05-2025,Cover,76,4,O3,Furnace 1
+26-01-2025,Housing,108,11,O4,Shot Blast
+30-03-2025,Cover,100,10,O5,Mould Line 1
+14-02-2025,Bracket,113,7,O6,Mould Line 2
+24-06-2025,Cover,105,3,O7,Furnace 1
+10-03-2025,Disc,102,7,O8,Furnace 1
+13-03-2025,Bracket,109,2,O2,Furnace 1
+24-03-2025,Housing,106,2,O4,Mould Line 2
+24-02-2025,Disc,112,2,O5,Mould Line 2
+10-05-2025,Housing,88,11,O3,Furnace 2
+21-02-2025,Housing,96,4,O8,Furnace 2
+12-03-2025,Cover,79,6,O7,Mould Line 2
+24-06-2025,Disc,94,2,O1,Furnace 2
+02-05-2025,Bracket,93,7,O2,Mould Line 1
+14-03-2025,Housing,117,2,O3,Mould Line 2
+26-02-2025,Disc,99,6,O4,Furnace 2
+12-05-2025,Cover,89,0,O5,Furnace 1
+06-03-2025,Cover,101,3,O6,Mould Line 1
+28-04-2025,Cover,117,0,O7,Furnace 2
+27-01-2025,Disc,109,5,O8,Shot Blast
+05-06-2025,Housing,79,7,O2,Mould Line 1
+25-03-2025,Disc,95,2,O4,Mould Line 1
+13-05-2025,Cover,93,2,O5,Furnace 1
+17-06-2025,Disc,90,4,O3,Mould Line 1
+10-04-2025,Bracket,88,0,O8,Shot Blast
+02-05-2025,Disc,101,6,O7,Shot Blast
+16-02-2025,Cover,94,3,O1,Furnace 1
+16-02-2025,Bracket,81,6,O2,Furnace 1
+20-03-2025,Disc,111,4,O3,Mould Line 1
+01-05-2025,Housing,110,11,O4,Shot Blast
+09-05-2025,Disc,86,1,O5,Mould Line 2
+21-02-2025,Cover,95,5,O6,Mould Line 2
+16-02-2025,Disc,89,5,O7,Mould Line 2
+26-04-2025,Bracket,93,2,O8,Furnace 2
+06-05-2025,Cover,85,5,O2,Furnace 2
+09-04-2025,Bracket,117,6,O4,Furnace 1
+04-01-2025,Bracket,74,4,O5,Shot Blast
+27-06-2025,Bracket,98,7,O3,Mould Line 1
+09-05-2025,Housing,109,4,O8,Furnace 2
+14-05-2025,Bracket,107,2,O7,Mould Line 2
+02-04-2025,Cover,98,2,O1,Furnace 2
+24-02-2025,Bracket,131,7,O2,Shot Blast
+16-06-2025,Disc,149,6,O3,Mould Line 2
+19-06-2025,Housing,96,5,O4,Furnace 1
+17-04-2025,Housing,90,6,O5,Mould Line 2
+27-06-2025,Cover,86,6,O6,Mould Line 1
+19-06-2025,Bracket,72,10,O7,Shot Blast
+14-03-2025,Cover,116,10,O8,Furnace 1
+21-02-2025,Bracket,105,8,O2,Shot Blast
+08-05-2025,Disc,82,8,O4,Mould Line 2
+04-01-2025,Cover,85,6,O5,Furnace 1
+26-01-2025,Cover,92,1,O3,Furnace 2
+29-04-2025,Bracket,88,3,O8,Furnace 1
+20-04-2025,Housing,99,7,O7,Furnace 1
+19-06-2025,Disc,117,5,O1,Mould Line 1
+06-04-2025,Housing,121,7,O2,Furnace 2
+27-04-2025,Cover,101,3,O3,Mould Line 2
+16-01-2025,Cover,120,2,O4,Furnace 1
+26-05-2025,Cover,133,0,O5,Furnace 2
+03-02-2025,Housing,110,0,O6,Mould Line 2
+12-01-2025,Disc,114,9,O7,Mould Line 1
+25-05-2025,Housing,81,9,O8,Mould Line 1
+04-05-2025,Bracket,132,5,O2,Mould Line 2
+10-02-2025,Bracket,115,1,O4,Mould Line 2
+24-03-2025,Disc,114,2,O5,Mould Line 1
+14-04-2025,Cover,130,8,O3,Furnace 1
+25-04-2025,Cover,103,6,O8,Mould Line 2
+05-01-2025,Cover,112,10,O7,Mould Line 2
+21-05-2025,Disc,118,1,O1,Furnace 1
+29-03-2025,Bracket,115,10,O2,Furnace 1
+24-05-2025,Cover,86,2,O3,Mould Line 1
+29-03-2025,Disc,78,6,O4,Mould Line 1
+12-01-2025,Bracket,116,4,O5,Mould Line 2
+18-02-2025,Bracket,100,3,O6,Mould Line 2
+28-03-2025,Housing,132,1,O7,Mould Line 2
+28-04-2025,Housing,97,2,O8,Mould Line 2
+22-05-2025,Cover,88,0,O2,Shot Blast
+02-02-2025,Disc,98,8,O4,Mould Line 2
+18-04-2025,Cover,92,11,O5,Mould Line 1
+16-04-2025,Disc,116,6,O3,Shot Blast
+11-06-2025,Bracket,89,5,O8,Furnace 2
+03-02-2025,Disc,66,5,O7,Shot Blast
+01-04-2025,Cover,109,5,O1,Shot Blast
+04-01-2025,Cover,101,5,O2,Furnace 1
+21-06-2025,Disc,95,5,O3,Furnace 2
+16-01-2025,Housing,102,5,O4,Furnace 2
+27-01-2025,Cover,115,5,O5,Shot Blast
+15-03-2025,Cover,82,5,O6,Mould Line 2
+22-05-2025,Disc,132,5,O7,Furnace 1
+24-04-2025,Bracket,77,5,O8,Mould Line 1
+17-03-2025,Housing,90,5,O2,Furnace 2
+11-01-2025,Disc,84,5,O4,Mould Line 1
+30-05-2025,Disc,111,4,O5,Furnace 1
+02-06-2025,Disc,121,4,O3,Shot Blast
+21-05-2025,Disc,105,4,O8,Furnace 1
+10-05-2025,Cover,98,4,O7,Mould Line 2
+26-02-2025,Disc,101,4,O1,Mould Line 1
+16-05-2025,Housing,118,4,O2,Shot Blast
+25-04-2025,Bracket,86,4,O3,Shot Blast
+30-01-2025,Disc,125,4,O4,Mould Line 1
+06-04-2025,Housing,90,4,O5,Mould Line 2
+25-01-2025,Housing,87,4,O6,Shot Blast
+23-02-2025,Housing,123,4,O7,Mould Line 2
+22-04-2025,Housing,82,4,O8,Furnace 2
+10-01-2025,Housing,83,4,O2,Furnace 1
+28-02-2025,Cover,115,4,O4,Mould Line 2
+14-04-2025,Housing,73,4,O5,Mould Line 1
+08-06-2025,Housing,80,4,O3,Shot Blast
+02-04-2025,Disc,80,4,O8,Mould Line 1
+08-04-2025,Cover,136,4,O7,Furnace 1
+26-02-2025,Disc,82,4,O1,Mould Line 2
+15-06-2025,Bracket,101,4,O2,Furnace 1
+02-01-2025,Housing,92,4,O3,Shot Blast
+30-03-2025,Bracket,69,4,O4,Mould Line 2
+26-02-2025,Housing,127,4,O5,Furnace 2
+21-05-2025,Housing,68,4,O6,Shot Blast
+06-03-2025,Cover,112,4,O7,Furnace 2
+26-01-2025,Housing,110,4,O8,Shot Blast
+05-05-2025,Disc,124,4,O2,Mould Line 1
+22-03-2025,Housing,105,4,O4,Furnace 2
+26-02-2025,Disc,109,4,O5,Mould Line 1
+02-04-2025,Housing,110,4,O3,Mould Line 2
+21-01-2025,Bracket,123,4,O8,Furnace 2
+05-01-2025,Cover,94,4,O7,Shot Blast
+10-01-2025,Cover,84,4,O1,Shot Blast
+31-05-2025,Cover,117,4,O2,Furnace 2
+24-01-2025,Housing,105,4,O3,Mould Line 1
+07-06-2025,Bracket,75,4,O4,Shot Blast
+15-02-2025,Disc,94,4,O5,Mould Line 2
+09-03-2025,Housing,85,4,O6,Furnace 2
+13-05-2025,Cover,96,3,O7,Mould Line 2
+27-01-2025,Bracket,107,3,O8,Mould Line 1
+04-04-2025,Disc,84,3,O2,Shot Blast
+30-03-2025,Housing,87,3,O4,Mould Line 2
+23-04-2025,Housing,98,3,O5,Furnace 2
+03-04-2025,Cover,93,3,O3,Furnace 2
+04-05-2025,Bracket,83,3,O8,Mould Line 2
+04-03-2025,Bracket,111,3,O7,Furnace 2
+12-05-2025,Bracket,89,3,O1,Shot Blast
+14-04-2025,Housing,114,3,O2,Mould Line 1
+05-06-2025,Bracket,91,3,O3,Mould Line 2
+16-02-2025,Disc,107,3,O4,Furnace 2
+01-06-2025,Cover,93,3,O5,Furnace 2
+10-05-2025,Housing,114,3,O6,Furnace 2
+07-06-2025,Housing,98,3,O7,Shot Blast
+19-05-2025,Cover,63,3,O8,Mould Line 2
+28-06-2025,Cover,88,3,O2,Furnace 2
+28-06-2025,Bracket,101,3,O4,Mould Line 2
+01-03-2025,Cover,108,3,O5,Mould Line 1
+02-01-2025,Housing,93,3,O3,Shot Blast
+26-06-2025,Disc,77,3,O8,Mould Line 2
+08-03-2025,Disc,102,3,O7,Shot Blast
+24-06-2025,Cover,105,7,O1,Furnace 2
+23-05-2025,Disc,103,3,O2,Mould Line 1
+12-04-2025,Bracket,99,7,O3,Furnace 1
+28-03-2025,Cover,87,2,O4,Furnace 2
+24-01-2025,Cover,83,2,O5,Mould Line 2
+05-06-2025,Cover,122,2,O6,Mould Line 2
+15-03-2025,Cover,84,11,O7,Furnace 2
+13-05-2025,Housing,125,4,O8,Furnace 2
+13-05-2025,Bracket,72,6,O2,Shot Blast
+10-02-2025,Cover,116,2,O4,Mould Line 1
+14-04-2025,Housing,95,7,O5,Shot Blast
+24-05-2025,Disc,111,2,O3,Mould Line 1
+19-02-2025,Housing,87,6,O8,Mould Line 2
+19-01-2025,Housing,98,0,O7,Mould Line 1
+18-05-2025,Cover,112,3,O1,Mould Line 2
+28-04-2025,Housing,70,0,O2,Shot Blast
+08-03-2025,Bracket,97,2,O3,Mould Line 2
+01-04-2025,Bracket,75,5,O4,Mould Line 1
+13-04-2025,Bracket,87,4,O5,Furnace 1
+10-03-2025,Cover,108,6,O6,Furnace 2
+02-03-2025,Bracket,101,3,O7,Mould Line 1
+02-04-2025,Housing,94,6,O8,Furnace 1
+07-06-2025,Housing,94,10,O2,Shot Blast
+28-05-2025,Bracket,88,6,O4,Mould Line 2
+12-04-2025,Bracket,116,1,O5,Shot Blast
+19-05-2025,Disc,80,2,O3,Shot Blast
+28-04-2025,Cover,86,10,O8,Shot Blast
+29-05-2025,Disc,96,5,O7,Mould Line 1
+17-02-2025,Disc,115,7,O1,Furnace 2
+19-04-2025,Disc,110,1,O2,Mould Line 2
+13-03-2025,Bracket,100,2,O3,Furnace 2
+02-03-2025,Bracket,74,4,O4,Mould Line 2
+02-05-2025,Cover,107,3,O5,Furnace 2
+13-05-2025,Disc,114,7,O6,Mould Line 2
+26-05-2025,Housing,107,2,O7,Mould Line 2
+02-05-2025,Disc,109,6,O8,Mould Line 2
+03-04-2025,Housing,78,2,O2,Mould Line 1
+05-06-2025,Bracket,114,3,O4,Shot Blast
+25-03-2025,Housing,115,6,O5,Mould Line 2
+07-02-2025,Cover,132,10,O3,Mould Line 1
+27-05-2025,Housing,102,6,O8,Furnace 1
+16-03-2025,Cover,116,6,O7,Shot Blast
+03-04-2025,Bracket,86,1,O1,Mould Line 2
+06-03-2025,Bracket,91,5,O2,Furnace 2
+25-01-2025,Housing,72,0,O3,Mould Line 2
+27-01-2025,Bracket,99,0,O4,Shot Blast
+21-03-2025,Disc,128,4,O5,Furnace 2
+13-02-2025,Disc,118,9,O6,Furnace 1
+30-04-2025,Cover,119,4,O7,Shot Blast
+11-06-2025,Disc,122,4,O8,Shot Blast
+19-05-2025,Cover,98,0,O2,Furnace 1
+03-01-2025,Bracket,101,5,O4,Shot Blast
+01-05-2025,Cover,81,4,O5,Mould Line 2
+02-06-2025,Disc,88,1,O3,Furnace 1
+24-05-2025,Bracket,107,3,O8,Mould Line 2
+21-01-2025,Disc,107,1,O7,Furnace 2
+10-03-2025,Housing,84,7,O1,Furnace 2
+08-06-2025,Cover,113,2,O2,Mould Line 1
+05-01-2025,Housing,84,4,O3,Furnace 1
+23-04-2025,Housing,85,5,O4,Furnace 2
+07-05-2025,Cover,122,6,O5,Mould Line 1
+09-01-2025,Bracket,96,8,O6,Furnace 1
+11-04-2025,Cover,98,4,O7,Shot Blast
+08-04-2025,Bracket,103,0,O8,Furnace 1
+05-03-2025,Cover,57,11,O2,Furnace 2
+02-05-2025,Disc,116,10,O4,Mould Line 1
+11-01-2025,Cover,105,7,O5,Mould Line 1
+20-06-2025,Bracket,126,6,O3,Furnace 1
+25-03-2025,Disc,81,2,O8,Furnace 2
+11-01-2025,Bracket,89,3,O7,Shot Blast
+05-03-2025,Housing,105,12,O1,Mould Line 2
+10-06-2025,Disc,111,8,O2,Furnace 1
+29-06-2025,Cover,117,3,O3,Furnace 2
+30-03-2025,Housing,101,1,O4,Furnace 2
+02-04-2025,Housing,96,3,O5,Mould Line 1
+06-05-2025,Bracket,97,2,O6,Shot Blast
+24-03-2025,Bracket,117,0,O7,Mould Line 1
+09-03-2025,Housing,118,3,O8,Mould Line 2
+08-04-2025,Disc,93,5,O2,Furnace 1
+18-05-2025,Cover,92,1,O4,Furnace 2
+06-06-2025,Cover,109,2,O5,Mould Line 1
+18-01-2025,Bracket,99,0,O3,Furnace 2
+28-01-2025,Housing,109,5,O8,Furnace 2
+06-05-2025,Disc,110,4,O7,Furnace 1
+19-01-2025,Cover,110,11,O1,Furnace 2
+23-05-2025,Housing,93,10,O2,Mould Line 1
+16-05-2025,Disc,97,7,O3,Furnace 1
+01-03-2025,Bracket,93,3,O4,Furnace 2
+26-05-2025,Cover,87,7,O5,Shot Blast
+22-06-2025,Housing,77,2,O6,Mould Line 2
+21-05-2025,Disc,76,5,O7,Shot Blast
+01-04-2025,Disc,103,4,O8,Shot Blast
+12-06-2025,Bracket,117,6,O2,Mould Line 1
+07-03-2025,Cover,96,3,O4,Mould Line 2
+09-01-2025,Housing,96,6,O5,Shot Blast
+18-03-2025,Disc,96,10,O3,Furnace 2
+22-05-2025,Housing,106,6,O8,Furnace 1
+30-05-2025,Disc,91,1,O7,Furnace 2
+27-05-2025,Bracket,81,2,O1,Shot Blast
+14-02-2025,Housing,81,10,O2,Shot Blast
+10-01-2025,Housing,109,5,O3,Furnace 1
+31-01-2025,Housing,112,7,O4,Shot Blast
+08-04-2025,Housing,105,1,O5,Mould Line 1
+28-06-2025,Housing,101,2,O6,Furnace 2
+25-04-2025,Cover,110,4,O7,Furnace 2
+02-05-2025,Cover,92,3,O8,Shot Blast
+13-04-2025,Bracket,118,7,O2,Furnace 2
+27-05-2025,Bracket,93,2,O4,Shot Blast
+10-03-2025,Housing,97,6,O5,Mould Line 1
+24-03-2025,Housing,94,2,O3,Shot Blast
+31-03-2025,Bracket,88,3,O8,Shot Blast
+25-06-2025,Housing,79,6,O7,Furnace 2
+04-03-2025,Housing,83,10,O1,Mould Line 1
+26-03-2025,Bracket,124,6,O2,Shot Blast
+14-05-2025,Cover,83,6,O3,Shot Blast
+07-04-2025,Bracket,84,1,O4,Mould Line 1
+21-02-2025,Cover,93,5,O5,Furnace 1
+19-06-2025,Housing,109,0,O6,Furnace 1
+01-03-2025,Housing,119,0,O7,Shot Blast
+17-02-2025,Cover,71,4,O8,Shot Blast
+11-01-2025,Disc,106,9,O2,Shot Blast
+30-03-2025,Disc,115,4,O4,Mould Line 1
+12-03-2025,Cover,121,4,O5,Mould Line 1
+29-03-2025,Housing,101,0,O3,Furnace 2
+14-05-2025,Bracket,81,5,O8,Mould Line 2
+04-06-2025,Bracket,91,4,O7,Mould Line 2
+29-05-2025,Disc,121,1,O1,Furnace 2
+07-02-2025,Housing,108,3,O2,Mould Line 1
+31-01-2025,Bracket,82,1,O3,Mould Line 1
+16-04-2025,Cover,99,7,O4,Mould Line 1
+12-03-2025,Housing,119,2,O5,Furnace 2
+07-06-2025,Bracket,98,4,O6,Shot Blast
+01-03-2025,Housing,122,5,O7,Mould Line 1
+01-05-2025,Cover,124,6,O8,Furnace 2
+05-02-2025,Bracket,106,8,O2,Furnace 2
+11-03-2025,Bracket,82,4,O4,Furnace 2
+15-02-2025,Cover,114,0,O5,Shot Blast
+20-04-2025,Cover,84,11,O3,Furnace 1
+11-04-2025,Housing,110,10,O8,Shot Blast
+04-03-2025,Cover,117,7,O7,Furnace 1
+13-01-2025,Cover,100,6,O1,Mould Line 1
+12-02-2025,Housing,104,2,O2,Mould Line 1
+06-02-2025,Housing,125,3,O3,Mould Line 2
+28-06-2025,Cover,119,12,O4,Mould Line 2
+07-01-2025,Bracket,84,8,O5,Mould Line 2
+11-02-2025,Housing,123,3,O6,Furnace 1
+12-06-2025,Cover,107,1,O7,Furnace 1
+21-05-2025,Bracket,112,3,O8,Furnace 1
+18-06-2025,Bracket,75,2,O2,Furnace 2
+25-04-2025,Housing,96,0,O4,Furnace 2
+01-01-2025,Cover,109,3,O5,Furnace 1
+07-05-2025,Cover,105,5,O3,Furnace 2
+24-04-2025,Housing,112,1,O8,Shot Blast
+23-02-2025,Bracket,115,2,O7,Furnace 2
+10-01-2025,Disc,94,0,O1,Furnace 1
+15-02-2025,Bracket,120,5,O2,Mould Line 1
+03-04-2025,Disc,117,4,O3,Furnace 1
+20-04-2025,Cover,75,11,O4,Mould Line 1
+27-06-2025,Cover,88,10,O5,Mould Line 1
+28-01-2025,Disc,105,7,O6,Mould Line 2
+23-03-2025,Disc,107,3,O7,Shot Blast
+11-06-2025,Bracket,89,7,O8,Mould Line 2
+16-03-2025,Housing,105,2,O2,Furnace 1
+23-02-2025,Housing,98,5,O4,Mould Line 2
+24-05-2025,Bracket,97,4,O5,Furnace 1
+18-03-2025,Housing,104,6,O3,Furnace 1
+29-03-2025,Housing,87,3,O8,Shot Blast
+22-06-2025,Housing,95,6,O7,Mould Line 2
+04-05-2025,Disc,109,10,O1,Mould Line 2
+14-05-2025,Disc,112,6,O2,Shot Blast
+05-01-2025,Disc,91,1,O3,Shot Blast
+08-01-2025,Bracket,116,2,O4,Mould Line 2
+10-04-2025,Housing,98,10,O5,Shot Blast
+23-01-2025,Disc,91,5,O6,Furnace 2
+25-02-2025,Housing,85,7,O7,Furnace 2
+24-04-2025,Bracket,79,1,O8,Mould Line 2
+04-05-2025,Bracket,110,2,O2,Mould Line 1
+10-01-2025,Housing,94,4,O4,Mould Line 2
+12-01-2025,Cover,71,3,O5,Mould Line 1
+21-03-2025,Disc,91,7,O3,Shot Blast
+24-03-2025,Disc,109,2,O8,Furnace 2
+31-01-2025,Bracket,96,6,O7,Furnace 2
+04-01-2025,Disc,96,2,O1,Furnace 2
+14-03-2025,Housing,142,3,O2,Furnace 2
+28-03-2025,Bracket,112,6,O3,Furnace 1
+09-04-2025,Cover,89,10,O4,Furnace 1
+02-06-2025,Disc,107,6,O5,Shot Blast
+21-06-2025,Bracket,94,6,O6,Mould Line 2
+25-01-2025,Cover,99,1,O7,Mould Line 1
+07-06-2025,Cover,99,5,O8,Mould Line 1
+25-03-2025,Housing,118,0,O2,Mould Line 2
+13-02-2025,Bracket,93,0,O4,Mould Line 1
+14-04-2025,Housing,101,4,O5,Mould Line 1
+03-03-2025,Bracket,107,9,O3,Shot Blast
+17-01-2025,Cover,118,4,O8,Furnace 2
+02-03-2025,Cover,104,4,O7,Furnace 1
+02-06-2025,Housing,87,0,O1,Mould Line 1
+03-06-2025,Cover,120,5,O2,Shot Blast
+15-06-2025,Bracket,128,4,O3,Furnace 1
+01-01-2025,Cover,89,1,O4,Furnace 2
+10-04-2025,Bracket,94,3,O5,Furnace 2
+23-06-2025,Disc,133,1,O6,Mould Line 2
+03-01-2025,Disc,124,7,O7,Furnace 2
+01-01-2025,Disc,79,2,O8,Furnace 1
+21-04-2025,Cover,97,4,O2,Mould Line 1
+14-02-2025,Bracket,106,5,O4,Furnace 2
+03-04-2025,Disc,90,6,O5,Furnace 2
+05-01-2025,Cover,87,8,O3,Mould Line 2
+05-02-2025,Cover,80,4,O8,Mould Line 2
+26-04-2025,Bracket,109,0,O7,Mould Line 1
+04-06-2025,Cover,93,11,O1,Shot Blast
+20-05-2025,Housing,102,10,O2,Furnace 1
+05-04-2025,Cover,95,7,O3,Shot Blast
+13-03-2025,Housing,131,6,O4,Shot Blast
+23-01-2025,Housing,107,2,O5,Mould Line 2
+06-06-2025,Housing,105,3,O6,Mould Line 1
+12-05-2025,Disc,119,12,O7,Shot Blast
+16-03-2025,Disc,111,8,O8,Furnace 1
+08-03-2025,Bracket,78,3,O2,Mould Line 2
+09-06-2025,Cover,81,1,O4,Mould Line 1
+10-05-2025,Disc,115,3,O5,Mould Line 1
+04-01-2025,Bracket,108,2,O3,Shot Blast
+18-06-2025,Bracket,77,0,O8,Mould Line 1
+09-01-2025,Bracket,90,3,O7,Furnace 1
+07-05-2025,Bracket,107,5,O1,Mould Line 2
+28-05-2025,Disc,77,1,O2,Furnace 1
+12-02-2025,Cover,109,2,O3,Mould Line 2
+17-05-2025,Cover,79,0,O4,Mould Line 2
+07-02-2025,Disc,92,5,O5,Furnace 1
+24-06-2025,Disc,95,4,O6,Furnace 1
+16-06-2025,Disc,85,11,O7,Mould Line 1
+29-04-2025,Bracket,114,10,O8,Shot Blast
+23-06-2025,Housing,80,7,O2,Mould Line 1
+26-01-2025,Disc,96,3,O4,Mould Line 2
+06-03-2025,Housing,97,7,O5,Furnace 1
+25-02-2025,Housing,92,2,O3,Furnace 1
+07-04-2025,Bracket,75,5,O8,Furnace 1
+13-06-2025,Cover,104,4,O7,Mould Line 1
+07-03-2025,Disc,78,6,O1,Furnace 1
+08-03-2025,Cover,132,3,O2,Furnace 2
+21-02-2025,Cover,78,6,O3,Furnace 2
+07-06-2025,Disc,79,10,O4,Mould Line 2
+19-01-2025,Disc,85,6,O5,Shot Blast
+13-06-2025,Cover,85,1,O6,Furnace 1
+29-06-2025,Housing,100,2,O7,Mould Line 2
+18-01-2025,Cover,111,10,O8,Furnace 1
+01-02-2025,Disc,65,5,O2,Mould Line 1
+24-01-2025,Disc,90,7,O4,Shot Blast
+16-03-2025,Housing,88,1,O5,Furnace 2
+28-01-2025,Housing,117,2,O3,Mould Line 2
+18-02-2025,Bracket,117,4,O8,Furnace 1
+19-05-2025,Cover,91,3,O7,Mould Line 2
+28-03-2025,Housing,90,7,O1,Mould Line 1
+14-05-2025,Bracket,131,2,O2,Shot Blast
+01-03-2025,Bracket,58,6,O3,Furnace 1
+12-01-2025,Housing,124,2,O4,Furnace 2
+13-01-2025,Cover,91,3,O5,Furnace 1
+28-01-2025,Bracket,88,6,O6,Mould Line 2
+20-04-2025,Disc,107,10,O7,Mould Line 2
+24-02-2025,Bracket,81,6,O8,Shot Blast
+31-01-2025,Cover,92,6,O2,Furnace 2
+29-05-2025,Housing,115,1,O4,Furnace 2
+07-04-2025,Cover,102,5,O5,Furnace 1
+16-06-2025,Cover,89,0,O3,Mould Line 2
+22-02-2025,Cover,107,0,O8,Mould Line 1
+10-01-2025,Housing,93,4,O7,Mould Line 2
+31-03-2025,Bracket,114,9,O1,Furnace 1
+08-06-2025,Bracket,117,4,O2,Shot Blast
+18-06-2025,Housing,91,4,O3,Mould Line 1
+02-05-2025,Bracket,67,0,O4,Furnace 2
+14-01-2025,Bracket,86,5,O5,Mould Line 1
+27-04-2025,Housing,106,4,O6,Furnace 1
+10-02-2025,Housing,92,1,O7,Mould Line 2
+25-03-2025,Disc,73,3,O8,Furnace 2
+25-03-2025,Bracket,112,1,O2,Furnace 1
+26-02-2025,Cover,99,7,O4,Mould Line 2
+07-02-2025,Cover,96,2,O5,Shot Blast
+19-02-2025,Bracket,95,4,O3,Mould Line 1
+09-01-2025,Bracket,103,5,O8,Mould Line 1
+29-03-2025,Bracket,120,6,O7,Mould Line 1
+13-02-2025,Cover,115,8,O1,Furnace 1
+02-05-2025,Housing,101,4,O2,Mould Line 1
+05-03-2025,Cover,104,0,O3,Mould Line 1
+08-02-2025,Housing,101,11,O4,Mould Line 2
+10-05-2025,Cover,78,10,O5,Mould Line 2
+23-05-2025,Bracket,104,7,O6,Mould Line 2
+17-03-2025,Housing,104,6,O7,Furnace 1
+27-05-2025,Cover,114,2,O8,Mould Line 2
+17-02-2025,Housing,72,3,O2,Mould Line 2
+16-05-2025,Cover,129,12,O4,Mould Line 1
+19-05-2025,Disc,61,8,O5,Furnace 1
+04-04-2025,Cover,106,3,O3,Furnace 1
+08-06-2025,Disc,111,1,O8,Mould Line 1
+22-02-2025,Bracket,74,3,O7,Mould Line 1
+16-06-2025,Bracket,84,2,O1,Shot Blast
+09-05-2025,Housing,122,0,O2,Mould Line 1
+30-03-2025,Housing,108,3,O3,Mould Line 2
+16-03-2025,Disc,72,5,O4,Shot Blast
+18-02-2025,Housing,85,1,O5,Furnace 1
+28-01-2025,Housing,113,2,O6,Mould Line 1
+08-05-2025,Housing,118,0,O7,Furnace 2
+03-02-2025,Cover,78,5,O8,Mould Line 1
+16-03-2025,Housing,106,4,O2,Furnace 1
+29-03-2025,Cover,90,11,O4,Mould Line 2
+26-05-2025,Bracket,67,10,O5,Mould Line 1
+13-01-2025,Disc,92,7,O3,Mould Line 1
+08-06-2025,Disc,99,3,O8,Shot Blast
+20-06-2025,Bracket,68,7,O7,Furnace 2
+23-03-2025,Disc,95,2,O1,Mould Line 2
+20-06-2025,Bracket,123,5,O2,Mould Line 1
+19-05-2025,Disc,71,4,O3,Shot Blast
+07-02-2025,Bracket,120,6,O4,Mould Line 1
+10-05-2025,Cover,107,3,O5,Mould Line 1
+24-04-2025,Cover,72,6,O6,Furnace 1
+23-06-2025,Housing,124,10,O7,Mould Line 1
+24-01-2025,Bracket,103,6,O8,Furnace 1
+26-02-2025,Housing,122,1,O2,Furnace 2
+23-01-2025,Cover,105,2,O4,Furnace 2
+04-06-2025,Cover,100,10,O5,Mould Line 1
+14-03-2025,Disc,122,5,O3,Mould Line 1
+23-01-2025,Cover,106,7,O8,Mould Line 2
+19-04-2025,Housing,106,1,O7,Furnace 2
+19-03-2025,Disc,117,2,O1,Shot Blast
+15-04-2025,Bracket,104,4,O2,Mould Line 2
+26-05-2025,Bracket,95,3,O3,Furnace 2
+19-03-2025,Cover,80,7,O4,Mould Line 2
+01-01-2025,Disc,105,2,O5,Mould Line 1
+15-03-2025,Cover,97,6,O6,Furnace 2
+24-01-2025,Plate,100,2,O7,Furnace 2
+26-02-2025,Ring,99,3,O8,Induction Furnace 1
+23-01-2025,Flange,99,6,O2,Induction Furnace 2
+04-06-2025,Shaft,98,10,O4,Holding Furnace
+14-03-2025,Coupling,98,6,O5,Ladle Preheater
+23-01-2025,Pulley,97,6,O3,Furnace 3
+19-04-2025,Gear Blank,97,1,O8,Furnace 2
+19-03-2025,Wheel Hub,96,5,O7,Induction Furnace 1
+15-04-2025,Plate,96,0,O1,Induction Furnace 2
+26-05-2025,Ring,95,0,O2,Holding Furnace
+19-03-2025,Flange,95,4,O3,Ladle Preheater
+01-01-2025,Shaft,94,9,O4,Furnace 3
+15-03-2025,Coupling,94,4,O5,Furnace 2
+24-01-2025,Pulley,93,4,O6,Induction Furnace 1
+26-02-2025,Gear Blank,93,0,O7,Induction Furnace 2
+23-01-2025,Wheel Hub,92,5,O8,Holding Furnace
+04-06-2025,Plate,92,4,O2,Ladle Preheater
+14-03-2025,Ring,91,1,O4,Furnace 3
+23-01-2025,Flange,91,3,O5,Furnace 2
+19-04-2025,Shaft,90,1,O3,Induction Furnace 1
+19-03-2025,Coupling,90,7,O8,Induction Furnace 2
+15-04-2025,Pulley,89,2,O7,Holding Furnace
+26-05-2025,Gear Blank,89,4,O1,Ladle Preheater
+19-03-2025,Wheel Hub,88,5,O2,Furnace 3
+01-01-2025,Plate,88,6,O3,Furnace 2
+15-03-2025,Ring,87,8,O4,Induction Furnace 1
+24-01-2025,Flange,87,4,O5,Induction Furnace 2
+26-02-2025,Shaft,86,0,O6,Holding Furnace
+23-01-2025,Coupling,86,11,O7,Ladle Preheater
+04-06-2025,Pulley,85,10,O8,Furnace 3
+14-03-2025,Gear Blank,85,7,O2,Furnace 2
+23-01-2025,Wheel Hub,84,6,O4,Induction Furnace 1
+19-04-2025,Plate,84,2,O5,Induction Furnace 2
+19-03-2025,Ring,83,3,O3,Holding Furnace
+15-04-2025,Flange,83,12,O8,Ladle Preheater
+26-05-2025,Shaft,82,8,O7,Furnace 3
+19-03-2025,Coupling,82,3,O1,Furnace 2
+01-01-2025,Pulley,81,1,O2,Induction Furnace 1
+15-03-2025,Gear Blank,81,3,O3,Induction Furnace 2
+24-01-2025,Wheel Hub,80,2,O4,Holding Furnace
+26-02-2025,Plate,80,0,O5,Ladle Preheater
+23-01-2025,Ring,79,3,O6,Furnace 3
+04-06-2025,Flange,79,5,O7,Furnace 2
+14-03-2025,Shaft,78,1,O8,Induction Furnace 1
+23-01-2025,Coupling,78,2,O2,Induction Furnace 2
+19-04-2025,Pulley,77,0,O4,Holding Furnace
+19-03-2025,Gear Blank,77,5,O5,Ladle Preheater
+15-04-2025,Wheel Hub,76,4,O3,Furnace 3
+26-05-2025,Plate,76,11,O8,Furnace 2
+19-03-2025,Ring,75,10,O7,Induction Furnace 1
+01-01-2025,Flange,75,7,O1,Induction Furnace 2
+15-03-2025,Shaft,74,3,O2,Holding Furnace
+24-01-2025,Coupling,74,7,O3,Ladle Preheater
+26-02-2025,Pulley,73,2,O4,Furnace 3
+23-01-2025,Gear Blank,73,5,O5,Furnace 2
+04-06-2025,Wheel Hub,72,4,O6,Induction Furnace 1
+14-03-2025,Plate,72,6,O7,Induction Furnace 2
+23-01-2025,Ring,71,3,O8,Holding Furnace
+19-04-2025,Flange,71,6,O2,Ladle Preheater
+19-03-2025,Shaft,70,10,O4,Furnace 3
+15-04-2025,Coupling,70,6,O5,Furnace 2
+26-05-2025,Pulley,69,1,O3,Induction Furnace 1
+19-03-2025,Gear Blank,69,2,O8,Induction Furnace 2
+01-01-2025,Wheel Hub,68,10,O7,Holding Furnace
+15-03-2025,Plate,68,5,O1,Ladle Preheater
+24-01-2025,Ring,67,7,O2,Furnace 3
+26-02-2025,Flange,67,1,O3,Furnace 2
+23-01-2025,Shaft,66,2,O4,Induction Furnace 1
+04-06-2025,Coupling,66,4,O5,Induction Furnace 2
+14-03-2025,Pulley,65,3,O6,Holding Furnace
+23-01-2025,Gear Blank,65,7,O7,Ladle Preheater
+19-04-2025,Wheel Hub,64,2,O8,Furnace 3
+19-03-2025,Plate,64,6,O2,Furnace 2
+15-04-2025,Ring,63,2,O4,Induction Furnace 1
+26-05-2025,Flange,63,3,O5,Induction Furnace 2
+19-03-2025,Shaft,62,6,O3,Holding Furnace
+01-01-2025,Coupling,62,10,O8,Ladle Preheater
+15-03-2025,Pulley,61,6,O7,Furnace 3
+24-01-2025,Gear Blank,61,6,O1,Furnace 2
+26-02-2025,Wheel Hub,60,1,O2,Induction Furnace 1
+23-01-2025,Plate,60,5,O3,Induction Furnace 2
+04-06-2025,Ring,59,0,O4,Holding Furnace
+14-03-2025,Flange,59,0,O5,Ladle Preheater
+23-01-2025,Shaft,58,4,O6,Furnace 3
+19-04-2025,Coupling,58,9,O7,Furnace 2
+19-03-2025,Pulley,57,4,O8,Induction Furnace 1
+15-04-2025,Gear Blank,57,4,O2,Induction Furnace 2
+26-05-2025,Wheel Hub,56,0,O4,Holding Furnace
+19-03-2025,Plate,56,5,O5,Ladle Preheater
+01-01-2025,Ring,55,4,O3,Furnace 3
+15-03-2025,Flange,55,1,O8,Furnace 2
+24-01-2025,Shaft,54,3,O7,Induction Furnace 1
+26-02-2025,Coupling,54,1,O1,Induction Furnace 2
+23-01-2025,Pulley,53,7,O2,Holding Furnace
+04-06-2025,Gear Blank,53,2,O3,Ladle Preheater
+14-03-2025,Wheel Hub,52,4,O4,Furnace 3
+23-01-2025,Plate,52,5,O5,Furnace 2
+19-04-2025,Ring,51,6,O6,Induction Furnace 1
+19-03-2025,Flange,51,8,O7,Induction Furnace 2
+15-04-2025,Shaft,50,4,O8,Holding Furnace
+26-05-2025,Coupling,50,0,O2,Ladle Preheater
+19-03-2025,Pulley,49,11,O4,Furnace 3
+01-01-2025,Gear Blank,49,10,O5,Furnace 2
+15-03-2025,Wheel Hub,48,7,O3,Induction Furnace 1
+24-01-2025,Plate,48,6,O8,Induction Furnace 2
+26-02-2025,Ring,47,2,O7,Holding Furnace
+23-01-2025,Flange,47,3,O1,Ladle Preheater
+04-06-2025,Shaft,46,12,O2,Furnace 3
+14-03-2025,Coupling,46,8,O3,Furnace 2
+23-01-2025,Pulley,45,3,O4,Induction Furnace 1
+19-04-2025,Gear Blank,45,1,O5,Induction Furnace 2
+19-03-2025,Wheel Hub,44,3,O6,Holding Furnace
